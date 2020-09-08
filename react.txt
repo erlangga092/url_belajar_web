@@ -1,0 +1,146 @@
+electron with react
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.bitsrc.io%2Fbuilding-an-electron-app-with-electron-react-boilerplate-c7ef8d010a91%3Ffbclid%3DIwAR0ectVWvWfgFEUl-4jskjF0e80-WTsMmdhvKyZstLyEuoSM-v-pELWIPtE&h=AT3QU04niQ1UzBUInMLFOnYjNH8LuANdSDHm41t58pIf2EF7l7H9Y4vhc_Y5ei_Nf-8h9PrRTMEKoFJJo_wXYNnMjsKvlyRw9JJdV9VOscW_iQfXkJwh4uQm6-cxZdlPYfU&__tn__=-UK-R&c[0]=AT2K3qgVBJaFL-nvtG-1zRwEV7IDwuNZQ9OmCgC70zbU4dZXZ0U_J35MPLvmB6afgGC0Ml-BigbEr12GWkYb90c8ght-W8dEDKm4XaYdOeipcc1AiCeZ59CJzxSz33KP_U90MC5_ksVaDbmoJfnLrwdlBtLvJfvT8fXyRgCmz52GsBi7cqWlY1Mv7Gg
+
+redux toolkit untuk penggunaan redux
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.logrocket.com%2Fsmarter-redux-with-redux-toolkit%2F%3Ffbclid%3DIwAR0ectVWvWfgFEUl-4jskjF0e80-WTsMmdhvKyZstLyEuoSM-v-pELWIPtE&h=AT1Hvg8o0bkSIUGMFrGuafbRIAuFhzuwrHPxEcWNWmparDRMkRajimPFdoqxjgDaMjQAmG-l5KXHpqXif580emKz4namQJNWu3L0Px1_myIQDFbGOgFmHpNGPBpO-1dWQ7A&__tn__=-UK-R&c[0]=AT2K3qgVBJaFL-nvtG-1zRwEV7IDwuNZQ9OmCgC70zbU4dZXZ0U_J35MPLvmB6afgGC0Ml-BigbEr12GWkYb90c8ght-W8dEDKm4XaYdOeipcc1AiCeZ59CJzxSz33KP_U90MC5_ksVaDbmoJfnLrwdlBtLvJfvT8fXyRgCmz52GsBi7cqWlY1Mv7Gg
+
+deploy react node ke firebase hosting
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2Fhosting-your-react-js-and-node-js-apps-for-free-with-firebase-6dc670564aca%3Ffbclid%3DIwAR29Kl0ri0FAjfB_MeRLqaJtHgu9gNl4qTmm6DgzEPTqADtn-kPH79e6eyg&h=AT2JXPgzlXiCf82R_cDq1-yMT3908fhDSz8UhpBwOijKNfbX7w88WIHI24QIWRiLDK-8-Bqss1JuNfk1Mtupvqaq5s0tFyG_-jAQeFnsx6vFXc-ZhajuokN2eZmMAJFhbO8&__tn__=-UK-R&c[0]=AT2K3qgVBJaFL-nvtG-1zRwEV7IDwuNZQ9OmCgC70zbU4dZXZ0U_J35MPLvmB6afgGC0Ml-BigbEr12GWkYb90c8ght-W8dEDKm4XaYdOeipcc1AiCeZ59CJzxSz33KP_U90MC5_ksVaDbmoJfnLrwdlBtLvJfvT8fXyRgCmz52GsBi7cqWlY1Mv7Gg
+
+Latihan membuat fitur berganti tema dengan React js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2Fcreate-a-theme-switching-app-in-react-d848da151455%3Ffbclid%3DIwAR2scoFrphSf5-JBgIYvGrB36TtyX6N5wT9Vmm-E4tTPbMT7BNE4QnVbdzc&h=AT1pnA1AuL3E09avPch5sdTUW-U-Bv83V6fdm0PSfPjqMw2Ju6SBq96Ea7wurj2gRn6cnAQhTvUl1owb4v6b_lUJXYM6hJ2gGWrqDxbycRD0RAeSQ8wfY4omdTZjShK18eY&__tn__=-UK-R&c[0]=AT2K3qgVBJaFL-nvtG-1zRwEV7IDwuNZQ9OmCgC70zbU4dZXZ0U_J35MPLvmB6afgGC0Ml-BigbEr12GWkYb90c8ght-W8dEDKm4XaYdOeipcc1AiCeZ59CJzxSz33KP_U90MC5_ksVaDbmoJfnLrwdlBtLvJfvT8fXyRgCmz52GsBi7cqWlY1Mv7Gg
+
+Membuat aplikasi galeri foto luar angkasa NASA dengan react
+https://l.facebook.com/l.php?u=https%3A%2F%2Fscotch.io%2Ftutorials%2Fmake-a-stellar-react-nasa-app-in-10-minutes%3Ffbclid%3DIwAR3E4NBDDFy4GeKoYEVv4PZj43nvd3-KljLCK6iaNfj11ERD3dNYRUy7mcU&h=AT0wtivRovRMdXb_rugk5Dp-hDznKwvUZTZSMy5fSjmO5f_vfIvDVfwpdU13k-QoDbYHwEQhX2qa8yoKA4zv8z8xm79ZWTLSuBm3SdGfXOwBdrPzDO5tjvA-0GLfnf4evmQ&__tn__=-UK-R&c[0]=AT3LYwYr_sJxFwx44cotB33CKOnrq-gs-U14daWQ9FRLcHrv08yt-8W1_7MmwwF5tS_Xo2cFTcHajL3XFQ7fWdUCB5Twtt67GJAREQDCEUf0tRUpsZ9F78Wf5DXz6R-uxfTmGThrmxMMjfv6DSvi3uKalwYBidtX7UeCGsqv60f1AH5oB6ETwD6VYCDt
+
+Konfigurasi aplikasi react js dengan docker container
+https://l.facebook.com/l.php?u=https%3A%2F%2Fscotch.io%2Ftutorials%2Freact-docker-with-security-in-10-minutes%3Ffbclid%3DIwAR0SJ0IJu3HuLreU7a-TxyZFMwmzAY3AqgsOckFTTKCTgaUF6v4-rpnUPpI&h=AT05im6wRhPbQOYA0B4dRhBFxCz5UhFF8-hSzZtdNi1_KWEbapVScgKKBMZ2wTG9Gzx1q4Hu6o9qgQSfgsK73PVRdntiHPCpQNOMBvJ6X11R7sn4OlnQg8dWvSamZJKGPiY&__tn__=-UK-R&c[0]=AT3LYwYr_sJxFwx44cotB33CKOnrq-gs-U14daWQ9FRLcHrv08yt-8W1_7MmwwF5tS_Xo2cFTcHajL3XFQ7fWdUCB5Twtt67GJAREQDCEUf0tRUpsZ9F78Wf5DXz6R-uxfTmGThrmxMMjfv6DSvi3uKalwYBidtX7UeCGsqv60f1AH5oB6ETwD6VYCDt
+
+Optimasi gambar yang dikirim ke browser dengan gatsby image
+https://l.facebook.com/l.php?u=https%3A%2F%2Fscotch.io%2Ftutorials%2Fserving-remote-optimized-images-w-gatsby-image%3Ffbclid%3DIwAR2DTOCLLGvNqkC-SAUpwn5xkw6Cfpw4XkMdBapR_xcoSD9Gt1uvXycZWjQ&h=AT2wYShFwmFiRUoMoHdb30FI0DW9GcJ8ny87DBmvAEad0mgF5J3smL_BbPdd2CV_ei_3pobUvYXj73BjVTJamJpqSDus8lLAlg-3WUC1VrJyiMH-1Y9GDm5awxjBTinMytc&__tn__=-UK-R&c[0]=AT3LYwYr_sJxFwx44cotB33CKOnrq-gs-U14daWQ9FRLcHrv08yt-8W1_7MmwwF5tS_Xo2cFTcHajL3XFQ7fWdUCB5Twtt67GJAREQDCEUf0tRUpsZ9F78Wf5DXz6R-uxfTmGThrmxMMjfv6DSvi3uKalwYBidtX7UeCGsqv60f1AH5oB6ETwD6VYCDt
+
+--------------- 
+All about React
+React onScroll Effect
+https://dev.to/n8tb1t/tracking-scroll-position-with-react-hooks-3bbj
+
+Page transition dengan framer motion pada nextjs
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-add-interactive-animations-and-page-transitions-to-a-next-js-web-app-with-framer-motion%2F%3Ffbclid%3DIwAR03QtkEChM6KiOJ5t3wq90JAJyNcYfOS4gXiy3v81lCkJm1QPRfIg7CkdM&h=AT1oRePQ0Nkjj4RyqjuLXaiaYz6yh7nXygwYQXOBp_sgTzOFMBmAMeLilAbzA8wNFD63lrHVmtZ_itiX0OHVyUnjLPToUMwvjK5HKlUV8FNEutlDc1vnMhER9s-qNkmqBkg&__tn__=-UK-R&c[0]=AT26VmG-w7wTvWpToWzsdAbrhll5cRchqAC076L7lDCsQPTVc-jchuaHNV5ulibBQ15MjMrztsQDrg2oRr63bdb6sCgk79m_mx9x5U-3X4q6c5KDQ2kqVJO4VxoZjg9ts1aHl-2fs-zEDMg_cWWQXmf579JaALSRPnu9K9xAMl3ZHM-WS4O0MWyZs3K1CjyyZ6F1HIHn6cKswRJWNMA
+
+Latihan panjang membuat fitur pencarian seperti di Github dengan React Js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fbuild-a-clone-of-githubs-file-search-functionality%2F%3Ffbclid%3DIwAR38iyLL9L2q2B-4mU9GdtsNs_UJ_goeh8A3Dlegh9fiC5KY5IO0Hg3OJ-A&h=AT2bjZFRAlsOb8SuL6itGE7HwKSiAmkdFTaejgkn5smggaTJmM22FIM_1Nraq5xgH6LgLyHSu_li-nM16UMUR0o4HCCYxJe6CFAKw3gNEOb6mTsrpjVvspzlOireJxTsJDg&__tn__=-UK-R&c[0]=AT26VmG-w7wTvWpToWzsdAbrhll5cRchqAC076L7lDCsQPTVc-jchuaHNV5ulibBQ15MjMrztsQDrg2oRr63bdb6sCgk79m_mx9x5U-3X4q6c5KDQ2kqVJO4VxoZjg9ts1aHl-2fs-zEDMg_cWWQXmf579JaALSRPnu9K9xAMl3ZHM-WS4O0MWyZs3K1CjyyZ6F1HIHn6cKswRJWNMA
+
+Latihan membuat pemendek URL dengan React js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fthe_ghost_dev%2Fmern-url-shortener-app-part-2-5hfh%3Ffbclid%3DIwAR0DjvLtDB21te7KqHXSQVE2RjrejxcmdYSuD2xaH_FimLZ7y8dlHAhXCFs&h=AT23I2ciTmGPMCRucC1nGoQ60fkvjUNRMfK2D-EYBZ7XRcOusTe8C1EZUiEVB9v6wljAMhPGhLVWUpN003LE3R6L22JHQ-XSfWVq3ScISRG1VQgfotceWszgBr8p9EiSFfQ&__tn__=-UK-R&c[0]=AT26VmG-w7wTvWpToWzsdAbrhll5cRchqAC076L7lDCsQPTVc-jchuaHNV5ulibBQ15MjMrztsQDrg2oRr63bdb6sCgk79m_mx9x5U-3X4q6c5KDQ2kqVJO4VxoZjg9ts1aHl-2fs-zEDMg_cWWQXmf579JaALSRPnu9K9xAMl3ZHM-WS4O0MWyZs3K1CjyyZ6F1HIHn6cKswRJWNMA
+
+Cheatseet react typescript
+https://github.com/typescript-cheatsheets/react
+
+Membuat starter project dengan Next JS 
+https://www.freecodecamp.org/news/how-to-create-a-nextjs-starter-to-easily-bootstrap-a-new-react-app/
+---
+
+Latihan dasar membuat project React JS dengan membuat form sederhana dengan React Hooks
+https://www.freecodecamp.org/news/beginner-react-project-build-basic-forms-using-react-hooks/
+---
+
+Membuat form Sign In yang bernanimasi dengan React dan CSS
+https://dev.to/cooljasonmelton/build-this-cool-sign-in-form-with-react-and-css-10of
+---
+
+Latihan lengkap membuat aplikasi Todo List dengan MERN Stack
+https://www.freecodecamp.org/news/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb/
+---
+
+Membuat fungsi CRUD sederhana dengan Facebook Recoil 
+https://blog.logrocket.com/crud-with-facebook-recoil/
+---
+
+Latihan panjang menambahkan video YouTube Playlist ke dalam aplikasi web Next JS dengan YouTube API
+https://www.freecodecamp.org/news/how-to-add-a-youtube-playlist-to-a-nextjs-react-app-with-the-youtube-api/
+---
+Cara membuat form dengan React Hooks 
+https://www.freecodecamp.org/news/beginner-react-project-build-basic-forms-using-react-hooks/
+---
+Latihan panjang membuat blog dengan  Gatsby JS dari dasar
+https://blog.logrocket.com/creating-a-gatsby-blog-from-scratch/
+
+Latihan panjang membuat blog dengan Gatsby JS
+https://dev.to/suprabhasupi/how-to-build-blog-using-gatsby-32kb
+---
+Latihan panjang bagian kedua belas membuat aplikasi Point of Sale POS  dengan MERN Stack, dalam bagian tabel data dengan React JS
+https://blog.soshace.com/create-simple-pos-with-react-js-node-js-and-mongodb-12-getting-started-with-react-table/
+
+Membuat dokumentasi project dengan mudah dengan memakai framework Docusaurus , React SSG, dan Node JS
+https://blog.logrocket.com/easy-documentation-with-docusaurus/
+---
+Komparasi antara Blitz JS dengan Redwood JS untuk framework JAMStack berbasis React Node JS
+https://blog.logrocket.com/blitz-vs-redwood/
+---
+Panduan menggunakan React Router di React JS
+https://blog.logrocket.com/react-router-v6/
+
+
+Membuat fungsi upload file ke layanan Firebase Cloud Storage dengan bantuan Express Node JS dan React JS
+https://medium.com/better-programming/how-to-upload-files-to-firebase-cloud-storage-with-react-and-node-js-e87d80aeded1
+---
+Membuat aplikasi Pokemon dengan React Native 
+https://levelup.gitconnected.com/build-a-simple-react-native-pokemon-app-with-react-navigation-1bbf1e845d92
+---
+Cara menggunakan React Component berulang kali antara aplikasi web berbasis Gatsby dengan aplikasi web berbasis React JS biasa.
+https://blog.bitsrc.io/sharing-react-components-between-your-spa-and-your-static-pages-9a665a2763d3
+---
+Beberapa cara membuat form input di React JS
+https://blog.logrocket.com/forms-in-react-in-2020/
+----
+Cara menggunakan Workbox pada aplikasi web berbasis Next JS
+https://medium.com/better-programming/using-workbox-with-next-js-a-step-towards-progressive-web-apps-a3f985f5f864
+----
+Latihan panjang membuat aplikasi mobile dengan React Native Expo , dan backend Node JS Express JS
+https://www.smashingmagazine.com/2020/05/mobile-app-expo-react-native-firebase-ios-android/
+
+
+Daftar repository Github yang berisi sampel project berbasis React dan Next JS 
+https://dev.to/codewithnico/list-of-open-source-react-projects-on-github-to-learn-from-5gbi
+---
+Latihan membuat library Component dengan React dan Emotion CSS in JS
+https://www.smashingmagazine.com/2020/09/component-library-react-emotion/
+---
+Latihan mengambil data YouTube API untuk ditampilkan ke dalam aplikasi web Next JS
+https://levelup.gitconnected.com/turn-a-youtube-playlist-into-a-website-98235f9230aa
+---
+
+
+Latihan membuat aplikasi React JS dengan Storybook 
+https://www.smashingmagazine.com/2020/09/building-react-apps-storybook/
+---
+Beberapa contoh project React yang dapat dipakai belajar
+https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/
+---
+Penggunaan library testing Enzyme di React JS 
+https://blog.bitsrc.io/react-testing-library-the-modern-way-to-test-react-components-778ef578d0d9
+---
+Tips dan trik optimasi aplikasi React JS untuk performa lebih baik 
+https://medium.com/better-programming/10-tips-and-tricks-to-boost-your-react-apps-performance-in-2020-9388159f6ebf
+---
+Membuat sistem Authentication di dalam Next JS dengan bantuan Firebase
+https://dev.to/theranbrig/server-side-authentication-with-nextjs-and-firebase-354m
+
+
+Referensi beberapa course dan sampel project gratis membuat aplikasi web modern dengan Javascript dan Node JS lengkap.
+https://dev.to/dailydevtips1/5-full-stack-projects-to-add-to-your-portfolio-before-2020-ends-42h3
+---
+Referensi Boilerplate atau kerangka project untuk aplikasi MERN Stack
+https://dev.to/georgexx009/boilerplate-with-mern-stack-redux-jwt-for-registration-login-and-authentication-of-users-with-crud-operations-43io
+---
+Membuat template project Next JS lengkap dengan Bootstrap
+https://www.freecodecamp.org/news/how-to-create-a-nextjs-starter-to-easily-bootstrap-a-new-react-app/
+---
+Membuat aplikasi web JAMStack dengan React , Netlify, Dan Airtable
+https://css-tricks.com/going-jamstack-with-react-serverless-and-airtable/
+---
+Latihan panjang melakukan deploy aplikasi MERN Stack ke Heroku dan Netlify
+https://dev.to/stlnick/how-to-deploy-a-full-stack-mern-app-with-heroku-netlify-ncb
+---
+Cara deploy aplikasi web React JS ke Firebase Hosting dengan Github Actions
+https://levelup.gitconnected.com/how-to-deploy-a-react-app-to-firebase-using-github-actions-step-by-step-11367e0627d5

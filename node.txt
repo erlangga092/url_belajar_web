@@ -1,0 +1,675 @@
+web scrapping dengan puppeter dan node
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcreate-api-website-using-puppeteer%2F%3Ffbclid%3DIwAR34ZKxJieVSMHJo9Zf2GxBCiXru4VylQY_iALkc-_Z0IQI2lZL5e_nlXO0&h=AT0rCd61Y-RwCArkDs31iJAg4YyGLipeqha27jt8tdp9NWBoyvkkr8xMa-1GbnOJZy8CjDq7KvYO8I0LhaY6-UC-Fi6mQADWyW4iNr4VdR1oaGhkV-gzozQJKurI7xFD5OQ&__tn__=-UK-R&c[0]=AT3RZtN7TYPLBsz4SvrP0VQMVk_g2ViZRamB-P4lE11zDoYPoqtdDC78nc54XHWpZyQcfnaoPT0BE0u0kkLW9gloLm-UJuYFj9Ew6bHiZluk8E_yx5m5tDat-rBX5p9jPfHfVXbFot_bk4vYDDPgp3PerusvWjW2Kc83xOFg1YFWJTRA0STQnOddbw
+
+web scrapping puppeter dan node
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fweb-scraping-using-nodejs-puppeteer%2F%3Ffbclid%3DIwAR1icKDalu1c4ZfRgDNsttAPsfP_ksu9T_lZrUGvlhxqpU_pjTpy7Ai4keU&h=AT2gUDIXFmm_CC3iDAwOhiQliM0RomcJhJxrMzIpiCxvWfogvDPvsx9YaoHjbx6ha58Il17h-KqmUMRKkHj3soxaowH0MtsXaUMy-xJfF6ndfaXgUXYo3qgwbskt7gypjRg&__tn__=-UK-R&c[0]=AT3RZtN7TYPLBsz4SvrP0VQMVk_g2ViZRamB-P4lE11zDoYPoqtdDC78nc54XHWpZyQcfnaoPT0BE0u0kkLW9gloLm-UJuYFj9Ew6bHiZluk8E_yx5m5tDat-rBX5p9jPfHfVXbFot_bk4vYDDPgp3PerusvWjW2Kc83xOFg1YFWJTRA0STQnOddbw
+
+latihan web scrapping dengan nodejs
+https://dev.to/dnature/web-scraping-scrape-data-from-your-instagram-page-with-nodejs-playwright-and-firebase-29d1
+
+latihan membuat backend dengan express typescript graphl websocket
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fduomly%2Fexpress-js-course-with-typescript-lesson-2-apollo-websockets-bk3%3Ffbclid%3DIwAR2-9y1wcUE8gl29S3BfCGrLtPk6k2ujZSRxWZBbZpSUeFeA6hnkmlaWtQo&h=AT2nE1tPEswbN3UanEXAqg03hv1OblO3aiMwzd_3ZRy_6DCAMJYBGVaG9IHEDk8MSq8ZMexTCjiFEROpIju0Z0qQxvppiIk0nAK81z88LAJnMoz90RYfxvV1qfFM11BmB4c&__tn__=-UK-R&c[0]=AT3RxaEmcmIKYGyrR53w8eTzSO32KlffGx_8s5M17oMAZxi2aAPvmh6oV3ZUnaQ90qhEw-vDuSH1FUDztolGbz0COPw-pV16n85aJJj1B-v_U6l03gAT8SX6JKbgD7RRGNzefi-0bX26ZpKtbwEgc3ZHAGorsydD6lDa9sHxyBx86zfXt9v_EQlrfgnEpcbLucpxbbA4I4M8rRjprhw
+
+Latihan panjang membuat backend API dengan Node JS murni tanpa framework
+https://dev.to/tracycss/build-an-simple-api-with-node-js-for-beginners-oi
+
+Latihan panjang membuat backend Node JS dengan Express JS dan melakukan deploy ke Digital Ocean
+https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/
+
+Cara menggunakan Node JS debugger  untuk melakukan debugging backend Node JS
+https://dev.to/nyxtom/stop-using-console-log-and-use-the-node-debugger-4402
+
+Cara melakukan verifikasi JSON Web Token JWT di sisi backend 
+https://dev.to/mtee/verify-a-jwt-token-1cok
+
+Mengenal Harper Db, database yang dibuat dengan dasar inti Node JS
+https://dev.to/harperdb/building-a-database-written-in-node-js-from-the-ground-up-2hgm
+---
+Mengenal fitur Harper Db yang merupakan kombinasi dari SQL dan NoSQL
+https://dev.to/chandan24/harperdb-a-mix-of-sql-and-nosql-capabilities-g13
+---
+Latihan konfigurasi dan setup Harper Db Cloud
+https://dev.to/harperdb/tutorial-setting-up-harperdb-cloud-10i4
+---
+Latihan sederhana membuat aplikasi fullstack JS dengan Vue JS , Harper Db , Express, dan Node JS
+https://dev.to/aumayeung/creating-a-simple-web-app-with-harperdb-express-and-vue-4e56
+---
+Latihan panjang membuat backend REST API Node JS , Express, dan Harper Db
+https://dev.to/amanhimself/build-a-rest-api-with-node-js-and-harperdb-3738
+---
+
+Latihan awal pengenalan Docker untuk Node JS dari channel Fireship
+https://www.youtube.com/watch?v=gAkwW2tuIqE
+https://www.youtube.com/watch?v=Gjnup-PuquQ
+—-
+Panduan panjang tentang penggunaan Kubernetes untuk koordinator container Docker
+https://www.freecodecamp.org/news/the-kubernetes-handbook/
+---
+Panduan panjang tentang penggunaan Docker Container 
+https://www.freecodecamp.org/news/the-docker-handbook/
+---
+Tips dan trik dalam menggunakan Docker di Node JS
+https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4
+
+
+Latihan panjang dan berseri pembuatan backend Node JS dengan Nest JS dan Nx Workspace
+https://dev.to/beeman/add-a-nestjs-api-to-a-nx-workspace-24f
+---
+Pembuatan backend Nest JS dengan fitur Authentication dengan Apple ID dan front end Angular
+https://dev.to/rrdlpl/sign-in-with-appleid-angular-nestjs-5ejp
+---
+
+Membuat sistem login dengan Apple ID dengan bantuan Node JS Nest JS dan Angular 
+https://dev.to/rrdlpl/sign-in-with-appleid-angular-nestjs-5ejp
+---
+Cara deploy aplikasi Angular ke Github Pages dengan mudah
+https://dev.to/masoodbinmohammad/hosting-angular-app-to-github-pages-for-free-2g3h
+---
+Membuat aplikasi Progressive Web Apps dengan bantuan Angular, App Shell, dan Workbox 
+https://dev.to/webmaxru/using-workbox-2-and-angular-to-create-a-progressive-web-app-part-1-app-shell-1jnj
+---
+Penggunaan Angular NGSW untuk membuat PWA di Angular
+https://dev.to/webmaxru/a-new-angular-service-worker-creating-automatic-progressive-web-apps-part-2-practice-365o
+---
+Beberapa alasan state management NGXS Angular lebih baik dipakai 
+https://dev.to/kuncevic/11-reasons-why-you-should-use-ngxs-as-state-management-in-your-angular-apps-l82
+---
+Repository Github yang berisi panduan Cookbok aplikasi web Angular
+https://github.com/techiediaries/angular-cookbook
+
+Latihan penggunaan Node JS , Express dan Google Sheet API untuk sumber datanya.
+https://dev.to/osumgbachiamaka/how-to-build-an-api-with-nodejs-expressjs-and-google-sheet-1-45gf
+—-
+Latihan memasang Node JS, Node Version Manager atau NVM, dan Terminal CLI, untuk belajar penggunaan JavaScript
+https://dev.to/hansuxdev/learn-javascript-first-with-terminal-nvm-node-js-1icl
+——
+Latihan menggunakan DevTO API untuk sumber data dari backend Node JS 
+https://dev.to/lornasw93/using-dev-to-api-and-node-js-22h6
+——
+Latihan menggunakan Github API untuk sumber data aplikasi backend Node JS 
+https://dev.to/lornasw93/using-node-js-to-get-useful-github-data-54ne
+——
+Latihan menggunakan AsyncLocalStorage for Easy Context Passing di Node.js
+https://medium.com/trabe/asynclocalstorage-for-easy-context-passing-in-node-js-e33c84679516
+
+Latihan panjang pembuatan backend aplikasi web dengan Nest JS dan TypeScript bagian kesepuluh, yaitu membuat fungsi upload file ke server.
+https://wanago.io/2020/08/03/api-nestjs-uploading-public-files-to-amazon-s3/
+---
+Cara melakukan debugging aplikasi Node JS di Heroku 
+https://blog.heroku.com/debug-node-applications
+---
+Membuat tabel perkalian bilangan dengan Javascript
+https://www.freecodecamp.org/news/multiplication-chart-code-your-own-times-table-using-javascript/
+---
+Cara menggunakan encode URI di Javascript untuk manipulasi URL 
+https://www.freecodecamp.org/news/javascript-url-encode-example-how-to-use-encodeuricomponent-and-encodeuri/
+---
+Fun Fun Javascript, web tutorial yang berisi course gratis latihan implementasi Javascript dengan membuat beberapa project kecil dan besar.
+https://fun-javascript-projects.com/
+---
+Tips error handling dalam Javascript Functional Programming
+https://dev.to/richytong/practical-functional-programming-in-javascript-error-handling-8g5
+---
+Latihan penggunaan Promise All Settled untuk proses asinkronus yang berjalan secara paralel
+https://davidwalsh.name/promise-allsettled
+
+Implementasi API RajaOngkir dengan NodeJS + Express
+https://medium.com/javascript-indonesia-community/implementasi-api-rajaongkir-dengan-nodejs-express-db9c222a608e
+——
+Konfigurasi Node JS dan Load balancing dengan NGINX
+https://medium.com/javascript-indonesia-community/nginx-dan-node-js-load-balancing-96333d45eaca
+——
+Cara menggunakan VS Code LiveShare 
+https://medium.com/javascript-indonesia-community/menggunakan-vs-code-live-share-7d7164a021cc
+—-
+Konfigurasi MongoDB , Node JS, dan Mongoose 
+https://medium.com/javascript-indonesia-community/setup-mongodb-mongoose-node-js-express-dan-jwt-bagian-1-2020-version-82e07b910fe6
+
+
+Latihan panjang membuat Twitter Bot dengan Node JS dan deploy ke Heroku
+https://dev.to/sumedhpatkar/how-i-created-a-twitter-bot-using-node-js-and-heroku-368b
+---
+Mengirim Tweet ke Twitter dengan bantuan Node JS
+https://dev.to/ahmed_mahallawy/tweeting-using-node-js-5986
+---
+Mengamankan endpoint REST API Node JS dengan Helmet JS 
+https://dev.to/gabrielrufino/how-to-make-your-express-api-more-secure-with-helmet-3gki
+---
+Artikel tentang perkembangan Node JS versi terbaru dengan tambahan fitur ES modern dan dapat mudah ditambahkan dengan TypeScript, sehingga cocok untuk project skala kecil sampai besar
+https://codersera.com/blog/what-really-makes-node-js-great/
+
+
+Microsoft merilis course gratis dengan durasi 2 jam lebih untuk pembuatan aplikasi web modern dengan Javascript dan Node JS 
+https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/
+----
+Latihan panjang membuat aplikasi web dengan backend Node JS Express JS dan HarperDb
+https://dev.to/amanhimself/build-a-rest-api-with-node-js-and-harperdb-3738
+----
+Menggunakan Cluster Module di Node JS untuk mempercepat proses pengolahan data yang banyak secara paralel
+https://dev.to/joelnet/cluster-multi-threaded-nodejs-run-threads-in-parallel-to-speed-up-long-processes-5e13
+---
+Latihan menggunakan Koa JS untuk membuat backend Node JS
+https://developer.okta.com/blog/2020/07/17/secure-node-api-with-koa
+---
+Buku gratis tentang penanganan keamanan di bagian backend Node JS
+https://www.sqreen.com/resources/nodejs-security-handbook
+---
+Melakukan proses antrian secara Asynchronous dengan library Bull dan Redis
+https://blog.logrocket.com/asynchronous-task-processing-in-node-js-with-bull/
+---
+Memperkenalkan library MegaHash , library untuk membuat hash table skala besar dengan bantuan C++ dan Node JS 
+https://github.com/jhuckaby/megahash
+---
+DataDog , layanan untuk memantau kesehatan backend dan stabilitas aplikasi di production 
+https://www.datadoghq.com/dg/apm/ts-node-performance/
+---
+Pengenalan berseri apa itu NGINX 
+https://dev.to/duomly/what-is-nginx-4fep
+---
+Latihan panjang membuat Bot Twitter dengan Node JS dan deploy ke layanan AWS Lambda 
+https://medium.com/swlh/how-i-built-a-serverless-aws-lambda-twitter-bot-in-nodejs-in-a-single-day-6901f8df13f0
+
+
+Memahami dan menggunakan Node JS Worker Thread untuk proses data yang rumit dan kompleks
+https://blog.insiderattack.net/deep-dive-into-worker-threads-in-node-js-e75e10546b11
+——
+Latihan menggunakan Node JS Clustering untuk proses data yang banyak secara paralel dari channel Youtube Joel Codes
+https://www.youtube.com/watch?v=hXb95jm-kk0
+——
+Mengamankan endpoint REST API Express JS dengan Helmet JS
+https://dev.to/gabrielrufino/how-to-make-your-express-api-more-secure-with-helmet-3gki
+—-
+Latihan sederhana membuat Authentication di Express JS dengan Passport JS 
+https://dev.to/muhammadawaisshaikh/passport-authentication-using-nodejs-express-and-mongodb-4b6a
+——
+Sanitasi data untuk mencegah SQL Injection di Express dan Node JS 
+https://dev.to/katerakeren/data-sanitization-against-nosql-query-injection-in-mongodb-and-node-js-application-1eab
+——
+Latihan menggunakan Nest JS dan TypeScript dan koneksi Mongoose TypeORM ke MongoDB 
+https://dev.to/tkssharma/nest-js-with-mongoos-and-mysql-with-typeorm-2ehe
+—-
+Membuat  GraphQL API dengan Nest JS dan koneksi ke MongoDB
+https://dev.to/tkssharma/using-nestjs-to-build-graphql-apis-with-mongo-db-583m
+
+
+Latihan dari Traversy Media membuat web app portofolio dengan JavaScript murni , HTML , dan CSS , kemudian deploy web app nya ke Amazon Web Service AWS
+https://www.youtube.com/watch?v=r_hYR53r61M
+—-
+Cara mengirim data antar tab browser dalam domain yang sama, dengan Broadcast Channel
+https://dev.to/dcodeyt/send-data-between-tabs-with-javascript-2oa
+—-
+Beberapa cara penyimpanan token data di sisi front end atau browser, antara di LocalStorage ataupun di Cookies HTTP Only 
+https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id
+——
+
+
+Artikel panjang tentang pengenalan Event Loop, Child Process , dan Worker Threads yang membantu Node JS melakukan pengolahan data yang besar, rumit, dan kompleks
+https://www.freecodecamp.org/news/a-hands-on-guide-to-event-loop-child-process-and-worker-threads-in-node-js/
+---
+Referensi membuat aplikasi fullstack Javascript dengan MERN Stack dan TypeScript
+https://dev.to/ibrahima92/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb-2o33
+---
+Latihan panjang membuat kerangka project dengan pola MERN Stack dan fullstack JS
+https://dev.to/andrewbaisden/creating-mern-stack-applications-2020-4a44
+----
+Cara membuat certificate SSL HTTPS sendiri yang dapat dipakai untuk testing aplikasi web di server local 
+https://www.freecodecamp.org/news/how-to-set-up-https-locally-with-create-react-app/
+
+
+Membuat aplikasi Point of Sale berseri bagian sembilan, yaitu membuat fungsi CRUD ke Mongo Db
+https://blog.soshace.com/create-simple-pos-with-react-js-node-js-and-mongodb-9-crud-branch/
+---
+Cara kerja fungsi require() di Node JS backend
+https://www.thirdrocktechkno.com/blog/how-nodejs-require-works
+---
+Lima modul latihan pengenalan Node JS lengkap yang telah dikurasi baik
+https://dev.to/softchris/learn-node-js-with-these-5-modules-on-learn-4m37
+---
+Mengirim email dengan Nodemailer dan Node JS dan memanfaatkan layanan SMTP dengan Firebase Cloud Function
+https://dev.to/lornasw93/using-node-js-firebase-cloud-functions-and-nodemailer-smtp-to-send-an-email-51j8
+---
+Latihan panjang membuat aplikasi Todo List dengan MERN Stack
+https://dev.to/ibrahima92/how-to-build-a-todo-app-with-react-typescript-nodejs-and-mongodb-2o33
+---
+Langkah demi langkah menggunakan Mongoose untuk menyambungkan ke MongoDb Service 
+https://dev.to/aritik/connecting-to-mongodb-using-mongoose-3akh
+---
+Cara menambahkan 2 Factor Authentication di Node JS atau TFA
+https://dev.to/vonagedev/how-to-add-two-factor-authentication-with-node-js-and-express-4g6g
+
+
+Membuat konfigurasi server yang handal dan sederhana dengan Raspberry Pi , dengan Ubuntu Server dan Node JS
+https://www.freecodecamp.org/news/build-a-personal-dev-server-on-a-5-dollar-raspberry-pi/
+---
+Membuat perangkat Smart Home pemantau cuaca dengan Raspberry Pi dan Node JS
+https://www.freecodecamp.org/news/monitor-the-weather-with-node-and-raspberry-pi/
+---
+Konfigurasi memasang Docker untuk server di Raspberry Pi 
+https://www.freecodecamp.org/news/the-easy-way-to-set-up-docker-on-a-raspberry-pi-7d24ced073ef/
+---
+Memasang Raspberry Pi dengan sistem operasi Ubuntu Mate
+https://www.freecodecamp.org/news/how-to-set-up-ubuntu-mate-on-raspberry-pi/
+
+
+Mengenal apa itu CORS , dan konfigurasi nya di Node JS Express JS
+https://www.freecodecamp.org/news/access-control-allow-origin-header-explained/
+---
+Mengenal fitur manipulasi Object di ES2015  yaitu Object Keys, Values, dan Entries
+https://medium.com/better-programming/object-keys-values-and-entries-javascript-es6-feature-series-part-9-d71268791089
+----
+Menggunakan library Bull di backend Node JS Express JS untuk sistem antrian proses Queue dan proses asinkronus
+https://blog.logrocket.com/asynchronous-task-processing-in-node-js-with-bull/
+---
+Cara melakukan Flatten Array dengan fungsi Array Reduce
+https://varya.me/blog/flatten-array-with-reduce/
+---
+Referensi beberapa library untuk pelengkap Express JS Node JS 
+Bree , library untuk membuat Job Scheduler 
+https://jobscheduler.net/#/
+---
+Cachi , library untuk membuat caching di Node JS dengan bantuan Redis Db 
+https://github.com/eddiejibson/cachi
+---
+Haredo , library untuk message queue dengan Rabbit MQ 
+https://github.com/KristjanTammekivi/Haredo
+---
+Konfigurasi server Ubuntu LTS untuk menjalankan backend Node JS dengan NGINX
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-20-04
+---
+Konfigurasi Docker Container untuk Node JS 
+https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker-on-ubuntu-20-04
+---
+Latihan panjang dan berseri pengenalan Express JS dan Node JS sampai ke TypeScript dan Apollo GraphQL
+https://dev.to/duomly/express-js-course-with-typescript-lesson-2-apollo-websockets-bk3
+
+
+Tips dari Academind, untuk menyimpan data token Auth di sisi browser klien di media LocalStorage dan Cookies dengan parameter Samesite Strict . Dan kenapa LocalStorage adalah media penyimpanan Auth Token terbaik di browser. 
+https://www.youtube.com/watch?v=mBd-SMPp3kI
+https://academind.com/learn/javascript/localstorage-vs-cookies-xss/#but-samesite-helps)
+——
+Mengenal apa itu XSS dan cara pencegahannya di sisi client browser ataupun di sisi backend web app.
+https://www.youtube.com/watch?v=oEFPFc36weY
+—-
+Cara mengamankan endpoint REST API Node JS dari XSS ,  DDOS , SQL Injection, Brute Force, dst
+https://itnext.io/make-security-on-your-nodejs-api-the-priority-50da8dc71d68
+---
+Tips mengatasi serangan Brute Force di Express JS
+https://blog.soshace.com/protecting-your-api-from-brute-forcing-by-rate-limiting-in-nodejs/
+
+
+Course atau latihan lengkap dan panjang yang berisi latihan pengenalan Javascript Modern ES2015++ dan contoh kasusnya. Latihan ini gratis dan tidak berbatas waktu
+https://www.freecodecamp.org/news/learn-javascript-to-build-apps/
+---
+Pengenalan Nullish Coalescing di ES2020 
+https://blog.bitsrc.io/the-ultimate-guide-to-the-es2020-nullish-coalescing-operator-231d2b64dfde
+---
+Penggunaan fungsi toogleAttribute di Javascript murni ES6 untuk menambahkan atau menghilangkan atribut di dalam DOM Element HTML
+https://dev.to/dailydevtips1/vanilla-javascript-toggleattribute-4n4f
+---
+
+
+Referensi lengkap untuk struktur project Express JS dengan Babel JS
+https://kentcdodds.com/blog/how-i-structure-express-apps
+---
+Menggunakan Pug Template Engine pada Express JS 
+https://blog.bitsrc.io/how-to-build-a-node-application-using-a-pug-template-7319ab1bba69
+---
+Menggunakan Hasura Service untuk konversi endpoint REST API key GraphQL di Node JS
+https://hasura.io/blog/turn-your-node-js-rest-api-to-graphql/
+---
+Optimasi performa Node JS backend dengan Clustering 
+https://dev.to/cpuram1/improving-nodejs-performance-through-clustering-part-1-5a6e
+https://www.freecodecamp.org/news/how-to-scale-your-node-js-server-using-clustering-c8d43c656e8f/
+https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/
+---
+
+
+Latihan panjang dan berseri membuat backend Node JS dengan Express JS , GraphQL Apollo Server , Websocket , dan TypeScript
+https://dev.to/duomly/express-js-course-with-typescript-lesson-2-apollo-websockets-bk3
+----
+Latihan panjang membuat Telegram Bot dengan Nest JS 
+https://dev.to/spiritbro1/how-do-you-create-simple-telegram-bot-using-nestjs-2l3
+---
+Latihan membuat Bot Telegram dengan Node JS dan di deploy ke Azure Functions 
+https://dev.to/akhromieiev/building-a-telegram-bot-with-azure-functions-and-node-js-28b
+----
+Membuat Discord Bot dengan TypeScript
+https://dev.to/midasxiv/discord-bot-in-typescript-hosted-on-heroku-1c8p
+---
+Mengenal Gretchen , library wrapper untuk Fetch API yang dibungkus dengan TypeScript
+https://www.truework.com/blog/engineering/2020-03-04-introducing-gretchen/
+---
+
+
+Panduan membuat aplikasi backend web real-time dengan Express , Socket IO , dan Node JS 
+https://dev.to/livecodestream/a-starter-guide-to-building-real-time-applications-with-node-js-f9l
+---
+Latihan singkat penggunaan Node JS Express untuk backend web app
+https://dev.to/anant016/node-js-crash-course-be-a-backend-developer-2ipb
+Studi kasus skalabilitas backend Node JS
+https://dzone.com/articles/7-key-nodejs-advantages-to-develop-scalable-web-ap
+---
+
+
+Panduan lengkap penggunaan operator Nullish Coalescing di Javascript ES2020
+https://blog.bitsrc.io/the-ultimate-guide-to-the-es2020-nullish-coalescing-operator-231d2b64dfde
+---
+Cara menggunakan Worker Thread atau Web Worker untuk proses data yang berat dan panjang
+https://blog.logrocket.com/why-you-should-be-using-useworker/
+---
+Cara menggunakan ES Modules di Javascript dengan Export dan Import 
+https://livecodestream.dev/post/2020-07-08-an-intro-to-javascript-modules/
+---
+Memahami pola Design Pattern di Javascript bagian kedua
+https://overflowjs.com/posts/Design-Pattern-in-JavaScript-Part-2.html
+
+
+Cara menggunakan HTTP Request di Node JS untuk mengambil dan mengirim data dari endpoint server yang lain
+https://www.youtube.com/watch?v=MouZdENJddQ
+—-
+Cara membaca file di dalam media penyimpanan dengan Node JS dengan FS module
+https://www.youtube.com/watch?v=uvRwF1JFqt0
+—-
+Mengecek apakah file data yang dicari tersedia atau tidak dengan Node JS dengan FS module
+https://www.youtube.com/watch?v=5hift2w4t-Q
+—-
+Latihan sederhana membuat HTTP Server dengan Node JS
+https://www.youtube.com/watch?v=TrofE5tDRag
+—-
+
+
+
+Memasang Github Actions untuk otomatis deploy ke server setelah melakukan Git Commit dan Push ke Repository
+https://blog.soshace.com/deploying-your-nodejs-code-to-a-server-every-time-you-push-with-github-actions/
+---
+Latihan panjang membuat microservice dengan Javascript Node JS fullstack
+https://medium.com/@krawa76/fullstack-javascript-microservice-web-app-in-minutes-448c523a919b
+---
+Latihan panjang memahami penggunaan Async Await di Node JS framework server backend
+https://blog.risingstack.com/mastering-async-await-in-nodejs/
+---
+Menggunakan teknik perulangan dan Async Await dengan Async Iterator di Node JS
+https://blog.risingstack.com/async-iterators-in-node-js/
+---
+Tips dan trik dalam  menggunakaan NPM 
+https://blog.bitsrc.io/npm-tips-and-tricks-24c5e9defea6
+
+
+Cara mengambil parameter, manipulasi parameter , dan menambah parameter ke dalam link URL dengan menggunakan Javascript URL API 
+https://dmitripavlutin.com/parse-url-javascript/
+---
+Pengenalan dan penggunaan fitur Debounce untuk menunda eksekusi kode sampai parameter tertentu terpenuhi, misalnya setelah pengguna selesai mengetik input form 
+https://www.freecodecamp.org/news/debounce-explained-how-to-make-your-javascript-wait-for-your-user-to-finish-typing-2/
+---
+Mengenal fungsi perulangan Array forEach di Javascript dan parameter di dalamnya.
+https://www.freecodecamp.org/news/javascript-foreach-how-to-loop-through-an-array-in-js/
+---
+Mencari dan mengganti element   Array di Javascript , dengan Find , FindIndex , IndexOf , Pop, Shift , Unshift , Splice, Filter, Some, dan Every
+https://dev.to/albertomontalesi/find-and-replace-elements-in-array-with-javascript-2e4n
+
+
+
+Latihan membuat REST API sederhana dengan Node JS Express JS
+https://dev.to/raddevon/build-a-rest-api-in-node-js-mcl
+---
+Kerangka Boilerplate untuk membuat aplikasi web fullstack JS dengan Express , React, dan Docker
+https://dev.to/brito/create-node-react-docker-apps-easily-5b4a
+---
+Latihan panjang membuat aplikasi MERN Stack dari perancangan sampai tahap deploy ke VPS
+https://www.freecodecamp.org/news/plan-code-and-deploy-a-startup-in-2-hours/
+----
+Cara deploy aplikasi Node JS fullstack (MERN/MEVN/MEAN/MESN) ke Heroku
+https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-web-app-with-heroku/
+Sampel aplikasi MEVN yang di deploy ke Heroku
+https://www.freecodecamp.org/news/build-a-full-stack-mevn-app/
+----
+Cara menggunakan LocalStorage dan Vuex untuk menyimpan data sementara di storage browser.
+https://www.epiloge.com/how-to-permanently-save-data-with-vuex--localstorage-in-your-vue-app-c27e91
+
+
+
+Memahami cara kerja queue sistem antrian proses di Node JS
+https://blog.logrocket.com/a-deep-dive-into-queues-in-node-js/
+---
+Membuat sistem Two Factor Authentication dengan Node JS dan OTP Library
+https://blog.soshace.com/implementing-two-factor-authentication-with-nodejs-and-otplib/
+---
+Beberapa cara memperbarui library dengan NPM dan Node JS
+https://blog.logrocket.com/how-to-keep-javascript-libraries-up-to-date/
+---
+Caching data dengan Redis Db di Node JS
+https://codeburst.io/caching-api-with-redis-and-node-b6f76831b442
+---
+Membuat satu router untuk menerima banyak tipe request dengan Middleware di Express JS
+https://levelup.gitconnected.com/guide-to-the-express-router-object-multiple-requests-and-middleware-9d5c99b2ade6
+
+
+
+Konfigurasi Node JS dan NPM dengan dukungan multi versi Node JS pada sistem operasi Ubuntu Linux 
+https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/
+---
+Membuat sistem monitoring cuaca dengan Raspberry Pi dan Node JS
+https://www.freecodecamp.org/news/monitor-the-weather-with-node-and-raspberry-pi/
+---
+Cara memasang Ubuntu Mate di Raspberry Pi 
+https://www.freecodecamp.org/news/how-to-set-up-ubuntu-mate-on-raspberry-pi/
+---
+Cara konfigurasi Ubuntu Linux untuk produksi dan kerja
+http://tech.davidfield.co.uk/how-to-setup-ubuntu-for-work/
+---
+Referensi konfigurasi Linux Pop OS untuk pengembangan aplikasi 
+https://dev.to/loripb/my-minimal-linux-setup-2020-2m0m
+
+
+
+Latihan berseri membuat backend server REST API  sederhana dengan Node JS dan Express JS , dan dihubungkan ke database dengan Mongoose MongoDb Atlas
+https://dev.to/thecodepixi/rest-api-with-crud-using-express-and-mongoose-d7h
+---
+Deploy aplikasi web ke layanan VPS Heroku, dengan contoh kasus aplikasi MEVN Stack
+https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-web-app-with-heroku/
+---
+Latihan membuat backend server Node JS dengan Nest JS dan GraphQL server Apollo Server .
+https://blog.logrocket.com/how-to-build-a-graphql-api-with-nestjs/
+---
+Cara memasang Node JS runtime ke komputer developer untuk pengembangan , dengan memakai Node Version Manager NVM
+https://www.freecodecamp.org/news/how-to-install-node-in-your-machines-macos-linux-windows/
+---
+Beberapa tips untuk optimasi dan improvisasi performa Node JS server
+https://blog.logrocket.com/7-ways-to-improve-node-js-performance-at-scale/
+
+
+
+Latihan dasar membuat Oauth ke Google API dengan Passport JS dan Node JS
+https://dev.to/phyllis_yym/beginner-s-guide-to-google-oauth-with-passport-js-2gh4
+---
+Latihan panjang dan berseri membuat backend server Node JS Express JS dan MongoDb Mongoose
+https://dev.to/thecodepixi/rest-api-with-crud-using-express-and-mongoose-d7h
+---
+Tips mempercepat pemasangan dependency Node JS dengan NPM CI
+https://dev.to/coryrylan/faster-npm-installs-with-npm-ci-126g
+----
+Latihan panjang dan berseri membuat backend Node JS framework Nest JS dan Sequilize ORM
+https://dev.to/duomly/let-s-learn-node-js-by-building-a-backend-with-nest-js-and-sequelize-28a3
+---
+Memasang Node JS pada Raspberry Pi dan menggunakannya untuk mengontrol Object lampu LED sederhana.
+https://dev.to/simonprickett/controlling-real-world-objects-with-raspberry-pi-and-node-js-1m78
+---
+Latihan membuat URL Shortener dengan Node JS dan Express JS , MongoDb Atlas , Valid URL Module , dan Shortid API
+https://dev.to/sachinsarawgi/url-shortner-with-limit-onclick-count-4maf
+---
+Replikasi data MongoDb yang ada di dalam Docker
+https://blog.jscrambler.com/how-to-achieve-mongo-replication-on-docker
+---
+
+
+
+Latihan membangun backend service dengan Node JS framework Nest TS dan endpoint API dengan GraphQL Apollo Server
+https://blog.logrocket.com/how-to-build-a-graphql-api-with-nestjs/
+---
+Tips optimasi performa server berbasis Node JS 
+https://blog.logrocket.com/7-ways-to-improve-node-js-performance-at-scale/
+---
+Membuat backend server sederhana dengan Express JS Node JS
+https://www.iamtimsmith.com/blog/creating-a-basic-server-with-express-js/
+
+
+Latihan melakukan web scrapping dengan Puppeteer dan Node JS, dan mengubah data yang didapat menjadi bentuk endpoint REST API .
+https://www.freecodecamp.org/news/create-api-website-using-puppeteer/
+---
+Panduan lengkap web scrapping dengan Puppeteer dan Node JS 
+https://www.freecodecamp.org/news/web-scraping-using-nodejs-puppeteer/
+
+
+Membuat backend aplikasi chat dengan Node JS Express JS dan Socket IO untuk Flutter App
+https://medium.com/flutter-community/realtime-chat-app-one-to-one-using-flutter-socket-io-node-js-acd4152c6a00
+---
+Pengenalan dasar Socket IO dan contoh penggunaannya
+https://dev.to/mohamedashrafothman/an-introduction-to-socket-io-3ncb
+---
+Membuat endpoint GraphQL yang auto generate berdasarkan endpoint REST API yang sudah ada dengan GraphQL Gateway .
+https://itnext.io/auto-generated-graphql-gateways-bring-your-rest-apis-together-for-great-and-for-better-9d74470820cc
+
+
+Membuat game Fruit Ninja dengan Javascript Three JS , dan TensorFlow JS , dan dikontrol dengan gerakan tangan di kamera
+https://dev.to/devdevcharlie/motion-controlled-fruit-ninja-game-using-three-js-tensorflow-js-18de
+Demo
+https://splat.netlify.app/
+
+
+Latihan membuat aplikasi backend Node JS dengan Express , fungsi CRUD , dan penggunaan protokol gRPC 
+https://dev.to/bnevilleoneill/creating-a-crud-api-with-node-express-and-grpc-8kk
+---
+Cara memasang PostgreSQL ke dalam Docker 
+https://levelup.gitconnected.com/setup-postgresql-pgadmin-postgraphile-in-docker-d5bd1d97b17a
+---
+Latihan membuat aplikasi Chat dengan backend Deno JS
+https://dev.to/aralroca/learn-deno-chat-app-37f0
+
+
+Latihan membuat server streaming lagu atau sejenis radio podcast online dengan Javascript Node JS
+https://blog.logrocket.com/online-radio-server-pure-node-js/
+----
+Latihan mengenal konsep Publisher dan Subscriber di Node JS
+https://blog.logrocket.com/getting-started-with-cloud-pub-sub-in-node/
+---
+Beberapa teknik caching data di Node JS
+https://blog.logrocket.com/caching-strategies-to-speed-up-your-api/
+---
+Membuat REST API dengan Feather JS
+https://blog.logrocket.com/building-lightning-fast-apis-with-featherjs/
+---
+Latihan panjang dan lengkap membuat aplikasi web modern dengan MERN Stack dengan contoh kasus membuat toko aplikasi penjualan.
+https://dev.to/basir/react-node-tutorial-full-ecommerce-in-5-hours-2020-1hha
+----
+Melakukan caching data pembayaran dengan Payment Request API dari browser Chrome 
+https://blog.logrocket.com/javascript-payment-request-api/
+----
+
+
+Menambahkan dasboard admin panel ke aplikasi backend Koa JS dengan Admin Bro Template
+https://medium.com/@tadeuszkora/koa-just-got-a-beautiful-auto-generated-admin-panel-f5f89d83e892
+---
+Beberapa hal yang perlu dipelajari ketika menjadi Fullstack developer
+https://dev.to/niharrs/10-things-to-know-as-a-fullstack-developer-2kip
+---
+Cara sederhana membaca file JSON lokal server dengan fs module 
+https://www.techiediaries.com/read-json-files-nodejs-require-fs-readfilesync/
+---
+Deploy aplikasi Node JS  ke layanan Cloud bernama Vultr 
+https://dev.to/hayleycodes/deploying-a-node-js-site-to-vultr-j8d
+---
+Mengambil data cuaca dengan backend Node JS Express ke layanan Weather API
+https://dev.to/pratham82/using-fetch-api-in-node-js-with-weather-api-3a7d
+
+
+
+Latihan panjang membuat CRUD Data Mahasiswa dengan Express Js dan MongoDB
+https://medium.com/javascript-indonesia-community/express-js-mongodb-crud-part-1-1d5aba5e3629
+#express #nodejs #mongodb
+
+
+Fastify TypeScript generator yang dapat membuat kerangka project Fastify dengan TypeScript 
+https://dev.to/opendevs_2020/fastify-typescript-generator-a-generator-for-creating-fastify-server-with-typescript-j3e
+---
+Membuat REST API dengan Fastify
+https://blog.bitsrc.io/how-to-build-rest-apis-with-fastify-2eac64536a72
+---
+Boilerplate atau kerangka project untuk membuat backend Node JS dengan Fastify, TypeScript , dan MongoDb
+https://dev.to/gmarokov/node-js-restful-api-template-with-typescript-fastify-and-mongodb-4ceo
+---
+Contoh penggunaan JSON Web Token JWT dan Authentication di Fastify
+https://dev.to/lek890/authentication-strategy-application-fastify-typescript-jwt-52nb
+---
+
+
+Komparasi antara framework Express JS , Sails JS , dan Meteor JS
+https://blog.bitsrc.io/expressjs-vs-sailsjs-vs-meteorjs-45806de0fc2e
+---
+Referensi beberapa framework backend Node JS yang dapat dicoba
+https://medium.com/better-programming/what-will-be-the-best-back-end-framework-for-2021-c3ad1beb0f44
+—-
+Mengenal Semantic versioning di dalam kode versi package NPM di package.json file
+https://blog.bitsrc.io/how-to-keep-npm-library-versions-up-to-date-73b1e4e05eeb
+---
+
+
+Latihan panjang membuat password Hash di Express dan Node JS Crypto Module
+https://blog.logrocket.com/building-a-password-hasher-in-node-js/
+—-
+Latihan panjang membuat dokumentasi REST API di Express JS dengan bantuan Swagger
+https://blog.logrocket.com/documenting-your-express-api-with-swagger/
+—-
+Komparasi antara Prisma dengan TypeORM dalam hal fitur transaksi ke database.
+https://medium.com/better-programming/prisma-vs-typeorm-60d02f9dac64
+—-
+Referensi struktur project Node JS yang berbasis Express TypeScript
+https://medium.com/swlh/how-i-structure-my-node-js-rest-apis-4e8904ccd2fb
+—-
+Cara melakukan unit testing aplikasi Node JS dengan Mocha dan Chai bagian kedua
+https://medium.com/better-programming/testing-in-node-js-using-mocha-and-chai-part-2-5b5c56bf2075
+——
+Beberapa package penting dalam pengembangan aplikasi Node JS backend.
+https://medium.com/better-programming/12-useful-packages-every-node-js-developer-should-know-2746db760e
+—-
+
+
+Cara menghubungkan Google Drive API ke backend Node JS Express
+https://dev.to/kamalhossain/google-drive-api-in-node-js-3mnm
+---
+Operasi data di Google Drive dengan bantuan Node JS
+https://dev.to/kamalhossain/download-and-delete-via-google-drive-api-17i3
+---
+Debugging aplikasi Node JS yang mengalami infinite loop
+https://blog.apify.com/how-to-debug-an-infinite-loop-in-node-js-production-code-9ec0e1442da0
+---
+Latihan penting menggunakan Event Emitter di Node JS
+https://dev.to/petrussola/today-s-rabbit-hole-what-is-event-driven-programming-and-how-to-code-your-own-eventemitter-3g1h
+---
+Mengenal Midway JS , Serverless framework Javascript yang dipakai untuk aplikasi fullstack JS
+https://dev.to/js_midway/midway-serverless-a-node-js-framework-for-serverless-interview-with-harry-chen-1lea
+
+
+Latihan dasar membuat backend API server dengan Node JS tanpa menggunakan framework .
+https://dev.to/lisahjung/beginner-s-guide-to-creating-a-node-js-server-3d0j
+---
+Latihan menggunakan Express JS dengan PostgreSQL
+https://dev.to/rajandmr/node-js-rest-crud-api-with-postgres-213p
+----
+Wawancara singkat dengan pembuat framework Fastify JS
+https://www.infoq.com/articles/fastify-nodejs-web-framework-interview/
+
+
+Cara melakukan debugging aplikasi Node JS
+https://blog.heroku.com/debug-node-applications
+——
+Latihan sederhana membuat aplikasi fullstack JavaScript MERN dan deploy ke server
+https://medium.com/@krawa76/fullstack-javascript-microservice-web-app-in-minutes-448c523a919b
+Beberapa referensi framework backend Node JS seperti Express , Koa, Meteor, Nest , Sails , Socket IO , Totals, Hapi, Feathers , dan Loopback
+https://www.simform.com/best-nodejs-frameworks/
+https://dev.to/tejaskaneriya/when-to-use-these-nodejs-frameworks-express-koa-nest-socket-io-meteor-js-3p63
+---
+Catatan rilis Mongoose 5.10 dimana ada perbaikan fungsi transaction
+http://thecodebarbarian.com/whats-new-in-mongoose-5-10-improved-transactions.html
+---
+Catatan rilis Yarn 2.2 dengan banyak peningkatan dan perbaikan disana sini
+https://dev.to/arcanis/yarn-2-2-dedupe-faster-lighter-ha5

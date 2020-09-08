@@ -1,0 +1,36 @@
+Latihan fetch API ke backend dengan typescript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fitnext.io%2Fusing-fetch-with-typescript-and-the-todoist-api-5203c5177ed5%3Ffbclid%3DIwAR2zjHTYcq9GglYSdD3OWFMAx0oon7g1hTy-SN3PgrvCiacx488vsLhhTJY&h=AT21BoTymGfk7w01zCMI-WTdWBz1rXEB1Gs07_gLGstlPxLKpPD3qj4zI7VXFkH2UkaA3ZuKCIuMicp81NSza8ml_ViDzq8sByx9AD56M-0z-p99T3mtTjOLMPoxEBjAaV0&__tn__=-UK-R&c[0]=AT1zYT88_eB_j0seo9EIaXCez5Y1yojvp85at6j4DdJAvpcmYATspTBTlPUoDEQ5Cl2h_xG_RhmMQ_p4ZnYC5WJ0ISdEYBzJa68oP9AR2e_Cnj__ZJgiZDnrl_uoF1xnfzyAPLI7
+
+latihan dasar pengenalan generics type di typescript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.logrocket.com%2Fgetting-started-with-typescript-generics%2F%3Ffbclid%3DIwAR0e73o_IAEhQvyl60vGjFycXBIEJkW8pdl6KYITldCipz9Opqfv3ngB5dc&h=AT3iZiyJj7q0nLrlsw4mz3UfRI7h6vdzdtKdgO4QuISZHaGm89OJ-9JT4W21JqIjmQhymV-IgkuwKxNn9CISE_2zkCXHEk_1OwLbgV99I9EeuVuT9QHTN8bKCw8QS5NDWZw&__tn__=-UK-R&c[0]=AT1zYT88_eB_j0seo9EIaXCez5Y1yojvp85at6j4DdJAvpcmYATspTBTlPUoDEQ5Cl2h_xG_RhmMQ_p4ZnYC5WJ0ISdEYBzJa68oP9AR2e_Cnj__ZJgiZDnrl_uoF1xnfzyAPLI7
+
+membangun aplikasi pokedex pokemon dengan typescript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fa-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript%2F%3Ffbclid%3DIwAR317_oTCPPygzkXXrCIEiFohqBaMu9D-i5E53FPCh5saItP_7jViKH1ptI&h=AT1bshQvk6dd2_osH_U-oy9UUqCx48l_DvHnjvOteoU8BEacLUx6QSM7kAAdgepyKbHvEy8GjonitNZtuNFdyYUud6Tq37RsPNTTEbYnnBA8N1A4IUZVyq3rkoEZ1jmGIIk&__tn__=-UK-R&c[0]=AT1zYT88_eB_j0seo9EIaXCez5Y1yojvp85at6j4DdJAvpcmYATspTBTlPUoDEQ5Cl2h_xG_RhmMQ_p4ZnYC5WJ0ISdEYBzJa68oP9AR2e_Cnj__ZJgiZDnrl_uoF1xnfzyAPLI7
+
+Best practice dalam penulisan kode berbasis javascript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fswlh%2Ftypescript-best-practices-useless-interfaces-classes-and-promises-40ef6bdefa1b%3Ffbclid%3DIwAR26xN954_S_LIUa9b0bNmcO5HoWpawowIabdKm2Hj4fKPdy19dzgrENBEo&h=AT2S4EDTj3GENh_vcbOwbga2zRRWcWUecugWaIKxUCBiIsP43x1K6kK4qK9BIaf-1DrYFCDeqWm5DjtV2Xa3ViD0mSm3dJNJStmm8MQ0J0jLBMgGLBE98DnHJZdFkNMP2VA&__tn__=-UK-R&c[0]=AT1zYT88_eB_j0seo9EIaXCez5Y1yojvp85at6j4DdJAvpcmYATspTBTlPUoDEQ5Cl2h_xG_RhmMQ_p4ZnYC5WJ0ISdEYBzJa68oP9AR2e_Cnj__ZJgiZDnrl_uoF1xnfzyAPLI7
+
+Latihan membuat game web dengan react dan typescript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2Freactjs-training-creating-your-first-game-with-react-and-typescript-162f56b75e78%3Ffbclid%3DIwAR1lghO8wAP7y6UR-oQ7YHVaSw7R0a5TvC_1PBZJVskh18vG0uX4LaPd_nE&h=AT3zTwyw_qhzdxx3sSI8y63tGWyCyh_Ixhhkr0vuRLBN9luRHcdb_I0LbXSMEGVKMtynzJgDwVKQLMWAAaQagaziEdjKA2ItSaXro_2o_7QDAz0bi76U1n9f33MVw-r8MTo&__tn__=-UK-R&c[0]=AT3QIYxQ4kfHOS-32irBDHj4mmAlwJZkgad7szuRoljOfsW-SISngcQ4tAsHCbE_X1M6i2J5C-Yya5F4NlvapI30prtbAd3YGA2ibF8Z9QY_1nQOKAB6gW1tIFyFJev9mqTN46qo
+
+
+
+Latihan melakukan Fetch API ke backend server Todoist API , dengan TypeScript dan tanpa library lain.
+https://itnext.io/using-fetch-with-typescript-and-the-todoist-api-5203c5177ed5
+---
+Latihan dasar pengenalan tipe Generic di TypeScript
+https://blog.logrocket.com/getting-started-with-typescript-generics/
+---
+Latihan membangun aplikasi Pokedex Pokemon dengan TypeScript
+https://www.freecodecamp.org/news/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript/
+
+
+Latihan panjang menambahkan TypeScript ke dalam aplikasi web berbasis Javascript
+https://www.freecodecamp.org/news/how-to-add-typescript-to-a-javascript-project/
+---
+Beberapa pintasan snippets dalam menggunakan TypeScript Javascript
+https://blog.bitsrc.io/11-javascript-and-typescript-shorthands-you-should-know-690a002674e0
+---
+Pengenalan struktur data di dalam TypeScript
+https://levelup.gitconnected.com/typescript-data-structures-in-10-minutes-4cd785272ad0
+---

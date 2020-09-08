@@ -1,0 +1,227 @@
+pengenalan vuetify di vue js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwant-to-learn-vuetify-heres-our-free-15-part-course-by-gwen-faraday%2F%3Ffbclid%3DIwAR273lKICkJET8EWZdWeDBPFafWpdRMgG3J8m8yO3hbiKIzjoPIJU32fqlE&h=AT1_0mankw-84DxbeyTPUaWE6BLUoLVnRmznRp8nz_Fi2lf_c17qjY5ghKKjnvzWW6AIrYIwfm6g-j2doVMCzA3xwBf3WLesumqnqrjJlfGOK2-6KLaFjXHkUzsaxZcOF6o&__tn__=-UK-R&c[0]=AT3clPHsnqmatSax5cOl4OTUIZA6lJPZYd1AfzXkME5gwbqGDSUQnTRKNDk58LY324I_CdNHnIgaLDwCSCr3KnjD1uoF4XE50mvxzJnc5W_StpOWKmVAAFK-uuac2UYTeDSkwpiSHfpUVdmkaJWGSwlPDa8L8DgcNtxTh4QRxwc8iTyXvHEXm7UhoTre
+
+vuex di vue
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Flearn-vuex-in-5-minutes%2F%3Ffbclid%3DIwAR0tKfrODUnqSUrnIQpxgrficxNbGFpHD2ZCohvHwrljBxxUA3XADGUCQz4&h=AT0f3KUG81ZBQyuA7MUOcqai5ygYeKD_R9hSJG4QRUsq1FGdJQdP2a08Z7pGVtIzI5RFHLxBkgGVrtkeIV9bjTcoeuWC1tqRJYyt3vDcuBtOkQFkCAMMvZ8PduxQvCeNWXg&__tn__=-UK-R&c[0]=AT3clPHsnqmatSax5cOl4OTUIZA6lJPZYd1AfzXkME5gwbqGDSUQnTRKNDk58LY324I_CdNHnIgaLDwCSCr3KnjD1uoF4XE50mvxzJnc5W_StpOWKmVAAFK-uuac2UYTeDSkwpiSHfpUVdmkaJWGSwlPDa8L8DgcNtxTh4QRxwc8iTyXvHEXm7UhoTre
+
+deploy aplikasi vue ke firebase hosting
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.logrocket.com%2Fhow-to-build-and-deploy-a-vue-js-crud-app-with-cloud-firestore-and-firebase%2F%3Ffbclid%3DIwAR1eZzg7TcuvzExYmmyNQzrb6lwXCuI4OI3XHQT5iCvZpKWsngogPgpIfAg&h=AT27pWsq3qPSg8Zo0574NKe_h9-G0YbbcMxLd8oSCcoItx9BrO-jfhLhCEIRyNyf40K9swj0mHkIGmUbl93Q0-igY1oRLr3lOT8Sd3exaXQtvfN_n42Ch9R_3gNtO5tAVkA&__tn__=-UK-R&c[0]=AT3clPHsnqmatSax5cOl4OTUIZA6lJPZYd1AfzXkME5gwbqGDSUQnTRKNDk58LY324I_CdNHnIgaLDwCSCr3KnjD1uoF4XE50mvxzJnc5W_StpOWKmVAAFK-uuac2UYTeDSkwpiSHfpUVdmkaJWGSwlPDa8L8DgcNtxTh4QRxwc8iTyXvHEXm7UhoTre
+
+penggunaan management props untuk komunikasi component vue
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjs-dojo%2Fcomponent-communication-and-state-management-in-vue-js-cc59389d4c01%3Ffbclid%3DIwAR0qF_8ldcvSRXPLZde5S99vCKN43knvdrS8ERHGHu4DL5EojWtfGyTr3Ko&h=AT3mNiKgxdKUFgNA_RWt_66cEwlaUfBxkUgQZLVgR7m0e8kx9aP5egKO3FqAw4FhkI4siivrCpikFURumk7y5qkm2I1Hh3HRONJYa1xp4CPwBNjFvdpoUImQ0X72T9eN8BU&__tn__=-UK-R&c[0]=AT3clPHsnqmatSax5cOl4OTUIZA6lJPZYd1AfzXkME5gwbqGDSUQnTRKNDk58LY324I_CdNHnIgaLDwCSCr3KnjD1uoF4XE50mvxzJnc5W_StpOWKmVAAFK-uuac2UYTeDSkwpiSHfpUVdmkaJWGSwlPDa8L8DgcNtxTh4QRxwc8iTyXvHEXm7UhoTre
+
+Latihan panjang membuat konversi koordinat dan sebaliknya dan ditampilkan ke dalam peta Google Maps dengan Geocoding , menggunakan Vue JS, Firebase dan Maps Geocoding API
+Video
+https://www.youtube.com/watch?v=L6DhmAnq_IY
+
+Latihan menggunakan Vue Formulate untuk membuat form generator di Vue JS
+https://www.youtube.com/watch?v=XZF71ij463Y
+
+Latihan membuat Translator Bahasa dengan Vue JS dan AWS Amplify
+https://www.youtube.com/watch?v=VVb_qQFqE4M
+
+Latihan membuat aplikasi Todo List dengan Vue JS , Vuetify, VueFire, Firebase
+https://www.youtube.com/watch?v=tkvQVt2sX7Y
+
+Cara deploy aplikasi Vue JS ke Github Pages
+https://blog.logrocket.com/build-deploy-vue-js-app-github-pages/
+---
+
+Komparasi antara build tools Vue JS seperti Vite , Vue CLI , Poi, dan Bili
+https://blog.logrocket.com/comparison-of-vue-js-build-tools/
+---
+
+Cara memasang Chakra UI ke aplikasi Vue JS
+https://blog.logrocket.com/using-chakra-ui-in-vue-and-nuxt-js-applications/
+
+Latihan panjang membuat konversi koordinat dan sebaliknya dan ditampilkan ke dalam peta Google Maps dengan Geocoding , menggunakan Vue JS, Firebase dan Maps Geocoding API 
+Video 
+https://www.youtube.com/watch?v=L6DhmAnq_IY
+—-
+Latihan menggunakan Vue Formulate untuk membuat form generator di Vue JS
+https://www.youtube.com/watch?v=XZF71ij463Y
+—-
+Latihan membuat Translator Bahasa dengan Vue JS dan AWS Amplify
+https://www.youtube.com/watch?v=VVb_qQFqE4M
+——
+Latihan membuat aplikasi Todo List dengan Vue JS , Vuetify, VueFire, Firebase
+https://www.youtube.com/watch?v=tkvQVt2sX7Y
+
+Latihan fullstack JavaScript dasar dengan MEVN Stack . Namun dengan database PostgreSQL dan TypeScript
+https://medium.com/better-programming/quickly-create-a-full-stack-web-app-in-typescript-9188f011748b
+—-
+Beberapa fitur baru di Vue JS 3
+https://dev.to/daiyanze/vue-3-new-features-summary-2cie
+---
+Cara deploy aplikasi Vue JS ke Github Pages 
+https://blog.logrocket.com/build-deploy-vue-js-app-github-pages/
+---
+Menambahkan fitur two factor authenticaton atau TFA dengan Node JS Express JS dan Vonage API
+https://codeburst.io/how-to-add-two-factor-authentication-with-node-js-and-express-7cad30aac4c
+—-
+Membuat schema relasi di dalam GraphQL dan MongoDb 
+https://medium.com/better-programming/how-to-add-relations-to-your-graphql-schema-295dd45cc62d
+
+Latihan panjang pengenalan Vue JS 3 dengan Vuex 4 , dan Vue JS dikonfigurasi dengan menggunakan TypeScript
+https://www.youtube.com/watch?v=fh0VboqAc8k
+—-
+Latihan sebelumnya tentang penggunaan Vue JS 3 dengan TypeScript
+https://www.youtube.com/watch?v=V9MmoBAezD8
+—-
+Latihan menggunakan Nuxt JS untuk membuat aplikasi web dengan JAMStack 
+https://medium.com/better-programming/power-up-your-jamstack-with-the-new-nuxt-9b5c3d449876
+---
+Latihan membuat grafik pohon Tree Graph dengan D3 JS dan Vue JS
+https://levelup.gitconnected.com/building-a-rpg-like-skill-tree-98bfdbef01de
+
+Latihan dari Programming with Erik untuk pengenalan Vue JS versi 3 dengan TypeScript
+https://www.youtube.com/watch?v=V9MmoBAezD8
+---
+Latihan membuat kalender bulanan dengan Vue JS
+https://medium.com/js-dojo/how-to-make-a-monthly-calendar-with-vue-c5abdba2dc17
+---
+Beberapa paket plugin Vue JS untuk membuat Tabel, membuat Checkbox , dan manipulasi teks
+https://medium.com/front-end-weekly/top-vue-packages-for-adding-tables-checkboxes-and-manipulating-text-ecbd4985a140
+---
+Beberapa tips untuk optimasi aplikasi Vue JS dan performa yang lebih baik
+https://blog.logrocket.com/methods-optimizing-vue-js-applications/
+
+
+Latihan mengenal Nuxt Content , Headless CMS dari Nuxt JS 
+https://youtu.be/KnKmSFeTUjY
+https://youtu.be/UAQXQG5RnUQ
+---
+Dokumentasi penggunaan Nuxt Content CMS 
+https://content.nuxtjs.org/
+---
+Konfigurasi style programming dengan ESLint di Vue JS
+https://youtu.be/FZ0YtjgO0DQ
+---
+Artikel berseri pengenalan fungsi di dalam Vue JS untuk events, slots, Mixins, Vuex, Component , dst 
+https://medium.com/js-dojo/vue-js-app-in-real-world-structure-events-slots-mixins-35264106013b
+
+
+Latihan gratis pengenalan Vuetify dan Vue JS 
+https://www.freecodecamp.org/news/want-to-learn-vuetify-heres-our-free-15-part-course-by-gwen-faraday/
+---
+Latihan pengenalan Vuex State Management di Vue JS
+https://www.freecodecamp.org/news/learn-vuex-in-5-minutes/
+---
+Cara deploy aplikasi Vue JS ke layanan Firebase Hosting dan Firebase Database
+https://blog.logrocket.com/how-to-build-and-deploy-a-vue-js-crud-app-with-cloud-firestore-and-firebase/
+---
+Contoh penggunaan state management dan Props untuk komunikasi antar component di Vue JS 
+https://medium.com/js-dojo/component-communication-and-state-management-in-vue-js-cc59389d4c01
+
+
+Latihan pengenalan dari Programming With Erik untuk Headless CMS baru dari Nuxt JS yang bernama Nuxt Content
+https://youtu.be/UAQXQG5RnUQ
+----
+Membuat Countdown Timer dengan Vue JS
+https://youtu.be/Q_fLx2KcoYA
+---
+Mengubah tampilan latar belakang halaman dengan Vuetify JS dan Nuxt JS
+https://medium.com/untitled-factory/changing-background-color-in-vuetify-js-and-nuxt-js-b4222cfa547e
+----
+Penggunaan GraphQL dan Vue Composition API dengan library Apollo Composable
+https://dev.to/aaronksaunders/graphql-vue-composition-api-with-apollo-composable-3kk4
+
+
+Membuat fungsi upload gambar dengan format Base64 dari Vue JS ke backend Node JS Express JS
+https://medium.com/js-dojo/how-to-upload-base64-images-in-vue-nodejs-4e89635daebc
+----
+Latihan dasar pengenalan Vue JS 3 dengan komponen Vue Vite .
+https://youtu.be/23ML0kHnjv4
+
+
+Latihan panjang pengembangan aplikasi web dengan Vue Nuxt JS
+https://www.smashingmagazine.com/2020/04/getting-started-nuxt/
+-----
+Mengambil lokasi pengguna melalui browser dengan contoh kasus pada Vue JS
+https://softauthor.com/vuejs-geolocation-get-user-location
+-
+Latihan dari Programming With Erik tentang pembuatan Loading Spinner di Vue JS
+https://youtu.be/VPOVOlVQwB8
+-----
+Komparasi antara React Next JS dengan Vue Nuxt JS , dalam hal komparasi sintaks dan pola penulisan kode
+https://medium.com/js-dojo/react-js-next-js-and-vue-js-nuxt-js-syntax-comparison-side-by-side-a09678526ab8
+
+
+Cara menambahkan Vue JS dan Vue Router ke dalam framework Fullstack JS bernama Meteor JS
+https://levelup.gitconnected.com/adding-vue-and-vue-router-to-meteor-7c411131494f
+---
+Latihan pengenalan Virtual DOM di Vue JS 3
+https://vuejs-course.com/blog/diving-into-the-virtual-dom
+—-
+Latihan menggunakan Vuex State Management di Vue JS
+https://dev.to/dtroyano86/how-to-manage-a-store-with-vuex-103
+
+
+Membuat aplikasi PWA Progressive Web Apps dan melakukan deploy ke Google Play Store dalam bentuk TWA Trusted Web Activities 
+https://blog.logrocket.com/how-to-build-a-twa-android-app-out-of-your-nuxt-js-pwa/
+—-
+Contoh pembuatan Sitemap dengan Nuxt JS
+https://dev.to/jackabox/generating-sitemap-entries-for-nuxt-content-4h22
+---
+Latihan menambah animasi transisi di Vue JS
+https://dev.to/mishmanners/learning-vue-js-for-animations-and-transitions-3im
+
+
+Beberapa referensi project membuat YouTube Clone , Note Taking , Vite Recipe lengkap dengan link tutorial sampel project tersebut, dengan Vue JS 3
+https://youtu.be/ApcEoP0ABaU
+---
+Latihan mengembangkan aplikasi web dengan Vue JS 3
+https://levelup.gitconnected.com/developing-a-full-app-using-the-vue-3-composition-api-4fd9431f2136
+---
+Membuat aplikasi web dengan Nuxt JS dan Chakra UI
+https://www.smashingmagazine.com/2020/07/accessible-front-end-application-chakra-ui-nuxtjs/
+---
+Menambahkan pintasan keyboard ke dalam aplikasi Vue JS
+https://dev.to/focusedlabs/add-keyboard-shortcuts-to-your-vue-app-22jg
+---
+Membuat sistem shopping cart sederhana dengan Vue Vite dan  Express JS Node JS
+https://dev.to/suniljoshi19/build-a-shopping-cart-in-nodejs-and-vue-vite-47go
+https://www.wrappixel.com/building-a-shopping-cart-in-nodejs/
+---
+Membuat blog pribadi sederhana dengan Nuxt JS
+https://dev.to/orodan/creating-my-personal-website-with-nuxtjs-1n55
+
+
+Latihan panjang dari Traversy Media dan Gwen membuat aplikasi fullstack Javascript dengan Vue JS , Gridsome ,  Strapi CMS dan GraphQL dengan contoh kasus aplikasi manajemen acara atau daftar event
+https://youtu.be/vB6rmWCmANA
+---
+Latihan melakukan visualisasi data COVID19 dengan Vue JS dan Chart JS
+https://dev.to/23subbhashit/fetching-and-visualizing-data-in-vue-using-axios-and-chart-js-k2h
+---
+Membuat instance baru untuk Axios HTTP dengan mudah
+https://dev.to/erenyatkin/creating-http-client-instance-with-axios-in-vue-3an2
+---
+Latihan menggunakan Composition API di Vue JS dan alternatif dari Vuex
+https://dev.to/thomasferro/composition-api-v-renderless-components-let-s-use-vue-3-s-features-to-clean-our-components-n25
+-
+https://dev.to/thomasferro/emancipate-yourself-from-vuex-with-vue-3-s-composition-api-3b9g
+---
+
+
+Konfigurasi aplikasi React JS dalam Docker dan dijalankan dalam Gitlab Pipeline untuk CI/CD
+https://dev.to/christianmontero/gitlab-ci-cd-example-with-a-dockerized-reactjs-app-1cda
+---
+Latihan deploy aplikasi Vue JS di dalam Docker ke layanan Azure 
+https://www.freecodecamp.org/news/how-you-can-do-continuous-delivery-with-vue-docker-and-azure-2f1e31fff832/
+
+
+Beberapa referensi template dashboard dan web untuk Vue JS 
+https://dev.to/sm0ke/vue-template-a-curated-list-with-free-resources-5a4n
+---
+Tips penting dalam membangun aplikasi web skala besar dengan Nuxt JS 
+https://vuejsdevelopers.com/2018/07/16/7-tips-large-nuxt-app-vue/
+---
+Latihan menggunakan Bootstrap Vue untuk membangun aplikasi web 
+https://vuejsdevelopers.com/2020/07/29/bootstrap-vue/
+---
+Membuat Code Coverage end to end testing dengan Cypress di Vue JS
+https://vuejsdevelopers.com/2020/07/20/code-coverage-vue-cypress/
+---
+Artikel tentang kelebihan penggunaan Vue CLI dan 
+https://vuejsdevelopers.com/topics/vue-cli/
+---

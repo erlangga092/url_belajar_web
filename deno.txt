@@ -1,0 +1,54 @@
+rest api sederhana dengan deno
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Faletisunil%2Foverview-of-deno-js-installation-and-building-an-api-46i1%3Ffbclid%3DIwAR21DJiD02j70nODmeVRMVJQlFMyvhVwa5sdzlek7Mvymk4Ju1OQ6SK4GsA&h=AT13x90PJmn5EC3qKGlkUmu-0zOEng7qaXUA-pEvNGXffErdey2i0nqDbeN77xEtumNy7744hqbN3ToDaAoIjZA9gUNYjZXMK03u0mjBI1IQH4cp_xfhE6IRjboUyN6bmiU&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40sksharein%2Fdeno-nextgen-node-js-6552cb7f1c95%3Ffbclid%3DIwAR2qyVok-d_88oStwxcn5Wa4S_uhyFCamrhaGOJZKzZM0PHJOQNus3KeUuw&h=AT0R_XBhfSxepKwu3rLwsYsGKVgnwHxNWX77xgK26t9LeachQN3SF5Fhc8hyiVjVhYVkwuxgNevXmJN1wwEnMxjKDvxwleBq0gN8G7fR847_9BUOgXvz_5PoAFT7Fk3BQ_g&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+Membuat rest api todolist dengan deno dan OAK framework
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcreate-a-todo-api-in-deno-written-by-a-guy-coming-from-node%2F%3Ffbclid%3DIwAR2fgl72UJfTgV3WSrS-UuDvltFdztefewue6C6vjUOTCabfd5snFRp46zw&h=AT1-lqGR_HbO5o2sa1RvV2aEUShTrFr_gZJkLeMjJK-dv31MGZiORoC3JsVZq1DuDI6nPnqxS7hrBoNQM2XPgoqt0I-DzfBtqZvVceYSPk1zlCaAe5vYl37e7J1ZOkoB6UI&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+membuat backend server dengan deno framework OAK
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2Fbuilding-crud-apis-using-deno-and-oak-9f71ec106b0e%3Ffbclid%3DIwAR3zdnuPQfmQ0RUdKD_IXoJiJjqmBIBBzEeIRIalJXzGoXg71jHZenvKYVs&h=AT0Lf7HYvooRA0YGpsT4y_LEP-V1otfcxk6o4hgvXRyLIxwiatPAgKMzK58C9J2g0D09ZBJAZgN4J0p-DJqUhosRuK3_dftvRwdR_0dkKw5tqr05a07I6xnVFbhWG8AgMl8&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+beberapa modul deno yang siap dipakai untuk production
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2F7-modules-you-can-use-right-now-to-build-your-first-deno-web-app-b041a156a346%3Ffbclid%3DIwAR2cLNscufD6pTDc9Cj17eROanWx_WNmROcAOq3hz_J8mbk6mRO66a34nPQ&h=AT3Ge-_6J5wksLeXyf63MQwnrNrEpiNP0mIngLi14529u0xprA2nYF8ZG_ddNxLvK2jD21m-ThCJ1tuS-P0fBkKv2VJqE-NclCItzT_wmalGzF5a2VgU1UOl3U7mO0__Exw&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+backend server sederhana dengan framework OAK
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fnas5w%2Fyour-first-deno-server-in-60-lines-20kk%3Ffbclid%3DIwAR29Kl0ri0FAjfB_MeRLqaJtHgu9gNl4qTmm6DgzEPTqADtn-kPH79e6eyg&h=AT2_rZ3D8cPTxH454waMcO_xsObh3JvWnT_UexEFW2MQ8Icgnd3PNKFx4YoTHh46-FZOQWOxuQ1ExV6UlK_J9z34XzSxS_cN415AGMSWvyItP5MMHvQmAEn-IMILkl7wH8U&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+rest api dengan framework abc
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fdsckiitdev%2Fwrite-your-first-api-with-deno-1llh%3Ffbclid%3DIwAR2yk0R1ixO1IlEpl8BUCEm9NX7Ofo8lFdTsqz1H8NgR1_zkGj-AXvdOnWc&h=AT0QOlELSAIqgSM4OoDfe6P1MSqrJcDOGqKllYWEXY4PsWDJodw282NRTWT-nN3DXiu-C7e-CsTaswTwR0hP5SlqmWTYMk3dwqGvZsN8vCQtvNIsh2HgKUPWcd9z3o3zMMA&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+sampel aplikasi cli yang dibuat dengan deno
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Ffastflowz%2Fdeno-diceware-a-deno-password-generator-5kl%3Ffbclid%3DIwAR2Ir9XmVsUF9peqMDssfrKsyTUUJjaykUhpYWBZCJpPbR2YAymPd0CeORA&h=AT1r7r2xpD2CFsjqmnDme_1HwS4d_E1ZC89yHwy8XCiQBtjcPsKouycEHcVadtuNUyyQk60VdDvWtKtuO9zPZkRSkSMPxTzkRqVNbiaTfqmSiGDxL9LUhRTk9DHyvKO9Gmg&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+penjelasan fitur deno
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fsmithg09%2Fis-deno-the-new-node-7o4%3Ffbclid%3DIwAR2scoFrphSf5-JBgIYvGrB36TtyX6N5wT9Vmm-E4tTPbMT7BNE4QnVbdzc&h=AT1MKVnTiafaxTxIn3g4BtTkcIUyzRZ1Mapuwojj0Ez7ZJI-o7Oypev8pHT_mxq-RAt9JlRbo3DwYUHZzBuxhy-gbPMa6S7hmUK47VJ-EeKOfJ8ls4F-kvIrDQbxpX-9-hg&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+docker untuk deno
+https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fhayd%2Fdeno-docker%3Ffbclid%3DIwAR1HQbruQuH-XM5Vlh8LvCPuEETrRaj66OjqCJzO9660vA9hS0Elm12o1SI&h=AT0RdGHMuAn9TDK0_o6WxopTPvD1g5w37qFW47e-JPtC_bcJEluQjK2-8TCrHK2GYCxPNXcReUggMHr5wPJuNmMPZeNDsNwlbJY0ixdHt_ATir3x8BtQQ0scRL-A-TLFeeA&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+deno lambda untuk aws lambda
+https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fhayd%2Fdeno-lambda%3Ffbclid%3DIwAR21DJiD02j70nODmeVRMVJQlFMyvhVwa5sdzlek7Mvymk4Ju1OQ6SK4GsA&h=AT3e8aXOJ5uQ4GZFIM_KlVF4w9rMGWN7jtHLykoOm2X-ipZboQT1kRCA9Bm2j2agvm1H8Tj-6Uy9bUBkT0LX7NlNGs710uYQzdRiQ6MF34qCz1WP1sBk7IPIgEFxjxw2mW0&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+awesome deno repository
+https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fdenolib%2Fawesome-deno%3Ffbclid%3DIwAR0RPMC5j6nRdp668Ay8FX2O9Pm6Iz17BLQeDqtfgmxhZjcQ5Fk5K5_mGCA&h=AT2YdnZf3q0y7EaPNWWabZ2Gf_xUbNkDCcypRTla-yCLra25BKKwG8CuEP7uC7taNF2b9NWndTCwx97XS39Ho8dX3VATuclxkXFOw5ANYxA_QtkCODxwWKfgj8Q0tz76rHc&__tn__=-UK-R&c[0]=AT36m0EpnKhTR3wc2_GP6knJTUCrQdsG3MILl16BK7GGHyjr8kWPAuvmpmpRkFictCPJYc5S5UP1bwXQEq3kurVNSHEHqYF5kXadHLbEGYHLL9EhLQpdIv27DYtH51cox0A3BJpTS3bRwh26Ju3AaT1bOBSMhKMWu-_GLIiE0GTpVnL93bjKkqACqJE
+
+
+Latihan panjang sekali menggunakan Deno , Reno Routing, dan sambungan ke database PostgreSQL
+https://www.sitepoint.com/building-microservices-with-deno-reno-postgresql/
+---
+Memahami beberapa fungsi built-in di Deno TS 
+https://www.sitepoint.com/deno-built-in-tools/
+---
+Latihan panjang menggunakan Deno TS untuk membuat REST API , Auth dan JWT Token, dan database MongoDb
+https://dev.to/sarthaksavvy/deno-full-course-in-3-5-hours-11p4
+---
+Penggunaan kombinasi Pika CDN dengan 
+https://dev.to/pika/introducing-pika-cdn-deno-p8b
+---
+Membuat REST API sederhana dengan Deno TS
+https://dev.to/kryz/write-a-small-api-using-deno-1cl0
+---
+Membuat backend API sederhana dengan Deno TS dan ABC
+https://dev.to/dsckiitdev/write-your-first-api-with-deno-1llh
+---

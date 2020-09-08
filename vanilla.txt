@@ -1,0 +1,235 @@
+Game tic tac toe dengan vanilla js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2Ftic-tac-toe-in-javascript-for-beginners-befbb55c0da%3Ffbclid%3DIwAR1KmRPpQ2VnHahLwl-5YpU4FmwKfLuohKG2CbFsGF-QtZW6NkMpqpVhNJw&h=AT1XGvQToEYxV2kBXGbcCVnjsc3OF92hfdlNidaihUNRg3adiwVqhdy9H8k0Bq-kh_J26EiEXHWRxECqJf4hC-0ijVTV5mgvFQWbjZfqQrRY9M_YD45Tu_lrsVhKM95Ntxc&__tn__=-UK-R&c[0]=AT04J0A_vX-DZ3QjHlyd37-wGWapjxtVxN3BVeHZ2sTRlW0ONwHMrqA6dahpuaY4bOczfDSo0YqJgYMAUgghRawbCnOzHI_PBw6BMeP8DzxpmW46KleOeDbgd15L90UyMgd4iksInrn7C54pLthCu3OO85MjehcVbiN8WVopdjtkaXIeAP98D1Py01U_
+
+fungsi array reduce js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fultimatecourses.com%2Fblog%2Farray-reduce-javascript%3Ffbclid%3DIwAR2y161Byl9sI0th1HoKdMmkxX7gnVsxwZnR_K3Ceudf4cVUKsRiqR6LO0w&h=AT3xUyrkHz-Hk5wcrsB8oh_c6aITuqxJeC-163YZ8sSFVVll1y8pnUCXjYCk-f8JbHa5Wc2Mxu94_YmSndkA2sP4Jjiq09aAa1h3MOVsYBllotPeOHPYrRud5bWI144FhkQ&__tn__=-UK-R&c[0]=AT04J0A_vX-DZ3QjHlyd37-wGWapjxtVxN3BVeHZ2sTRlW0ONwHMrqA6dahpuaY4bOczfDSo0YqJgYMAUgghRawbCnOzHI_PBw6BMeP8DzxpmW46KleOeDbgd15L90UyMgd4iksInrn7C54pLthCu3OO85MjehcVbiN8WVopdjtkaXIeAP98D1Py01U_
+
+library untuk manipulasi gambar dengan javascript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.bitsrc.io%2Fimage-manipulation-libraries-for-javascript-187fde1ad5af%3Ffbclid%3DIwAR0o89DbAx2Vy0IGhHFEdVsOD9ezhGBhWb_orAg7_XU5Bd8ZgfRi0m7PpH4&h=AT0RB1r4YpS5-v5ohOeNLomhwdTSqcZHqHgr2ZncfaNjk6GTzMbFJRN3qNqHBX1nCJeUHo0AlCGQBmBmrqwr_E4OUfnSzeU-2pwolwcTzuaHW85WD8IBCMBxvzoxFrPX-8s&__tn__=-UK-R&c[0]=AT04J0A_vX-DZ3QjHlyd37-wGWapjxtVxN3BVeHZ2sTRlW0ONwHMrqA6dahpuaY4bOczfDSo0YqJgYMAUgghRawbCnOzHI_PBw6BMeP8DzxpmW46KleOeDbgd15L90UyMgd4iksInrn7C54pLthCu3OO85MjehcVbiN8WVopdjtkaXIeAP98D1Py01U_
+
+mendeteksi status browser pengguna apakan online atau offline
+https://dev.to/nialljoemaher/detecting-if-a-user-is-online-offline-with-javascript-3bcc
+
+latihan membuat aplikasi SPA dengan html css
+https://itnext.io/build-a-single-page-web-app-javascript-and-the-dom-90c99b08f8a9
+
+Memperpendek logika kondisi if else
+https://dev.to/codeartistryio/how-to-shorten-javascript-conditionals-with-short-circuiting-4gcd
+
+Menghapus element di dalam array
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fip127001%2F5-ways-to-delete-an-element-from-an-array-in-javascript-jm9%3Ffbclid%3DIwAR0pw4pKPWaK-QK-vZSJBNtdktcLCSyjhXRr9VinPscGgoc6n7BiNZ6yQoc&h=AT3x9I1I5JLUNSyjy5SQh3J_0u7Jyzw1bVRR0wE_5vxe5QlGScjlGGCh9kieMWMK9xN9tIiboD2w4erfCcog2QutZHOf46ZMQETd-MgQmbjaGw_Mk5zKp6qL5TsN67h3NP8&__tn__=-UK-R&c[0]=AT1EUGIKB9-7mkHsFGivYsu2a_d5W-0AR-IhxDNRPdsv_gmLbhvOdquBt1jC1LS-lYwkDjpBG_fbYqaCdMI-cIxQLp0ubz5ZpjqoX3tdRBw2SmrD08XJLaMhN46pk1UFYV5rc-iexYYWoc3ZMCYSv1eU_Va63CRS5bGvaEE1Q_FkzyYwAv9df3D9spxM9WYBBQVr9MB7SsH0s04DwXZl
+
+Membuat file dengan bantuan browser API
+https://l.facebook.com/l.php?u=https%3A%2F%2Fkilianvalkhof.com%2F2020%2Fjavascript%2Fcreating-files-in-javascript-in-your-browser%2F%3Ffbclid%3DIwAR03QtkEChM6KiOJ5t3wq90JAJyNcYfOS4gXiy3v81lCkJm1QPRfIg7CkdM&h=AT3Avy40cj8W5ZFL2ebMKHXYXGPbk2qXSbz9rYDQFhSe9W2vXqKXOcAsMUf7vEwaHBG6BlR6dBhX-xaXoi5E9gyMjBGggtIizilNIpRQoVPyQOhzu7JFvY32nbrv4VhKKJM&__tn__=-UK-R&c[0]=AT1EUGIKB9-7mkHsFGivYsu2a_d5W-0AR-IhxDNRPdsv_gmLbhvOdquBt1jC1LS-lYwkDjpBG_fbYqaCdMI-cIxQLp0ubz5ZpjqoX3tdRBw2SmrD08XJLaMhN46pk1UFYV5rc-iexYYWoc3ZMCYSv1eU_Va63CRS5bGvaEE1Q_FkzyYwAv9df3D9spxM9WYBBQVr9MB7SsH0s04DwXZl
+
+Latihan membuat game ular-ularan dengan canvas dan vanilla javascript
+https://l.facebook.com/l.php?u=https%3A%2F%2Flevelup.gitconnected.com%2Fbuilding-a-snake-game-using-canvas-260a738edcec%3Ffbclid%3DIwAR0pw4pKPWaK-QK-vZSJBNtdktcLCSyjhXRr9VinPscGgoc6n7BiNZ6yQoc&h=AT0pH4Ko132j6sWoMObveUwqFqN_FPTdLb_lxhp-VpB2d4mgdWSsjhFpZ1Uzyko4tASXZUqMPeLWug2_jGVrMny5UsYJSONe2LnQmrYSCMS3VbNsOAnsoJfMokPrKwQ0vt0&__tn__=-UK-R&c[0]=AT1EUGIKB9-7mkHsFGivYsu2a_d5W-0AR-IhxDNRPdsv_gmLbhvOdquBt1jC1LS-lYwkDjpBG_fbYqaCdMI-cIxQLp0ubz5ZpjqoX3tdRBw2SmrD08XJLaMhN46pk1UFYV5rc-iexYYWoc3ZMCYSv1eU_Va63CRS5bGvaEE1Q_FkzyYwAv9df3D9spxM9WYBBQVr9MB7SsH0s04DwXZl
+
+Latihan membuat github profile dengan markdown
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fm0nica%2Fhow-to-create-a-github-profile-readme-1paj%3Ffbclid%3DIwAR38iyLL9L2q2B-4mU9GdtsNs_UJ_goeh8A3Dlegh9fiC5KY5IO0Hg3OJ-A&h=AT1G910Qcnw9BKi36Ok2MifTLXqrDIRkdBW_--dqbMjWBEcZbaKpQksEi6SEdSjvJAF2CztvhDEh3BRoib4gNIXYiodVj7SraWUPcruhZ3V7MJh0l7379Wcu3975NgZj2xA&__tn__=%2CmH-R&c[0]=AT1Dioz9h5_5HnfQcAtto6EvvaWOZ8Q0F7Cu1JBmtV3ikxMe_0ZWQsaJyZDB3E7IykYhM633OZgZcaTBQDDl1R4T5guCXfG6vt6f8FVAK_91MvStAH7hNQ31W480CeXFI2x1JJVKMyYTsvqcJ3pTLJLmpbdTidtTTwIjqmbTbxZHN5fR7DFtO7-co0f6GkekPsf9Z756siPCHRK4Pu4
+
+Teknik penting dalam komparasi variabel String di Javascript
+https://dmitripavlutin.com/compare-javascript-strings/
+
+Latihan berseri dan panjang pengenalan Javascript sebanyak 43 parts 
+Pada bagian ini adalah empty conditional statement if else
+https://dev.to/bhagatparwinder/the-empty-statement-in-javascript-3lg7
+
+Daftar referensi untuk melatih algoritma dan logika dengan contoh kasus masalah pemrograman
+https://dev.to/arnoldgee/a-basic-javascript-course-is-not-enough-do-these-5-things-5g9l
+
+Menguasai teknik asinkronus dalam Javascript, cara kerja Event Loop dan komunikasi ke event loop secara asinkronus 
+https://dev.to/ryanameri/mastering-hard-parts-of-javascript-asynchronicity-i-1b5
+
+Perbedaan antara Promise All Settled dengan Promise All
+https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle
+---
+
+Beberapa fungsi Array yang jarang dipakai namun sangat penting dan berguna, seperti copyWithin(target, start?, end?), dan lastIndexOf(searchedElement, toIndex?)
+https://dev.to/assuncaocharles/underrated-array-methods-2mdj
+---
+
+Memperkenalkan Handwritten JS , library untuk konversi font di dokumen menjadi bentuk tulisan tangan
+https://github.com/alias-rahil/handwritten.js
+
+Belajar menggunakan Javascript modern ES2015 ke atas untuk menggantikan jquery 
+https://medium.com/front-end-weekly/switching-from-jquery-to-vanilla-js-187d780c5a5c
+---
+
+Beberapa metode dari Object Number untuk manipulasi bilangan
+https://medium.com/front-end-weekly/8-javascript-number-methods-as-simple-as-possible-c1cd73fbff6f
+---
+
+Melihat fitur deklarasi di dalam conditional if else pada standar ES Next berikutnya
+https://medium.com/front-end-weekly/esnext-declarations-in-conditionals-c9122d99dc11
+---
+
+Cara manajemen data dengan Javascript modern dari http request, cache, dan storage API
+https://levelup.gitconnected.com/better-data-management-with-javascript-modern-browsers-apis-8ef0f389bb8d
+---
+Memahami apa itu Async Await dan eksekusi secara paralel
+https://dev.to/papasanto/async-await-from-beginner-to-advanced-features-including-concurrency-16c
+
+Menggunakan fungsi Native Javascript untuk melakukan format bilangan dana manipulasi bilangan angka
+https://elijahmanor.com/format-js-numbers
+---
+Pengenalan Optional Chaining di Javascript dan cara penggunaannya
+https://dev.to/dailydotdev/optional-chaining-in-javascript-what-is-it-and-how-to-use-it-2o59
+---
+Penjelasan panjang tentang  Javascript modern dengan analogi penjelasan kepada Dinosaurus
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+---
+Course yang berisi latihan implementasi sederhana fungsi fungsi di  Javascript
+https://www.freecodecamp.org/news/learn-javascript-to-build-apps/
+---
+Cara melakukan looping di dalam Object Javascript dengan Object.keys , Object.entries , dan Object.values
+https://www.freecodecamp.org/news/how-to-loop-through-objects-in-javascript-a80b7d2478ac/
+
+Beberapa sumber resources penting untuk belajar dan aset aplikasi
+https://dev.to/jatinrao/resources-for-frontend-developers-1l9i
+---
+
+Beberapa cara untuk Shallow Copy object di Javascript
+https://dmitripavlutin.com/javascript-shallow-clone-objects/
+---
+Beberapa cara untuk kombinasi String di JavaScript
+https://dev.to/samanthaming/4-ways-to-combine-strings-in-javascript-2bj4
+—-
+Struktur data yang perlu dipelajari dalam Javascript programming
+https://blog.bitsrc.io/data-structures-you-should-know-as-a-javascript-developer-9a35eb3b319c
+---
+Beberapa hal baru yang akan rilis di JavaScript versi ES2020
+https://dev.to/albertomontalesi/everything-new-coming-in-es2021-2l5l
+—
+
+
+Latihan membuat aplikasi Quiz dengan Javascript murni, HTML , dan CSS
+https://dev.to/codeleague7/build-a-quiz-app-javascript-project-tutorial-4mj7
+---
+Membuat game acak dadu dengan Javascript, HTML , dan CSS
+https://dev.to/codeleague7/build-dice-roll-game-javascript-css-tutorial-for-beginners-video-format-4ca0
+---
+28 video tutorial atau Course untuk pengenalan dasar Javascript dan contoh kasus penggunaan
+https://www.freecodecamp.org/news/learn-javascript-to-build-apps/
+---
+Contekan Cheatsheet tentang menggunakan ES Module
+https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829
+
+
+Membuat game tebak huruf dan  karakter dengan JavaScript
+https://dev.to/bitproject/building-a-charades-game-in-javascript-3c0b
+—-
+Latihan membuat game Beat Hip hop dengan JavaScript Modern
+https://dev.to/akdeberg/simple-beat-maker-with-vanilla-javascript-3h7
+—-
+Pemahaman penggunaan Call , Bind , dan Apply di JavaScript
+https://dev.to/liaowow/quick-guide-to-call-apply-bind-in-javascript-156p
+—-
+Referensi link belajar menjadi developer aplikasi web Fullstack JS
+https://dev.to/freakomonk/to-be-a-full-stack-engineer-in-2020-3n2d
+
+
+
+Latihan berseri dan panjang, membuat game dengan Javascript framework Phaser JS, game yang dibuat adalah game Space Invaders
+https://dev.to/ablydev/building-a-realtime-multiplayer-browser-game-in-less-than-a-day-part-1-4-14pm
+---
+Latihan panjang membuat game dadu dan game lainnya dengan Javascript , CSS , dan HTML
+https://www.freecodecamp.org/news/learn-javascript-by-making-digital-tabletop-games-and-web-apps/
+---
+
+
+Contekan Cheatsheet tentang pembuatan ES2015 Class dan pembuatan fungsi yang ada di dalam Class.
+https://www.samanthaming.com/tidbits/39-es6-classes/
+----
+Memanipulasi isi array di Javascript dengan cara functional programming
+https://levelup.gitconnected.com/manipulate-javascript-arrays-the-functional-way-690fef7f4275
+---
+Memahami penggunaan Array Reduce di Javascript
+https://dev.to/shrek7/javascript-reduce-method-2dpa
+
+
+Beberapa alternatif library yang lain untuk Moment JS , seperti Luxon , Date-Fns , Day JS , Javascript Intl API
+https://blog.logrocket.com/4-alternatives-to-moment-js-for-internationalizing-dates/
+----
+Beberapa design pattern di Javascript seperti Decorators, Facades, and Proxies
+https://levelup.gitconnected.com/basic-javascript-design-patterns-decorators-facades-and-proxies-2309eb485229
+----
+Form Validation dengan menggunakan Javascript murni / Vanilla JS
+https://www.freecodecamp.org/news/basic-form-validation-in-javascript/
+----
+Menggunakan Promise ke dalam variabel untuk digunakan berulang kali di bagian kode yang lain
+https://blog.ashleygrant.com/2020/04/30/resolved-javascript-promises-can-be-used-multiple-times/
+-----
+Cara menggunakan Debounce atau penundaan eksekusi beberapa waktu di Javascript
+https://dev.to/sashycashy/debouncing-4fn0
+
+
+
+Latihan penggunaan private fields di dalam class Javascript
+https://blog.bitsrc.io/javascript-finally-has-support-for-native-private-fields-and-methods-d758fdcfd320
+---
+Cara menyalin semua isi array beranak dengan Javascript
+https://ozmoroz.com/2020/07/how-to-copy-array/
+---
+Beberapa fungsi di dalam Date Object untuk manipulasi tanggal waktu
+https://medium.com/front-end-weekly/javascript-date-methods-as-simple-as-possible-9e8f6db35bd6
+----
+Manipulasi isi Array dengan menambahkan element baru menggunakan metode Push, Unshift, and Concat
+https://www.freecodecamp.org/news/javascript-array-insert-how-to-add-to-an-array-with-the-push-unshift-and-concat-functions/
+---
+Beberapa fungsi untuk manipulasi data Array dengan Map , Reduce ,  Filter
+https://levelup.gitconnected.com/level-up-your-javascript-arrays-with-these-four-building-block-functions-d01ca0971bcf
+---
+Beberapa fungsi penting di Javascript seperti Destructuring, Spread Syntax
+Rest Syntax, Array methods, dan variabel
+https://blog.bitsrc.io/5-key-concepts-to-level-up-your-javascript-skills-6682a65cbf3d
+---
+Beberapa hal yang jarang diketahui di Javascript , seperti IIFE , in operator , label loop, dst
+https://dev.to/areknawo/top-5-javascript-secrets-2gp7
+
+
+Beberapa latihan membuat project untuk mengasah kemampuan HTML-CSS-Javascript di bagian front end
+https://dev.to/nghiemthu/8-projects-with-modern-designs-to-become-a-full-stack-master-2020-14j9
+---
+Referensi project sederhana untuk latihan membuat aplikasi fullstack JS dengan Node JS stack.
+https://dev.to/myogeshchavan97/become-a-full-stack-developer-by-building-these-amazing-applications-4ep
+—-
+Tips menggunakan fungsi Console Log untuk debugging sederhana 
+https://dev.to/abhinavnigam2207/console-is-much-more-than-log-59mp
+---
+Penggunaan isNan dan Number.isNan dengan benar 
+https://dev.to/dvddpl/i-ve-always-been-using-isnan-wrong-and-you-3k66
+
+
+Latihan penting pengenalan fungsi Call , Apply , dan Bind di Javascript untuk menjalankan fungsi yang sudah ada.
+https://levelup.gitconnected.com/grokking-call-apply-and-bind-methods-in-javascript-392351a4be8b
+---
+Beberapa library visualisasi data di Javascript untuk bentuk Charts dan diagram
+https://levelup.gitconnected.com/beautiful-javascript-data-visualization-libraries-1d3b66d6c318
+---
+Catatan rilis ESLint 7.8.0
+https://eslint.org/blog/2020/08/eslint-v7.8.0-released
+---
+
+
+Latihan yang berisi daftar visualisasi gambar cara kerja Javascript sehingga mudah dipahami.
+https://dev.to/ender_minyard/28-code-tutorials-for-visual-learners-19pl
+---
+Latihan mengenal cara kerja Event Loop di Javascript
+https://dev.to/lschwall/event-loops-an-introduction-53ep
+---
+Melakukan format tanggal dengan Date class Javascript
+https://dev.to/rfornal/format-date-and-time-with-vanilla-javascript-5f4m
+----
+Tips menggunakan VS Code untuk konversi kode berbasis Promise menjadi Async Await
+https://www.techiediaries.com/convert-promise-async-await-vscode/
+
+
+Memahami apa itu Hoisting Dan Scope di Javascript
+https://levelup.gitconnected.com/the-truth-about-hoisting-in-js-8ac79a08a5f9
+---
+Cara sederhana mengambil sub path dari URL dengan Javascript
+https://reactgo.com/javascript-get-path/
+---
+Cara sederhana menggunakan lazy loading pada gambar
+https://dev.to/prototyp/best-way-to-lazy-load-images-for-maximum-performance-27o1

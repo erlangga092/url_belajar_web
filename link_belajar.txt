@@ -1,0 +1,558 @@
+contekan cheatset manipulasi DOM HTML Javascript murni
+https://htmldom.dev/?fbclid=IwAR2adGcDl-O9CNFDX3PLHC6VDlI1BL3bEXnKRobXhIFF_q9vtXYiOL_K4UE
+
+Vue composition api dan graphql
+https://dev.to/aaronksaunders/graphql-vue-composition-api-with-apollo-composable-3kk4?fbclid=IwAR2Mo-6wkwL0HOiVMz8wuVgZ9OyUi-LZkhLtzrj9Fy5SQ0DbJtEqNqH0D5U
+
+upload gambar vue dan express
+https://www.positronx.io/vue-js-express-single-multiple-files-and-images-upload/?fbclid=IwAR2FMMhyjowh3MCzZIbAZeNTVIccRze-_JpogC3BY4Lb-a3DczAUHxcZr28
+
+menampilkan pesan koneksi internet online atau offline di nuxt js
+https://dev.to/debs_obrien/show-a-message-when-your-user-is-offline-with-nuxt-isoffline-1157?fbclid=IwAR0Qsc6J1yTfDrNIiWOmynm-nkHfutfrgkzqLPtRmdlmD78yB1m63qpfTQ8
+
+express dan typescript
+https://wanago.io/2020/04/20/typescript-express-tutorial-code-optimization-mongoose-lean/?fbclid=IwAR0g5QSUWehd5RKN_KlndRm6Eg3lZJTen0LwW7RRkN33lIU5Lgil4hUv4f4
+
+function promise all promise all settled promise race
+https://dev.to/tasnimreza/3-most-powerful-javascript-promise-methods-2g8f?fbclid=IwAR2CX4IPJdXR9lV650dvv0XHX9LSEC6_qAZse0J54rENZocmxSofCWRwDv0
+
+aplikasi realtime react socket io express
+https://www.youtube.com/watch?v=ZwFA3YMfkoc&fbclid=IwAR3nr5flujS6WfgI0o47U1fN_oMzPgvr5LaN9nFkkxgOYD6Pp6wqPbeKhcE
+
+maria db docker express
+https://hackernoon.com/getting-started-with-mariadb-and-nodejs-xr323ynt?fbclid=IwAR1bQ9Lf_kb6P1UuxXekmhuKJQ_RIFm3P_YyIoVkBTFZw9W2c_8ol3_1WCQ
+
+express mongo
+https://dev.to/beznet/build-a-rest-api-with-node-express-mongodb-4ho4?fbclid=IwAR2kk3yDTxv090XbfYEyIDkNn3eis5_LoU7yY3U_1EFi4i-j3Kc3XPY-p_g
+
+this dalam javascript case
+https://medium.com/javascript-in-plain-english/how-this-in-javascript-works-780083e60bda?fbclid=IwAR06bI2hAknk9yhJPN5PrJ60tGW7Kd5IQkn9IGDodb8GVT0fEBp_qrJ3Tf0
+
+truthy falsy javascript
+https://medium.com/javascript-in-plain-english/shorten-conditional-statements-in-javascript-aaa377716641?fbclid=IwAR0vPWeHMC5c3U3iir9XPfFmis6-O9z0lj-ESKr62hzSBslRqp0afxcz4aE
+
+mencari bilangan prima javascript
+https://levelup.gitconnected.com/finding-all-primes-below-a-given-number-in-javascript-4eb9feaf9a3b?fbclid=IwAR1FBU2N3Deh9nmXeF3VNWiZrVplXbOWRbYmgcCO8b_CSASQVeaLUOdTwNU
+
+Fullscreen api untuk tampilan fullscreen web
+https://medium.com/javascript-in-plain-english/enter-full-screen-mode-with-javascript-a8a782d96dc?fbclid=IwAR0b2me7KkkWo6La5fR0eUbSkDCwYTcqLaXMQndjROEeWdmLL2IPKaDrhNk
+
+vue composition api untuk form input
+https://vuejsdevelopers.com/2020/03/31/vue-js-form-composition-api/?fbclid=IwAR3tyozwNKbpeUkhRhnwBfkK_TOMYuA2gJZgaok4GdFwDvxarTkuaZIr4Ew
+
+validasi props di vue js
+https://dev.to/varit05/better-way-to-validate-the-props-in-vue-55m8?fbclid=IwAR0F3z90_R4u_tXdTG2mFOIV9K51c4yNY_SJjwSRkhpUKjEN99Le-prYYKo
+
+timer penghitung waktu mundur di vue
+https://dev.to/rachel_cheuk/timer-component-for-vue-js-3aad?fbclid=IwAR2KHE4jSeZIy_r_MSsrYUi9mkTxfdNb-Huj0qhBK1y7iQvJ8BUhHRSXQuk
+
+multipart form data vue express axios
+https://www.positronx.io/vue-js-post-multipart-form-data-using-axios-express-api/?fbclid=IwAR1Ea7FhK5d4XLsxx2hz9oSEvDwanbDs0kIzLPQqW6kiZ9fahlJCSEbzn6c 
+
+window location untuk manipulasi url
+https://www.samanthaming.com/tidbits/86-window-location-cheatsheet/?fbclid=IwAR0QxENto8b1ZwD1uGecPnyLAgf1UE0_ZxVQ-4vR8UCo1yGVUVoP8_RRAK0
+
+penggunaan indexof include some dalam array
+https://www.samanthaming.com/tidbits/81-how-to-check-if-array-includes-a-value/?fbclid=IwAR1dVJOSKNzEO8OtbrD4I_sNy57hMuVvRLMt1UVosBcOerHvOR18X0mYA-M
+
+flat map menggabung dua array
+https://www.samanthaming.com/tidbits/80-flatmap/?fbclid=IwAR312cHxB9SEEHDSu7io4LAnde9wERjHwVECibwBxJXZuYsKxzEuGm7mZn4
+
+Menghapus isi array dengan kondisi tertentu
+https://medium.com/javascript-in-plain-english/how-to-remove-a-specific-item-from-an-array-in-javascript-a49b108404c?fbclid=IwAR3nPcWVxsCuCkOVwSA9-TQ2alX13iqs3rvWkxwqqgWJdtEwHEV2oKL9n_w
+
+Menambahkan meta tag secara dinamis di vue dan nuxt js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjs-dojo%2Fhow-to-add-dynamic-meta-tags-to-your-vue-js-app-for-google-seo-b827e8c84ee9%3Ffbclid%3DIwAR2O1_G5p1847VSjne3aiNFROkep_bf6qa-rRERRJ90BR4bgXanX46CkTwA&h=AT2v7AIpfJrVTmuaVCpSYcDA4mC4ncn05tHtmRWKIjrCbN1JuLi1zE6srIY-nzYvI_WwhRz210DH2ClRMNN_LcvNPvhTm-AWHOQLt7naapBno47pkawoWh6wf9ZIbocX_-_fe5t0Q5ycboiT_L1ne1Iqm687ZLBv0QbCwR8EXjzI2A
+
+https://medium.com/js-dojo/how-to-add-dynamic-meta-tags-to-your-vue-js-app-for-google-seo-b827e8c84ee9?fbclid=IwAR2O1_G5p1847VSjne3aiNFROkep_bf6qa-rRERRJ90BR4bgXanX46CkTwA
+
+Menambahkan google analityc ke vue
+https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.epiloge.com%2Fhow-to-use-google-analytics-in-your-vue-app-with-vue-analytics-22fbd1%3Ffbclid%3DIwAR0uH0GxOhY4hymxISESxvzLnozasv3ztI0X0wqUtv4Ga5XB2WS1L_t8qjI&h=AT3nC0-FihM-mP8SUtbQeIW_5bVU0_L7ro9Zh30PwBaDELDQRVeDr40OMagpdF_PQ-gONRUfthFHGk8MDx1nTbTPcOpoiJ4-T__cbWg4BoQRU8IVHBQ48i21qPXAqJtFZz5Po8XE07FzBE5TdnK6AVCuciedituiB3apYOUt556JYA
+
+https://www.epiloge.com/how-to-use-google-analytics-in-your-vue-app-with-vue-analytics-22fbd1?fbclid=IwAR0uH0GxOhY4hymxISESxvzLnozasv3ztI0X0wqUtv4Ga5XB2WS1L_t8qjI
+
+Vue router untuk halaman SPA
+https://medium.com/js-dojo/creating-a-basic-vue-js-app-with-router-abb43b8ceca3?fbclid=IwAR3euxWpCW4cize4rUA5TfISj5se1EwMNfol93YpLO9zDR2QOCBAlcmqC_w
+
+aplikasi seperti slack dengan express vue
+https://dev.to/nexmo/building-a-chat-application-slack-clone-series-part-1-4906?fbclid=IwAR0Xw4kU0abD4c-9xkY9cvA5azPJXM_nPv6wdcL6QrJBPjHntg4QuKfiDSY
+
+Membuat tabel component dengan tailwind
+https://blog.logrocket.com/building-a-table-component-with-tailwind-css/?fbclid=IwAR0oYmS1TtqcwCNJjheQTTOK9cqJRVGVGVPEvbfkVoodn3AwGWbFbgZd-TQ
+
+Nuxt js color mode dark light sephia
+https://github.com/nuxt-community/color-mode-module?fbclid=IwAR0ulUrv4WAjhqUjKpQiNLm7EsVmC2amWckmcZrQARSrqJD-6pDF5BwDg7k
+
+Optional chaining ES2020
+https://scotch.io/tutorials/optionalchaining-in-javascript-2020-ecmascript-2020?fbclid=IwAR2eX6f9BkoiW0aYSkUJBEAu1QshjeJ9Dj1jGZb7R6Tqywd7bY3zarI6JhU
+
+fingerprint dengan javascript
+https://itnext.io/biometrics-fingerprint-auth-in-your-web-apps-d5599522d0b3?fbclid=IwAR2v5rfMBNaxA4JO5Ffv2F8MC6g3h8aqd6Kg5Vuv9HP2udAoxdQYFEnyYZQ
+
+Image gallery dengan MERN stack
+https://levelup.gitconnected.com/create-a-photo-gallery-app-using-mern-stack-826d7d926232?fbclid=IwAR2pPGQ2Mo45YvhXFHUdEpNEJOgPwAWss7jk20kFN8feZOoxKTwBhi_BPAc	
+
+Query ke database SQL dengan async await javascript
+https://medium.com/javascript-in-plain-english/querying-sql-server-in-node-js-using-async-await-5cb68acf2144?fbclid=IwAR3niw2C3M0XeFYVfMz0zldt1cCTizPa0JlsMmolqV6h8n2T_frNIU2DQ8k
+
+React typescript node 
+https://dev.to/scriptify/cantara-a-cli-tool-to-create-serverless-fullstack-react-apps-in-minutes-23g?fbclid=IwAR2D18Q1VlBXQX7VyeI1czv6odqzmqk4K7UVaXfIxfIHjQuYdx3m32SD_xI
+
+Express instagram API
+https://www.instagram.com/developer_ops/?fbclid=IwAR1nWVN-BFnX8-Um42Nvepr4qgedXZio9hVSHh5nyfHi5PibU1C_8eywSck
+
+Rapor online dengan NODE express
+https://github.com/elfinsanjaya12/E-Rapor-k13?fbclid=IwAR0LGR7f4Ts_2M8M0nOUSyy46xFDj_lbIIXhXmq4TXH1Smi0Ux_d0P-qRX0
+
+Error handling dan mencatat logging ke NODE js
+https://levelup.gitconnected.com/node-js-best-practices-error-handling-and-logging-341fc4ce6a72?fbclid=IwAR17Vb4UVMnwU3Z1JDkrPu5eglHQEnacKBpMifCzmGqZLYQuI9PakysJHUc
+
+Typescript mongo
+https://medium.com/swlh/using-typescript-with-mongodb-393caf7adfef?fbclid=IwAR2yv5leVqLbu6DmSq46UHQUxUIED_SXLVX25S5JA9kdqFTjsORozs7rbMs
+
+Dashboard Gatsby dengan leaflet
+https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/?fbclid=IwAR0QY3A5yS7g67h-pjcSbcwKnVPjAH3LqUjN--ALnpft8XnGLg1dY74etSI
+
+Konfigurasi apollo graphql di express
+https://dev.to/givehug/next-js-apollo-client-and-server-on-a-single-express-app-55l6?fbclid=IwAR2WMQz9w39LPsnkh45gGXFgOf2FayTt-ngxuWgGsdrQtGorp4Y_LTmNkvo
+
+Mengganti mixins dengan composition api vue
+https://css-tricks.com/how-the-vue-composition-api-replaces-vue-mixins/?fbclid=IwAR32l1k6FSABfBWXUmplzDh_i0TjmM__yGorRS4-aTLz3BrRQpm-r7DghDM
+
+Membuat kanban board dengan MEVN stack
+https://codeburst.io/real-time-kanban-board-on-vue-js-431cfb8a8325?fbclid=IwAR2didpgqReuaPWFp9JVF1K0pmqybWtbrrAoTHu7aVRgql8VlbeKl8DvQxI
+
+String trim javascript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.samanthaming.com%2Ftidbits%2F85-string-trim%2F%3Ffbclid%3DIwAR0_xHWFOgnENuiGlozWzDi_EfkZxMkSVEJaVwGk2TOkJFhUxbvm0gwlzHU&h=AT3e33qY2jOaAM_thu-toT84hiwI7_0fAtNviGL4qiIg3edF7lLJP7KwkdteovbGQzQXo_kgFTXuU0hNT5S72PSQsjb4Kb5J6WegM_XOoETNVEc5A02mTg_LZlNG-HTX2Z-TchfEOMcwPQ1-hXvHFKhcX36IY3__JXJ_ZAk42dB7jQ
+
+Membuat bilangan acak dengan javascript
+https://medium.com/javascript-in-plain-english/how-to-generate-random-numbers-in-javascript-8bc3987896a7?fbclid=IwAR0IXAGPqz7Nb17bxIOytB7MVm3nv6XHc19H5Pqo6RKBGWjxLGy0LiMF9j8
+
+Penggunaan setTimeout dan setInterval
+https://levelup.gitconnected.com/understanding-javascript-settimeout-and-setinterval-75907b70dc1b?fbclid=IwAR3nAS8TDFntNl4Qw5k7DiLXTzIGtqFs41h78oqUS_wCE_wDvFauE0CHN7c
+
+Datatable vue with vuetify
+https://www.positronx.io/build-dynamic-data-table-in-vue-js-with-vuetify/?fbclid=IwAR3brDLYAGA5KhZo8AvGP7ACVGJdv_b4c6uIPQiNT4QNyGW_UhZsjmNxQjs
+
+Deploy aplikasi vue dibuat dengan vue cli ke VPS dengan Nginx
+https://medium.com/js-dojo/deploying-vue-app-to-vps-server-with-nginx-ff1f77e9aded?fbclid=IwAR1H3neYo4pTszqqt29eqB9HW12OHs1GU5DAJ6jGF5GASAVq1W2GUWMCPcI
+
+Directive filter di vue
+https://medium.com/javascript-in-plain-english/introduction-to-vue-js-filters-bce806b53200?fbclid=IwAR38FPJHfcSkzniwDqKtveltOU6dOstVwsRuP1NyU1kYggu4XSWz-LklfOQ
+
+MERN stack dengan SQLite
+https://medium.com/javascript-in-plain-english/how-to-build-an-app-with-react-express-and-sqlite-c2c24fc7ae3d?fbclid=IwAR1KqYbfOc5RNN9CC36amoygHW3vxhmOZ4TjHnwQkmEpL7cE-LKdQw1SEL8
+
+SSL dan TLS di NODE
+https://www.sitepoint.com/how-to-use-ssltls-with-node-js/?fbclid=IwAR1NbTDcyhiWd5V_AbY9pofFHW9ZmzDnFz5u1dMTo9CeXMcc4RUmOu9uLHE
+
+Authentikasi dengan passport di NODEhttps://www.sitepoint.com/local-authentication-using-passport-node-js/?fbclid=IwAR1J8b8uDC_ZW5MCYR-tVVO55eVBqT0LsvQ9yULTmSSD_vHW-JB2tLTyovE
+
+aplikasi jam sederhana dengan Moment js
+https://l.facebook.com/l.php?u=https%3A%2F%2Flevelup.gitconnected.com%2Fhow-to-use-moment-js-to-create-a-live-updating-clock-in-vanilla-javascript-20ae33ef2fd1%3Ffbclid%3DIwAR0X5YYFBu4gfuAjw8Ldal06cyvaHJOLPC1tm1NCNBPAzWYq24TAf9PMk6s&h=AT1xp71zNfEDpwl8oTWTk-OwOKW9ImfUqZWGgAROTXYKIVH-CJFkWGL7vWH_oKOh0HLqyKdiD2N11nmgTdGJhQYhtTuIjiIZ1DI__BvPhAYiUGOXCZaRRiflTB8FdXKwzLd-OIk2XMtzFu4Zd8wpc3Ai2vJNBQw-_qqNkiNC5M3UVQ
+
+Aplikasi web dengan vue cli dan vue router
+https://medium.com/js-dojo/creating-a-basic-vue-js-app-with-router-abb43b8ceca3?fbclid=IwAR2q8nuEv7e9aDp9oUN8fCXQN5D2qS1p2VV3J4n3cw6WRSU2JxzJ6CT_0jU
+
+Vuex dalam vue
+https://blog.jscrambler.com/introduction-to-state-management-with-vuex/?fbclid=IwAR1fnJWywZHQG4uUf7ikKfQSrFPUc3QRs1oDPee8qJPelfWQsTZUgknJQSM
+
+Mengambil nilai data dari router params vue dengan vue composition api
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjs-dojo%2Fwatch-vue-route-params-query-with-composition-api-97b3c8c402e%3Ffbclid%3DIwAR3cMk9WLgWP8zRJXhljBaQKUSOkSj_84bXvEO8oq0_py0TGdg292zs88T4&h=AT26sC_bsfUL2xBzhBvLQy6KWveMjhWVPlzlRDSXKRUlxFnYn0NygzMOgSWRgmR6TDzDki80MFUaFqeDyQSg-ag3Al10afK5E-BCe1TY11h0S41xuVT9yUAC52G0q_Px1wFtwggJG2Mt6UbUIVS1S8mKcEuOe47OsXyHv9mwGt21Cg
+
+Error handling yang baik dalam express
+https://codeburst.io/better-error-handling-in-express-js-b118fc29e9c7?fbclid=IwAR0-tIXbs9VO7geKhZ93SeiMqrcF0wkAv3mxeCs9uZxsOhczcdYoWyBoYOM
+
+Skeleton loading di vue sekaligus uji coba Suspense component di vue
+https://learnvue.co/2020/04/vue-skeleton-loading-screen-using-suspense-components-daily-vue-4/?fbclid=IwAR0zhk25Txd3ROm5QU2odLvd9X6bwI3HmWLR2yMHkzMSdCJ1arSIJg8nyYI
+
+Styled components di vue
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.bitsrc.io%2Fusing-styled-components-with-vuejs-17741c435b40%3Ffbclid%3DIwAR2k1Af2BXn1fsqR6Rq_yFjpftHuCiKuf13ijbpEV7N-TmwJP3IF7ao1YKE&h=AT3STtiPA65WMLDY23TsCbmGkZ73mxK9-wIx-0-KfWkK8nTwArWM6GvCH84UGZRkdkWqkEPZej9DIoUaNb2ymQHBUtMCEdtL6NflalAd5jywIPopWwoOsD1IdpVUCHbT7upjIP9LLrTBttwVAAM1W1mAH2C4GJE-gqEMG9ues_5UBA
+
+Konfigurasi nuxt agar typescript menjadi bahasa utamanya
+https://blog.logrocket.com/how-to-set-up-and-code-nuxt-js-apps-fully-in-typescript/?fbclid=IwAR3fkr1DcupJ38vchlolSFf3PaeRCmBeJJqFqYYHIyyvsOh_27McTYUiUII
+
+Express mongo untuk membaca geolocation foto yang diupload
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fa-complete-mongodb-tutorial%2F%3Ffbclid%3DIwAR2eAjOwQYneZD14YAwQqZQY7tNFx4LCmFziFFQfzK4SAL7B_RdBFdVMNP0&h=AT0C2Ng_eE6o-9L4xEoLUw6AAFMWatQnIM52tA_-0Z6Fp8UJMWWXWfbZSdeaDG7ur047fbZ11HvzoTjufJFjYyqsCS9u8DW5WNRdk_195rlj3xap7vfqdv01lF4GjuoxCr0_LzfnZKOdJrQh1WttU4Zy-8ZHY_h8_vSG7NmCcfMT-g
+
+Node express crud database
+https://zellwk.com/blog/crud-express-mongodb/?fbclid=IwAR33C0i4-WTUqo-cS4UgoObN_xbPqCMmXydgGqy-tJm07XLeT4Be2SFNFNw
+
+Autentikasi dengan Passport
+https://www.sitepoint.com/local-authentication-using-passport-node-js/?fbclid=IwAR2jGrJt7_JfgFru-bJj2RxSd3mmsEap1dmbbM7kHF8B9fpYW57X8PCrTD4
+
+Autentikasi dengan open Id client Node passport
+https://codeburst.io/how-to-implement-openid-authentication-with-openid-client-and-passport-in-node-js-43d020121e87?fbclid=IwAR0ooG9hdSBMVQ5fK3j4HK6HYCHaeVqO-DJOdC6GglDJz3ZxhaXsVvkW88c
+
+Konfigurasi SSL pada nginx untuk NODE
+https://www.sitepoint.com/configuring-nginx-ssl-node-js/?fbclid=IwAR2TUDctOErYS61RiM8Ctm7SbYAVFwXfzk5-LPy69mhX3CArrPElnTamUgs
+
+Lets encrypt untuk SSL TLS Node js
+https://www.sitepoint.com/how-to-use-ssltls-with-node-js/?fbclid=IwAR0ZLLc0rmy0oNoy95SlCSgq2aA_bLxM-YzAlNTkQUfaWTUxqu8Sw0JrTrg
+
+Membuat file PDF di NODE js dengan konfigurasi custom file
+http://thecodebarbarian.com/working-with-pdfs-in-node-js.html?fbclid=IwAR0uygYeHB4ykrLhAaGCgK3WDs5doe6YZhBldyHCEcKEDkQ_E3hriWi4XUI
+
+Aplikasi peta sebaran covid 19 dengan React dan Mapbox
+https://dev.to/alemesa/how-to-create-a-covid-19-map-with-mapbox-and-react-3jgf?fbclid=IwAR2Y17RbDYlYU7XGUcVeeXY9VMKGP5wlbv-1HjT65NfLBrv8sKPdkWs8T-A
+
+React dan Redux untuk menyimpan token JWT dari server
+https://medium.com/better-programming/build-a-react-redux-app-with-javascript-web-tokens-9f2b73768e18?fbclid=IwAR32YDjcQI9AxFUkAZH78qEMD_NDhAAxAopiGqVD8_grn0gXGrlNyh6qrOo
+
+Penggunaan Null Coalescing ES2020
+https://l.facebook.com/l.php?u=https%3A%2F%2Fscotch.io%2Ftutorials%2Fjavascripts-null-coalescing-operator%3Ffbclid%3DIwAR2iA1DI6R4ZJnu_HqsAisjeyKryBGHy9TefBtzDQRVUyux_hX8r2KPqA54&h=AT17Wl5uaODT7ei6O8eIsGf_-eTmmcjvhOBPWDB2O4DstMpN_lg5S6dDcSbUK32tKkhAI9_6_sW0HPfISoaK2BgTznIuz3b3XFmSl7n7Wywc6Huqgw_JPDVxOqcYBon2EyNAedogRmlpqyePpMfC6Grrh4IBSEudux4PqvZ_RI0c-A
+
+Referensi static generator untuk JAM Stack
+https://scotch.io/tutorials/top-10-static-site-generators-in-2020?fbclid=IwAR2WglJJ7ugnRFVf6JFhlDsu5Ssi57GreEoxfsFTnLOCZJrCJkGpE3kNYVo
+
+Menggunakan Prismic JS
+https://scotch.io/tutorials/getting-started-with-prismic-a-great-headless-cms?fbclid=IwAR3doeMiceaYt7bW-pzmMD9dDh9XcuQ-36YX1wNLOkhgShxNzCueUu4y0UI
+
+Element DOM ke tengan dengan flexbox
+https://scotch.io/tutorials/centering-things-with-css-flexbox?fbclid=IwAR37TBAjcN1dB9WurmmHPUkzGfWJuCh6g8IXhI75oYiooUlMz_PaEs_0Ql4
+
+Aplikasi sosial media dengan MERN Stack
+https://github.com/misa-j/social-network?fbclid=IwAR0d-lTVPDRVCI03HZfQsx7WP1fNy8ezi2As_xY3MdIQru9Wmn4dFTMVoI4
+
+Menyederhanakan penggunaan fetch API
+https://github.com/elbywan/wretch?fbclid=IwAR1dowgPg0oqRaCTjnJoEDaxfdo5M6F_m-tJZV-AGnzO6mhman1VODA9T-U
+
+Penggunaan switch statemenet di javascript
+https://levelup.gitconnected.com/introducing-the-javascript-switch-statement-d4c5ae6fa20c?fbclid=IwAR1P0EkebHNUUYUnsweZ-UV24_8-AU-onRj9TzJtianv4frN5CzP4pPe7wA
+
+Mengisi nilai default Array
+https://levelup.gitconnected.com/several-ways-to-fill-a-javascript-array-with-values-91f52f09669?fbclid=IwAR0XTEzEOmvFHKzm05bxjiZ3xPjCxyfvaVSdHdw715a23Luk8SLEL_W8Ol8
+
+fitur ES2020 dan konfigurasi dengan babel
+https://alligator.io/js/es2020/?fbclid=IwAR3iUzqIraZ3qpotQ-Q3Eh0zMoZ4osVp4ny_tbG6qg37iWUbXooCuZRPX5c
+
+Snippet kode javascript
+https://kriss.io/30-helpful-javascript-snippet-that-you-should-know/?fbclid=IwAR2tdkAW1izTRVUx2xfSDSzUdh_PJ_AXaLuv87CNDE-SceXIgiBPRGutdEg
+
+filter data untuk mencari element isi array
+https://dev.to/deogadkarravina/javascript-searching-and-looping-array-10l1?fbclid=IwAR2QjDWUIPPSttn-KkUOhK0pBKiFAYobNmCIliYO023NQELiMCZ-xyHbyIg
+
+Alur belajar menjadi javascript developer
+https://medium.com/javascript-in-plain-english/how-to-become-a-javascript-developer-87ab8ce8e1a4?fbclid=IwAR2zmxkSuEMD4p_IHwkLMVsy-J--vI9gHHt3kDXapfnUt9XI735Q8SwYILk
+
+Web perhitungan harga barang seperti kalkulator dengan ES2020
+https://levelup.gitconnected.com/i-built-an-app-that-uses-all-7-new-features-in-javascript-es2020-647205024984?fbclid=IwAR3UzXjihw-qVsVBlpGHIqMFB1dojXfGlsGZ1iS2JHiAAKT0fsZxWdVfiVg
+
+deploy aplikasi ke google drive dan membuat google drive sebagai hosting
+https://dev.to/monicafidalgo/how-to-host-a-website-on-google-drive-for-free-1ejk?fbclid=IwAR0Im959xVsleS8IX1iREEbzP6UHeYD_7OQ74amEdYghJ5dEN2cAOouOaXQ
+
+Membuat web PWA dengan backend NODE express
+https://www.freecodecamp.org/news/a-complete-mongodb-tutorial/?fbclid=IwAR0C3tg5QrlRsWqesuG_miQfd9P6QAzEYAUgQmFUf7Ex1HZSzuqNN6EnD3U
+
+Arsitektur JSON web token yang aman untuk web aplikasi
+https://levelup.gitconnected.com/secure-jwts-with-backend-for-frontend-9b7611ad2afb?fbclid=IwAR3plHCzv90QBcL6_gSmkXx7xJJIa8jEMILNKqDODHlCSKYxsnZASZpSdqA
+
+Konversi string menjadi array karakter dan sebaliknya
+https://www.samanthaming.com/tidbits/83-4-ways-to-convert-string-to-character-array/?fbclid=IwAR0886JTqTJ7cn7BYasXe3r3Zuori4TgU0F8ujVCMI-7Nc2dD8vSQ8CcU1A
+
+Struktur data javascript yang baik menurut google developer
+https://developers.google.com/search/docs/guides/generate-structured-data-with-javascript?fbclid=IwAR0QXESbZ_MY7uGtplcfHbgG_Hz6WOvFwtrtU2sz2x2R_03ZNQhmeiINUo4
+
+Dashboard covid NODE express
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fotomer%2Fnot-just-another-coronavirus-covid-19-dashboard-with-live-statistics-4d9k%3Ffbclid%3DIwAR18SHB8LLQlybmXuBmr3BbAUssTi2u5xqbe7mzJCiK5gK4d4etpOG4RIxQ&h=AT0Z9Vy1CuvSdAJx6WUdg8UFxliGDqwhxUt4fafx5gjXGIIOhUfjLiOVZh1P1IJP0HQd-ZQYoPEAhXqlleCyPUqL-ADe6NYnIvpfQ6lzZGYw6rcqxJjYkJunwh7w3KJWegUBtsHC4jihPNWBM-ROBz5agSk2R6BCm0F2c7xYG3JPfg
+
+Pesan toast yang responsive
+https://carlosroso.com/notyf/?fbclid=IwAR3Z9c9WSzmpkO3fyvHBjDhODCVhpm-qet18_8z5oxsoEvd4LaGbotgtZpM
+
+DOM manipulasi CSS dan SCSS
+https://css-tricks.com/getting-javascript-to-talk-to-css-and-sass/?fbclid=IwAR0EQzCBrxxWW2OpGnxy5_Lvr0ynSgalFVoWQ7hkLulj-N08mE46EDj3W-Q
+
+overflow wrapping content
+https://ishadeed.com/article/overflow-css/?fbclid=IwAR2dZXXq4UCIFp3mqWx0h7ozAFaCpOQ7h7ImQgeofGtircRmIzRCQfKvMRI
+
+fitur ES2020
+https://www.freecodecamp.org/news/javascript-new-features-es2020/?fbclid=IwAR30e-dEOng-VQxDBYebadisXMU0kY9QSR7E7TLnevhnjj4I44AK1m3O3rk
+
+fitur ES6 ke atas yang sering dipakai
+https://l.facebook.com/l.php?u=https%3A%2F%2Flevelup.gitconnected.com%2Fsmall-ecmascript-features-that-are-a-big-help-43ea45967ac3%3Ffbclid%3DIwAR1Bpus4qZeKa4u5TxyyxB9JVh3KSNk2fqoX7dmKj65cMSEOLLQHhbR-YYs&h=AT1_EpmmqV-WgzTkN16NbugZ7sCr1ECT0GxfelYSyeob8Y0FCSiRbfkbHNBzj46K9AEiN-YoK5VRhnjPS0SoayI9RUR2oliyPT4fAcJv35BpWt7kqIfWGo6h8MzI_ELMUn2mDmfZZuO-wW1TlnjY2EsM4UpkdMGXNj5d4F1q3RKTjg
+
+mutable dan immutable javascript dengan Object.freeze
+https://alligator.io/js/mutability/?fbclid=IwAR0DBAng4sQFizqbtGtHRk7r7EG1tyBWxW0bdCHD8cEaT4gynA0uOEpVRk8
+
+Membuat daftar warna acak JS dan menampilkan ke DOM
+https://levelup.gitconnected.com/generating-a-random-color-in-javascript-spice-up-your-dom-with-a-bit-of-chance-e8b36061421c?fbclid=IwAR2Th_r-Sg4tPNJG0moDLQEjhuSxFcQfX1sKB6nJpWXz1RkkqqBixc-hiEY
+
+Membuat aplikasi node express dan deploy ke HEROKU
+https://medium.com/swlh/develop-a-full-stack-webapp-using-nodejs-and-deploy-on-heroku-52c7a69a0022?fbclid=IwAR3AnPrLGFpKE56zs6HzkGeJywCzB_5ByZB4GEeLVPAOdSKofP-SI1efo8w
+
+Node js streams untuk konversi json ke csv
+https://youtu.be/Z2ZOGBfn0jE?fbclid=IwAR12n_WYw4ogSkPE00DvGwc9qXJRZ4ReRklzxTvEP7Q7ccG26t2gGEJBC6M
+
+Mengirim response backend Express
+https://medium.com/javascript-in-plain-english/guide-to-the-express-response-object-sending-things-2defae78d53c?fbclid=IwAR2Qx0rbnhnIcxauRGlqETtUA64GLlNo5ZRD2aByrPdWnIp3TxlH2Z9MqQw
+
+Mengganti tampilan scrollbar dengan CSS
+https://alligator.io/css/css-scrollbars/?fbclid=IwAR2QBKq0yfeI5fa7i72uo7hjtl784iwsVhjJLE5MRg8iziK1eixUcfSD_qs
+
+Efek parallax dengan CSS
+https://l.facebook.com/l.php?u=https%3A%2F%2Falligator.io%2Fcss%2Fpure-css-parallax%2F%3Ffbclid%3DIwAR3ClY80JP-cYffUaTb0BwBCwC2ngslO0PEwqtiGbqLAwj5pdfwmQ9-xB_o&h=AT2SIedq2y3jiYzSPVCm1_IIiSKGsJ6mgVLoJuqFGnikle8Oa8uyJAePUOpOU5BXPA2m4DOpZKEYLjtRB0InYCJhonnMLxPpswcLnMQR3kxml0W1Hd6sgrtAxPaa7mtgkkRShw620AzViU7Aur0l0R4ut2OYO1996H7M1JJm3oY9Lw
+
+Aplikasi web modern dengan MEVN stack
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40albinjose%2Fcreate-a-crud-app-using-vue-js-and-node-js-mevn-stack-5410680450e4%3Ffbclid%3DIwAR0_3RA1GjULRXQZoetmlmYkrZkmIKDebpzPGdGtxxLdqCFWR7O_sMDm3zA&h=AT1HL2-rK5Gee2JVFI38G0HOslqEOdOIfkf67iXpnRoie96gLOO9ea_05ZnKSkbyLaLD0CjNDHRHCdqEQiIDHwytShyxdxosgfksef6n28sx_xX29BgSWUdQbCBYvA9x_1rTpb_zN9Nsows5TeO2Jf6_jiaoxgEVt3vMwT-c_KILNQ
+
+Latihan penggunaan v-model dalam input form vue
+https://levelup.gitconnected.com/handling-form-input-with-vue-js-with-v-model-17d6260cc1f7?fbclid=IwAR2AYURTx9aoDrnWV5hFWhOH04jqZyPgIjgYpQ0kvSoBj2tPfTahQFllscE
+
+Penggunaan vue nextick
+https://medium.com/javascript-in-plain-english/what-is-vue-nexttick-89d6878c1162?fbclid=IwAR3MLdFA9-aI_N6X1vv1wT32GySTqPYN2tEjKWjlwQEPZiASuP_gQ3bkw4A
+
+Penggunaan dinamic component untuk filter data secara otomatis
+https://medium.com/@brunofrancisco__/rendering-dynamically-filters-with-vue-dynamic-components-b6e1ac8e4a1f?fbclid=IwAR0GRHnQZGDm1-WkOS5tXigzIqRs8ly0okTID9aGqd16n83L5STqK5mkaw0
+
+Penggunaan dinamic component di vue
+https://blog.codecourse.com/the-power-of-dynamic-vue-components/?fbclid=IwAR26cuMeSR64-d9fHera-5g3Vjr_BYC_Sf2iTh0b0scMBT71pjXnI5VtM0c
+
+Menambahkan keamanan Node ketika deploy ke server production
+https://levelup.gitconnected.com/more-security-best-practices-for-using-express-apps-in-production-198b628d3134?fbclid=IwAR1rh-Vvpj7WOMNY-gbHy0wOCo00QsRtJrWoKhFMPIxOKjwKqwWLU2jECC4
+
+Cron job di node js
+https://alligator.io/nodejs/node-cron/?fbclid=IwAR3Q5AymUsJZIEplxgsl0bv3gL0ci6IDuPymuMbp4ZICx4_gmYV6FCszSiA
+
+Membuat chat bot javascript
+https://www.voorhoede.nl/en/blog/building-our-own-chatbot-and-cloud-ai-service/?fbclid=IwAR05kwAiZsMWDuvPQozcBDnz-pYlmSxbwFo4Nmn3_yeGH19kmnClg2NWzTA
+
+Pengenalan SQL database lengkap
+https://www.freecodecamp.org/news/sql-and-databases-full-course/?fbclid=IwAR3iEsuYv70siKf9YzYiGIJFg202d652leYci6yIRyDq_hmosk6tBkny84U
+
+Aplikasi web modern dengan MEVN stack
+https://www.freecodecamp.org/news/cjn-understanding-mean-stack-through-diagrams/?fbclid=IwAR1F2x7itGRaXxotw8uxuOCnG3miFxaV2pJOzKUgpWyr0ILpVOopQiPG4R0
+
+Aplikasi pengukur berat badan dengan NODE express dan postgresql
+https://scotch.io/tutorials/build-a-weight-tracker-app-with-nodejs-and-postgresql?fbclid=IwAR0DZ5NmBTo3dWLRpkPxnVvq4J_Gz9ugHGrNRjt2d62QUxYrMzvUH_6FzlM
+
+Lopping di dalam DOM dalam fungsi querySelectorAll
+https://itnext.io/5-ways-to-loop-over-dom-elements-from-queryselectorall-in-javascript-55bd66ca4128?fbclid=IwAR1ImIm6c-g371TIPdPugXhQ01wPaozdOQquFsruzCZ9zfB3PgCCPlnWpmk
+
+Latihan penggunaan localForage
+https://alligator.io/js/localforage/?fbclid=IwAR2J5JXwq4IESh4KFlTxCjogfsMaL4FyGSSQiW4EjFNo2e8EgVIaHjQ-T48
+
+aplikasi PWA dengan javascript
+https://alligator.io/js/vanilla-pwa/?fbclid=IwAR1bAtpMgtSA7aBkuDUKMLqbQVrFhNaPOGimfzjy8Ut4z6BgV1g5HloN330
+
+push notification API
+https://alligator.io/js/push-api/?fbclid=IwAR0wteJ7L3spwgxZaCQAMLUgmxi3lKYS7Dv0f6_3GXycQSaC3mlpDMUM5YU
+
+Nuxt js headless CMS
+https://www.smashingmagazine.com/2020/02/headless-wordpress-site-jamstack?fbclid=IwAR0U75Ahca-FGMCXUkboPP4vLb7shAeV8A0RNTXeed1NuYJJwyOqJrUBMUw
+
+Halaman toko online dengan JAM stack netlify CMS
+https://www.netlify.com/blog/2020/02/21/building-a-jamstack-ecommerce-storefront-with-bigcommerce-netlify?fbclid=IwAR0IoFpI1dDv_bpNQHVg_42A5_P0KmWI27EGzQuotoeTxKVLDQe3trTU3I8
+
+Mempercepat build gatsby yang memiliki banyak gambar
+https://www.netlify.com/blog/2020/02/25/gatsby-build-speed-improvements-with-parallel-image-processing?fbclid=IwAR15Afk6vnOk7eOchmnzulJfGb2xdDQebrhglvJdw8ozxD-rSDM6ZzYM_vE
+
+Movie search with javascript parcell
+https://html-css-eksperimen.github.io/tarung-film/?fbclid=IwAR35OsZXUml_KiHqjWEFWB6YDbZbez1_WXaluozq6uEh9t0iy2gSCV2p560
+
+https://github.com/html-css-eksperimen/TarungFilms?fbclid=IwAR0PxP0ed90nuL2nf5xYG_2Xip0KL6wQetfSwemxWmgINtmof2W37KuryPQ
+
+React redux mobx
+https://github.com/gothinkster/react-redux-realworld-example-app?fbclid=IwAR1CxCs3JJRRAOu3Df7q2Gxw-Ighf7f1hNV6kIPC2Dm1JeY3OrFT-DdkpCM
+
+https://github.com/gothinkster/react-mobx-realworld-example-app?fbclid=IwAR1SuBFN39ROzjMTfRlthdjtdI-BWKkVw4h_AvxeXN5u5IhvrcXXbab0TeI
+
+Vue js vue cli
+https://github.com/gothinkster/vue-realworld-example-app?fbclid=IwAR2kct6lfrOd6gXlKAy4EAqKTmwU4fn8POvzIxWRnaFUdOH_04noCaanPUY
+
+Node express
+https://github.com/gothinkster/node-express-realworld-example-app?fbclid=IwAR0y8yMAjuWuMTwAqH8MPtwXizHt99ocSOVZHePHKR4TyMTPX3lxYe78zZU
+
+Nest js typeORM
+https://github.com/lujakob/nestjs-realworld-example-app?fbclid=IwAR05qvYAxR-xSxze-ryimZexclt-KQwRFat-pVoBuvTLLhLZlHvla56ppLU
+
+KOA typeORM
+https://github.com/gothinkster/koa-knex-realworld-example?fbclid=IwAR3NQB5uanZz73RrxB7rkcDHIRk27POcr1zWCSRiAMfUFygCEoT6PSz0zQI
+
+Gauge bar chart HTML CSS JS
+https://github.com/html-css-eksperimen/GaugeBarchart?fbclid=IwAR0pzksrxtmVRt1UgtMXrAtA3z6SQjlWP4FX40-UHd2hk-eRs728qizjkb8
+
+Timer waktu
+https://github.com/html-css-eksperimen/TimerApps?fbclid=IwAR11K-9lV3wAJctlYeHwIFVO3BBN0PRfJWOkrPzp7TYni1bazg2IfA70Dc8
+
+Game cari koin
+https://github.com/html-css-eksperimen/GameKoin?fbclid=IwAR2IIBtsbAb0_SieZVd5JiLxYyQ4qlVGu7FRGUxEP5TDRXCYuwkvE1mFr04
+
+Tombol hobi kabur
+https://github.com/html-css-eksperimen/TombolKaburan?fbclid=IwAR3jvEyT_Fs1ZCFcHq5sPU9UWyAAdxACK_A8cjypLCS2S3-IqT6E3t86cX4
+
+Pencarian data dalam array dengan Fuse js
+https://dev.to/addupe/search-with-fuse-js-2npj?fbclid=IwAR0tJro1IrEMEObuWN55jQvRqslD4R-AhPY6CH9RHwbH3v-JgUSD1GoZLug
+
+Aplikasi quiz dengan node express mongo
+https://dev.to/raymag/build-a-quiz-rest-api-with-nodejs-2p64?fbclid=IwAR0FvlgrcQKO0hcFRClqAGEif7fPJO02_vfHhf8BiF0tB50KbMY-rrshlhY
+
+tampilan halaman blog dengan clean design
+https://ishadeed.com/article/same-html-different-css/?fbclid=IwAR2aHcsyftIiEIm5TkvECNVehIqabMJKLPUqzVzSWxQIMSRkSvJEqZrxlY8
+
+Tampilan web modern seperti Trello dengan vue vuex node express
+https://l.facebook.com/l.php?u=https%3A%2F%2Fcodeburst.io%2Freal-time-kanban-board-on-vue-js-431cfb8a8325%3Ffbclid%3DIwAR2FPZliCDzEIiaMGZ8XtvefUtAX06VhexzQn8ngzleRdjVqmV5EnLbz6QM&h=AT3zMZEr2vlDcJ_khF01bur44i3drIeuRPFiAT2IgGUTXcago1KLj0DdHxyELjMUHDWgllydPbybO4QAmdVPqglSxmcRa_Hz1p3RuDdSvOTJCkI9NMOs6vsc_7FZeWb9nUdlIojhSAxKuctQEziHx3pEFUJqL3K2xstc6GwBfYvIZA
+
+Cache request backend node redis database
+https://itnext.io/learn-to-cache-your-nodejs-application-with-redis-in-6-minutes-745a574a9739?fbclid=IwAR1XTvU9Zu3OBrFQjgGmyRNUykLD1UDDzt64eOtFAS7DEEf3bmgAkAL7wAk
+
+Tips membuat middleware untuk Apollo graphql dengan express
+https://dev.to/seancwalsh/how-to-write-graphql-middleware-node-apollo-server-express-2h87?fbclid=IwAR0cxf21JRKUu_DmKWeLb9PQ2CrFd5XynpP7dHcE0aP_0H4xt6LUjFZKajY
+
+Mengecek apakah suatu variabel NaN atau tidak
+https://medium.com/coding-in-simple-english/how-to-check-for-nan-in-javascript-4294e555b447?fbclid=IwAR3y9H9K4lCBA7KtMPIRkAcTdSibOZROOlKC9StXjJTMq8_rJd3jMWrE8y0
+
+Aplikasi React Nest mongo typescript
+https://auth0.com/blog/modern-full-stack-development-with-nestjs-react-typescript-and-mongodb-part-2/?fbclid=IwAR2ZuNATI12rTIlCN91pDioRtKQBNHjSzc2WnEWe4aZ8preC1ImvD1hWnYI
+
+Node express typescript
+https://auth0.com/blog/use-typescript-to-create-a-secure-api-with-nodejs-and-express-getting-started/?fbclid=IwAR238SIH3Y9TnAyR5znwsrqjHGZHOoy--hvdt9UR33G2DiBWk2JSuCSodZo
+
+Node express pemula
+https://zeroequalsfalse.com/posts/beginners-guide-to-using-express-js-and-node-js-framework/?fbclid=IwAR2FUutr1RNPWEORD3hbK6Rs41tNYyMgDyFknhmqfzknUis4b0d_nNm8Jhs
+
+Aplikasi cli atau command line node
+https://dev.to/dendekky/how-to-build-a-command-line-tool-with-nodejs-a-step-by-step-guide-386k?fbclid=IwAR0XhIDRVN9cj3us2ZlvIoOiyoMDueDJyCGWkkALyUDNnAhlsW2t_63oGko
+
+Membuat relasi one to many mongo dengan mongoose
+https://bezkoder.com/mongoose-one-to-many-relationship/?fbclid=IwAR2FM5dOkOvEF0eqQRaFBMU2KAfngpfWjCX1bQX98S0RFbLU2NhhscqIwqA
+
+Membuat docker container dan image untuk node
+https://dev.to/blacksonic/a-simple-node-js-docker-workflow-18dh?fbclid=IwAR39o5TkCpCInMZxz_4ujJDLIKEqz5K7SPkMXF3uReXuq6W35wYnoxw5y6I
+
+Penjelasan tentang docker image
+https://www.freecodecamp.org/news/where-are-docker-images-stored-docker-container-paths-explained/?fbclid=IwAR1eyRjDO6cAm24g_5jyXS6AqTFwjRdlQHDe4fen2djlfkICVMs_kkc1x70
+
+Integrasi layanan slack api ke server node
+https://dev.to/nedsoft/integrate-slack-to-your-nodejs-app-in-ten-minutes-22gc?fbclid=IwAR1Qtxvw42ojAezHQYpIEEkvI50ww8F5NwtPcuVrPPpMlPzVHa5heVgDui4
+
+Aplikasi modern vue nuxt node
+https://blog.logrocket.com/build-an-isomorphic-application-with-nuxt-js-and-node/?fbclid=IwAR0I3Hq8bOb8hosjopabYfToIV1FvmgDua1zvZhchyZsmkGJqhlr_VqPDJ0
+
+Cheatset event handling di vue
+https://learnvue.co/2020/01/a-vue-event-handling-cheatsheet-the-essentials/?fbclid=IwAR3EJdzxCLgs2GAVFvRC3XCfpNgIoEhoDvAJYbtsagfXlqISt_gOsPRyzoQ
+
+Jam stack
+https://www.smashingmagazine.com/2020/01/migration-from-wordpress-to-jamstack/?fbclid=IwAR1W66rcEXj-Og6WDpfpTu5e0cs7pUBWIsvJTmfcwcV5nAOr7jeTbDc-YMU
+
+PWA untuk ekstaraksi teks dari gambar
+https://github.com/victorqribeiro/ocr?fbclid=IwAR1YPQ1cWQBwfpTADvk9oC6pMIJ8IZ85zstjJowgKmytsfs8HTzhTZ3rhwQ	
+
+Latihan penggunaan fitur ES6
+https://medium.com/javascript-in-plain-english/javascript-es6-tutorial-a-complete-crash-course-on-modern-js-a09294bffdb7?fbclid=IwAR15UnGM79O1bF9VeNR9jrF_W4dfZ1Ssbeg6xnOrB-kajp8BiwgQG7i6_Go
+
+Mengakses permission API
+https://levelup.gitconnected.com/getting-browser-user-permission-with-the-permissions-api-eafbc9c7f4d7?fbclid=IwAR158PETVBCMuOEnvjw5yLAAMFkIRextcpmHOdor1Ue7rBu-XAxhnuQvJ6g
+
+Peta dengan D3 JS
+https://blog.soshace.com/mapping-the-world-creating-beautiful-maps-and-populating-them-with-data-using-d3-js/?fbclid=IwAR3ETuYHytNd37D30xbfn-YcLxkvoLOO1dowNBGUeWQZVr9HgLT0qvp3N_s
+
+Typescript di dalam halaman Gatsby JS
+https://www.gatsbyjs.org/blog/2020-01-23-why-typescript-chose-gatsby/?fbclid=IwAR3Akj_LQTqva2WZ5NpEPrwKe1f1sI5thUIfkXGt8z9ggRexgk3skw7EP-k
+
+Latihan penggunaan manajemen Docker
+https://www.freecodecamp.org/news/docker-image-guide-how-to-remove-and-delete-docker-images-stop-containers-and-remove-all-volumes/?fbclid=IwAR2CwlCcdkUW5Nadxfarg8H6rOFLr-N4ZSBYfwXDtfJPWe7Gu2rczg7cie8
+
+Latihan penggunaan Docker container untuk Node Nest JS
+https://blog.logrocket.com/containerized-development-nestjs-docker/?fbclid=IwAR1GUSheP7Vpg-TXAQbafYFnU5NGi8onpSekrWbJiemrZTp8xF33VNZgP2M
+
+Penggunaan Docker untuk pengembangan aplikasi web bagian frontend
+https://dev.to/blacksonic/frontend-development-with-docker-simplified-254i?fbclid=IwAR3cO8hDnv0gQuTlqhmlTFBtDO5sv1TJxHFLFCNqmMctrDVSMXaQhJRxGyw
+
+Clone aplikasi Jira like Trello dengan React express typescript postgresql
+https://github.com/oldboyxx/jira_clone?fbclid=IwAR1nzRsuwe1gH_rBn4kXWi8CInwps90OxwyRPSxczqLrFAzw4Fp0QZAdWsw
+
+--> demo aplikasi
+http://jira.ivorreic.com/?fbclid=IwAR3qoADNc_qPuyqY2cbDZjKM8u49_SBXpuOVFACgpYmWYLCnNCO3vtqKFIY
+
+React hooks apollo client graphql
+https://atheros.ai/blog/react-hooks-in-apollo-client-for-graphql-queries-and-mutations?fbclid=IwAR1j3httR-zFXrM6rD2ODjtakiLEn85dYy4ekJ67nV6UHfvHsdyeUPwexrU
+
+Docker container dengan contoh kasus
+https://dev.to/koddr/how-to-dockerize-your-static-website-with-nginx-automatic-renew-ssl-for-domain-by-certbot-and-deploy-it-to-digitalocean-4cjc?fbclid=IwAR2l7Do0vmGvwUNNBHVe3wXizbE-qsfVTnH_GP00khGVWIuUKfcHqY89q-g
+
+MicroORM dengan Node knex typescript
+https://mikro-orm.io/blog/mikro-orm-3-released?fbclid=IwAR0wNB-uqmD4Q3ZlSF15sYSyAfwZWPP6uSW_5MtYVm6LjOlLOdY9uWMWac4
+
+Alternatif library pengganti Moment js
+https://blog.logrocket.com/4-alternatives-to-moment-js-for-internationalizing-dates/?fbclid=IwAR3D4qtKAFtEHCsjW9TeumlgrX1fcjzXIA3hmza1SgJENKZXeHzhS5bwY0I
+
+Beberapa design pattern javascript
+https://levelup.gitconnected.com/basic-javascript-design-patterns-decorators-facades-and-proxies-2309eb485229?fbclid=IwAR30whrbM4PuFT5JBSYWIQLU_FHUR51Q51gvXsKTw6wJyMjxTG_7SjD3nk0
+
+Form validation vanilla JS
+https://www.freecodecamp.org/news/basic-form-validation-in-javascript/?fbclid=IwAR3M4M_rOByMxLNft3Pi7jhvU0H8fkdscd_E8KD4rmAsFm6BOBJ0xUxPygs
+
+Menggunkan promise ke dalam variabel agar bisa digunakan berulang-ulang
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.ashleygrant.com%2F2020%2F04%2F30%2Fresolved-javascript-promises-can-be-used-multiple-times%2F%3Ffbclid%3DIwAR1-Bxc9Zw0pD30wU-8gklrlhoizgdlPTsZAHZUgfdToDq5LjpYoUfG9-M0&h=AT3LQsqZJiVzZKrXr64eclF0_rMLtLLiypjPTVjyQy4yamQcFiwEomMxuG0FdUbH_gxzieW5Z00EDeDMgvoj_0ISlPwBXrzCbJwX37t-2n3coM9sObGDeRV2uyCeQmoXsBAYJiIFOKUjHCArkYfVIxrkkIIjOzeAUHzfLf7p8g6Qbw
+
+Penggunaan debounce atau penundaan eksekusi
+https://dev.to/sashycashy/debouncing-4fn0?fbclid=IwAR1QlygTTnb_2s6UUIAkcW5zy28UQkaiNI97M8EgkehbCMQhM3dXmteeZCI
+
+Autentikasi nuxt dengan nuxt auth0
+https://medium.com/javascript-in-plain-english/nuxt-authentication-made-easy-with-auth0-9c20cc690462?fbclid=IwAR0XrOFEzHPU7JaxoO8DlLrKPUSYHCS4PEq7poWlT27VYE5zLzMoMr-Sfts
+
+Membuat actions di vuex store
+https://medium.com/javascript-in-plain-english/adding-actions-to-a-vuex-store-9d534fb3cac5?fbclid=IwAR1hF6iiyoDI_zGbQYgrX5V43g-YXP5Zaz4DutUpkuJy-SCUWctqDg_655I
+
+latihan menggunakan vuex
+https://medium.com/javascript-in-plain-english/add-simple-state-management-with-vuex-2fada2133a8b?fbclid=IwAR10juhEGe8HOQUptCCTRBdhycWFSqnHAapRcTr8QMedxBSWq-8sJSw1rbs
+
+Aplikasi vue js dengan google place api
+https://l.facebook.com/l.php?u=https%3A%2F%2Fsoftauthor.com%2Fvue-js-google-maps-api-build-a-nearby-places-app%3Ffbclid%3DIwAR2rYfS-wCIvZ6g6FrOvarwCj_SzpZkeyVtNpOJDFwBDv-f8wjV4kSnKzRU&h=AT3Rwa_Y5D7HhEyVCUQJHYyES_RT2CilepHtDM1aNzoOBIhdv1TAdxsQAh3cuKL251dxRgA3lgGpYNAVGKR7WPrBax7VqxEsZuhmQjm8ZM3eXdtmhcPFPOPLa3nhWHvWkVonOMqlayku641n5IbQGfuaV0jttqpX-RhP-FhE3_UhDA
+
+tampilan kotak pencarian dengan keyword vue
+https://l.facebook.com/l.php?u=https%3A%2F%2Fjakzaizzat.com%2Fhow-to-build-vue-search-component%3Ffbclid%3DIwAR30fgte_2AyCq37VMk5ZlN_-Ratte88_EmERSJ7cqJqP19uGvfKq2veSGI&h=AT3nUgrFZP2V7fSW-o4xKg5LAYMFdFB-WH0G16vP13HYiDk9OAOCfTVciKnPX4NFnovneHy9zpM78-khhmabXOC6Nm10HBPIRBB89WL7LnPcAZyf-fZfbvo0Z5tAgvH_-7T9OSATHttxDgWc4MsWHoCwul1GoMBKwH9AZrSXWE4A5A
+
+Vue js Vue cli dan Django
+https://medium.com/js-dojo/django-vue-blazing-content-rich-interactivity-b34e45d8c602?fbclid=IwAR3TIUFKVQ_9JIJAAmVFjSZm2WveakPdxlGySqxBST6EzXRyVlB3k7k8yPU
+
+Aplikasi web React GraphQL Hasura
+https://www.freecodecamp.org/news/how-to-create-a-full-stack-yelp-clone-with-react-graphql/?fbclid=IwAR1XiI2Ad224M9KM9BC71Y5orEnYdY0oC5OTTXVlxFbv2WXp-QVtq4swIHI
+
+MERN Stack dengan bantuan Serverless framework dan AWS Amplify
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-build-a-full-stack-serverless-application-with-react-and-amplify%2F%3Ffbclid%3DIwAR1VUjXjuloMZPmu1A2pBzKflq620klrU4SzcViygmL6M__8OrDdoglj6A4&h=AT0ltCj66IIuWPgJlaLWxbUtj2OnpXbdXUcVl2YNQutXH_uZTvW3dXwbKcJk3o2C_Vl_qZRn8a7qMCho827qLdv12K2AYLbfMokpYdgV9xT6U_312Kq2NDqw-BTRQqsVDDbuWsB3XZZgn8MYwWNV3o6NBzCtRVWOXtFsHa5H_5c7Gw
+
+Axios dalam Rxjs dan Typescript ke dalam React web
+https://medium.com/front-end-weekly/how-to-wrap-axios-inside-rxjs-with-typescript-and-react-6c21e47dcb63?fbclid=IwAR2BboOFH851EgF9GX0my-50ad3AG4URNDvxz5Y9qBA-fZWdx-y3-E1-XYQ
+
+React Apollo graphql Node
+https://www.freecodecamp.org/news/apollo-graphql-how-to-build-a-full-stack-app-with-react-and-node-js/
+
+Pokemon web React
+https://www.freecodecamp.org/news/building-a-simple-pokemon-web-app-with-react-hooks-and-context-api/
+
+System Autentikasi JWT dengan Role system
+https://l.facebook.com/l.php?u=https%3A%2F%2Flevelup.gitconnected.com%2Ftutorial-for-authentication-and-authorization-in-a-node-application-772bef191dae%3Ffbclid%3DIwAR17f8ZAW8Q4kewo6jQQR8kT0eqGmpEpW5Pykr9lpXgNussHLnRNbyb77C0&h=AT1kGToZZoqryvc8WWrMfFrLTk9DYhWHJrrjbrT_cj7e7hbVSqor_WKUXdGEN9SM_DGZDDrSf5dbwwA1HXPzDKwBHbE2lMftedzJkGxjBdOwBM8mItpgEXqcDV7W0ZbjQEA&__tn__=-UK-R&c[0]=AT0FZof1w2Y5nuf9T-E7yxdXlABR2gcmh1L7NIHs14ri_3EE2NiiNh9OWLp3RL57VUav7qducHGJQWb9LpD_26O_TolnSujiTeBCKNk6bhzcGmP3cJseu1OmT2AgWgsMaC6X8Px6g7MlAPlW7Bhddp7cGkdVYZPuWlkzwWIJNjsoXMg2Yn71Z2k
+
+contekan penggunaan sequilize
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fprojectescape%2Fthe-comprehensive-sequelize-cheatsheet-3m1m%3Ffbclid%3DIwAR3Ab9MPOskT6uwOH2e45v9bK79NQPVKPyP391OEuZwDECEbZ94n-uU-RDk&h=AT2cgXmByEWaIbbx8DGkrZtksEVRH2NZ7fdaUtFEx6xPjvLMBzWDPgwXd-2nYvHrszg0ORQNwz4MkbfI-S6D9V0xDVDJLOcozUEeyQqaQ58Vysxr2MoUW-vnuO-II5vHp6o&__tn__=-UK-R&c[0]=AT0FZof1w2Y5nuf9T-E7yxdXlABR2gcmh1L7NIHs14ri_3EE2NiiNh9OWLp3RL57VUav7qducHGJQWb9LpD_26O_TolnSujiTeBCKNk6bhzcGmP3cJseu1OmT2AgWgsMaC6X8Px6g7MlAPlW7Bhddp7cGkdVYZPuWlkzwWIJNjsoXMg2Yn71Z2k
+
+Strategi caching mempercepat proses fetching
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.logrocket.com%2Fcaching-strategies-to-speed-up-your-api%2F%3Ffbclid%3DIwAR2xByrdCKzadai0YaM6yOwRzmp5NLnIVrxrxr006ICgU1M1vWLvvgv9gHo&h=AT3sYlqIp222w5b4c-mDIkQJRJ0LfupeWMaB7DH4t-_tE6W4M7y8c1u8feBFAdSweqJL6gfGRsiCEohG6V2uzyz8eGo2bOCwi2Efi-f6Hw4ZCfKQmjEFE5WCK4xtEBnwlVY&__tn__=-UK-R&c[0]=AT0FZof1w2Y5nuf9T-E7yxdXlABR2gcmh1L7NIHs14ri_3EE2NiiNh9OWLp3RL57VUav7qducHGJQWb9LpD_26O_TolnSujiTeBCKNk6bhzcGmP3cJseu1OmT2AgWgsMaC6X8Px6g7MlAPlW7Bhddp7cGkdVYZPuWlkzwWIJNjsoXMg2Yn71Z2k
+
+web contekan js
+https://l.facebook.com/l.php?u=https%3A%2F%2F1loc.dev%2F%3Ffbclid%3DIwAR26yz3Tyl-phUusicKfLvdBUVIdfMUcaG7vme6VVKCsFA-0SzxiYoSDZbs&h=AT1R7A1IwMADoq4oZLXnK6YUg9E8KqjsQ7kbQEQ0xNamIqrimHt3LY-fn84sWlxOSiZ_BCVtDl2Ox6HNbdXDj1z6Nqi3UFjDzIA8ezf02v4_UhH8GoBRkEng3FBYfP-xMTA&__tn__=-UK-R&c[0]=AT0GfUW5HgT6_l82ssYsVyvo254LHG3lbXZKUxFuOBp_-srRbwm99IO3n8rsm0of_60vrZY79bRoYyR4yXv-zVFmakwILWWeut6pXeGBajJnxiylRsThOovlMwH9M_FjAnQgqxGRLn6Mc3f4VTPpwMeDHunCwngYL05DqV-X2A5WNnw30ZR4L5dOId4
+
+function object javascript
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2Fobject-and-array-methods-to-learn-before-javascript-frameworks-59728dcea306%3Ffbclid%3DIwAR3me8ZNNu8Z1TUsksV4vbyjkTX8Q1AupfTivxniaVmJsr87yqGvyYqVKRc&h=AT1-AqlKrGsvw9pjwzdBwDAlViKOximrs3jmUPZpiGy4Aa0vBR7JFsQUoUtHxarOfYd9GhfPNFmVAbV8vpGNb3Uqmj8900SZYK0daW5swW3OJK44VtoJ0rR8FvDriN1WH_Y&__tn__=-UK-R&c[0]=AT0BU96XA0QzzLVYTDl3b-PMRtaUxiGLgl0TGke0-CLa8Lon57q053WoIiLpGXMWPpzG5UrR5MHPlqIcyU3xm2iNZuQmFYiD6lEPBW2MP6AZAHf4Jd8uDkoXdmtjFrWhPaFZgXetAbJBpWITkQY5BoeNcJ4UovJPkY3xpEX3FW3Kq2WaR_9UPmY7hz7Q
+
+MERN Stack aplikasi penjualan
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fbasir%2Freact-node-tutorial-full-ecommerce-in-5-hours-2020-1hha%3Ffbclid%3DIwAR1rXJqUw0qONW1hA1qTHaUvrscvG1O9AKsuX-k0H6UkMm42-10182-Qtmw&h=AT1Uev8jNYa_mIUz6l9jeVFCJT8h5ezgy6tRCL4DpOgG1BzBYVEO8X2iwwCnzvjgtWTE5p4ChUNPQjeVeZBmTMXqg6hJ7bYc7k8OybI7AW4rmZSLTjO-ye63sxPeNoeTBkw&__tn__=-UK-R&c[0]=AT2-qYUNVpjNW1TYb50-ilHU7rXwPt_LljEdjnpaI3k8wpjrcjB9Bbo4iEuehlKU5uGQLiuwn9f5C1RkFhugr-GYnFVcDKL66jznrngQ1uSvhrPSG7rzuczvR1_Utwzo0lmTMlxTHMKgDKRnoX4zCyNmRHj5d9n3BjuOeBcJ9zM-l4ZY4piyStsOn0t4
+
+Datepicker js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ma-no.org%2Fen%2Fprogramming%2Fjavascript%2Fbest-open-source-javascript-date-picker-plugins-and-libraries%3Ffbclid%3DIwAR1KqHj7HPWGt6T6n2BhH8cS4az_OiOo7SrZ-GGjUb9cHQF9XAaUtrZ8tN4&h=AT2PWE1sHTKQSyYhoETwM9dLCMvL03P1kE9KdZOtEdM0p7l9YwUjo4_TKE6UBtMcl4E_NUD0BaGVUfyuhecCNlfWKwtN33ZaSdCXKlwdxhi6HRJrgSmSDygLktewR09SyfA&__tn__=-UK-R&c[0]=AT0koNFnj_zj6rbutV9wwzJhsIh50nlYun4RcZRfEswiGO06NLnmf7GuDkI1fqnRULUdti8EUbJtc_--ePISGzRIVIW_taENOmDo3SmOJTRJs5quTiD1p_0-quwtFTjclXOIMRxVdmdiqtOWfswkiQWMZ9u62Lcofu2VzXFx9CdipGvGmcyoaeA25SI
+
+Animasi js
+https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fjavascript-in-plain-english%2F7-javascript-animation-libraries-you-can-use-right-now-b5ae28dd8b4a%3Ffbclid%3DIwAR17f8ZAW8Q4kewo6jQQR8kT0eqGmpEpW5Pykr9lpXgNussHLnRNbyb77C0&h=AT1DzAQvRh6mrxOUpc94fIq4lTihrg3a2TS9JcEZG6alTMQhWc191Bu3wShcrb1Uuiuqa9CnKFiaafm4bS_PVPNBtgGzFJq8KuYqo9rKGXl8a2cCha7CWltnuKSQ_k9xy6I&__tn__=-UK-R&c[0]=AT0koNFnj_zj6rbutV9wwzJhsIh50nlYun4RcZRfEswiGO06NLnmf7GuDkI1fqnRULUdti8EUbJtc_--ePISGzRIVIW_taENOmDo3SmOJTRJs5quTiD1p_0-quwtFTjclXOIMRxVdmdiqtOWfswkiQWMZ9u62Lcofu2VzXFx9CdipGvGmcyoaeA25SI
+
+Sitem Autentikasi NODE JS dengan oauth 2.0
+https://l.facebook.com/l.php?u=https%3A%2F%2Fblog.logrocket.com%2Fimplementing-oauth-2-0-in-node-js%2F%3Ffbclid%3DIwAR06hQxUtXs2kmKvF7qUrThzytaKacywstOucq-FNnsZRicJK2rtXueVHcY&h=AT0ZuJ651ZDc5H3FqvFSOLIqt5YToUB03uPMDyj7bBV5WNeTonKxW9-d6Dd1oM_AzQYPSzZBc_B6ZtWl29-uycZWzHjtrq-zBcAoFWuUcaaEbMh8PakIxr-oE1I-9TYXOAM&__tn__=-UK-R&c[0]=AT2MqCXCo3df6JR-_GLAbc-oW5rJU6Kmq_yetY3CsNhAQyrT8JM5JpIHY3oSGGBJXvgstYcI2_737w2SHi_LY7GueYijzwLSLBzvUpibY0Fdet3mVY5kH6tolV4GwavVK4sI_d4tlC0IDg7i5YfKdMc7QozZU2_8gSvwoIK8oOTGgWKGmIILtR-TJ4KB
+
+Mengirim dan menerima cookies di express
+https://l.facebook.com/l.php?u=https%3A%2F%2Falligator.io%2Fnodejs%2Fexpress-cookies%2F%3Ffbclid%3DIwAR038UNXEIqxWztJqXXJ-a_pIk_NQSKflOTzsDqAJdkk0hamQ1F9WBohKoc&h=AT0tbwPXwb318mSDRVZxTd-AXElxbKR6I6hcTKtkTu1TGDQqg7ccaDblDxhgbDG-7QbQy4RnaSGuOZgzWiba4j2FeT2paAEdIrcoRu3qT6S092u2t9KsPq6BGkuSUhXHUFM&__tn__=-UK-R&c[0]=AT2MqCXCo3df6JR-_GLAbc-oW5rJU6Kmq_yetY3CsNhAQyrT8JM5JpIHY3oSGGBJXvgstYcI2_737w2SHi_LY7GueYijzwLSLBzvUpibY0Fdet3mVY5kH6tolV4GwavVK4sI_d4tlC0IDg7i5YfKdMc7QozZU2_8gSvwoIK8oOTGgWKGmIILtR-TJ4KB
+
+Menjalankan cron job di NODE dengan node cron
+https://l.facebook.com/l.php?u=https%3A%2F%2Falligator.io%2Fnodejs%2Fnode-cron%2F%3Ffbclid%3DIwAR3VLJ09sYKUn31n582hCeCUIVZpdyR-zDzTqT0K2dHpAeTyH1nC-Jf5zHw&h=AT3x65RqO5R1NqG10nvqlgpZ4qfa0MlzFzsRAliFU4Ir7dkl15tzdALFUAIgDieNtfh2-z8mo69daMH0z127Ol4hg582BwmiKzS1iISeippEHIYJq7ef7_Q3W5k5lwM5-54&__tn__=-UK-R&c[0]=AT2MqCXCo3df6JR-_GLAbc-oW5rJU6Kmq_yetY3CsNhAQyrT8JM5JpIHY3oSGGBJXvgstYcI2_737w2SHi_LY7GueYijzwLSLBzvUpibY0Fdet3mVY5kH6tolV4GwavVK4sI_d4tlC0IDg7i5YfKdMc7QozZU2_8gSvwoIK8oOTGgWKGmIILtR-TJ4KB
+
+Membuat dan mengatur JWT di Express
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.digitalocean.com%2Fcommunity%2Ftutorials%2Fnodejs-jwt-expressjs%3Ffbclid%3DIwAR3VLJ09sYKUn31n582hCeCUIVZpdyR-zDzTqT0K2dHpAeTyH1nC-Jf5zHw&h=AT1pwyGWQU75iRoZvjDMPre_hPy--MCKcb5-pXfyz2FyOR_w_oAdS0WTop8BeFluKO9E6b2pPPkBtTGOWE1PecC6bE4Gg_BqO0xemWb6GOXIw2RAIKoPRvir1xAqG5B4Ni0&__tn__=-UK-R&c[0]=AT2MqCXCo3df6JR-_GLAbc-oW5rJU6Kmq_yetY3CsNhAQyrT8JM5JpIHY3oSGGBJXvgstYcI2_737w2SHi_LY7GueYijzwLSLBzvUpibY0Fdet3mVY5kH6tolV4GwavVK4sI_d4tlC0IDg7i5YfKdMc7QozZU2_8gSvwoIK8oOTGgWKGmIILtR-TJ4KB

@@ -1,0 +1,54 @@
+navigation drawer sidebar with Tailwind
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Ffayazara%2Fmaking-a-navigation-drawer-sliding-sidebar-with-tailwindcss-blueprint-581l%3Ffbclid%3DIwAR1fxvDp3M-kc62Axz8ffhkOBMv10zkkTtFYlJQGz3kDsjptlqjAquxsSQE&h=AT0qTcHpAyHudfzZWqhF8MDsWUV6q3t_tNQG61i5knt4kfxrUZhdRml3cJ-D_rXRSyhV0H-S-toKJCEwk6R14-7z5S6NKu0DeCpl1zTZLac9Kx7wCIaSCK7-jqzImkZOmsU&__tn__=-UK-R&c[0]=AT2jIgqtjn9XAQPbrLp-CGOk6sIbPb8FHI-_C-YhUVkYPlHizTDEzHQE-wRlxDxfoDtrvNKBkEXSIVaafJI7rUSLEVXGl7XtO5uAbTEjKe6pd8KdhTQZmCCo5ybEMUgWFiwdNNSX5fxtq0XDpi19sgkdWVR1b9oIab06_nql4OqDbuqbGVWWfCNvgcs
+
+Scroll to top HTML CSS
+https://l.facebook.com/l.php?u=https%3A%2F%2Flevelup.gitconnected.com%2Fscroll-to-the-top-of-page-1cce3446808%3Ffbclid%3DIwAR12h_oMk2TOHrpe09NJuyxn2wKUDtMHNtkIT052kf1tqI6QicG2yuliyuE&h=AT3GlInQo-gZs_Xcph4mjQuHh6XmM3gUhNBmdLOVzblzmaY6XEaXyklNUnyA8LiDjxcwMCNvF-x3R3t3Vl1X_eGwLvxhWLiWhx6-DyMRmVZ8EL03YzPzEVCua68tXqOtnKM&__tn__=-UK-R&c[0]=AT2jIgqtjn9XAQPbrLp-CGOk6sIbPb8FHI-_C-YhUVkYPlHizTDEzHQE-wRlxDxfoDtrvNKBkEXSIVaafJI7rUSLEVXGl7XtO5uAbTEjKe6pd8KdhTQZmCCo5ybEMUgWFiwdNNSX5fxtq0XDpi19sgkdWVR1b9oIab06_nql4OqDbuqbGVWWfCNvgcs
+
+aplikasi cli membuat layout dalam bentuk css grid
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdev.to%2Fsaunved%2Fa-cli-tool-for-creating-css-grid-layouts-2aj4%3Ffbclid%3DIwAR21DJiD02j70nODmeVRMVJQlFMyvhVwa5sdzlek7Mvymk4Ju1OQ6SK4GsA&h=AT2Eso8HIC-gR8tZ0_enQdl6OInVtQryNtrpaC-JaYNGWcQmVknE0f3alhBWXTpWkC_Z6qxQ8NSHweuqitIWgDSviXJ3DWDuwKcFftoMWbXLLN07oTZbXpFHc3NMD_6XcgU&__tn__=-UK-R&c[0]=AT2jIgqtjn9XAQPbrLp-CGOk6sIbPb8FHI-_C-YhUVkYPlHizTDEzHQE-wRlxDxfoDtrvNKBkEXSIVaafJI7rUSLEVXGl7XtO5uAbTEjKe6pd8KdhTQZmCCo5ybEMUgWFiwdNNSX5fxtq0XDpi19sgkdWVR1b9oIab06_nql4OqDbuqbGVWWfCNvgcs
+
+Komparasi antara Flexbox dan CSS Grid untuk membuat layout HTML
+https://www.freecodecamp.org/news/flexbox-vs-grid-how-to-build-the-most-common-html-layouts/
+---
+Sejarah tentang desain  responsive layout dengan CSS
+https://www.freecodecamp.org/news/history-of-responsive-web-design/
+---
+Beberapa cara untuk membuat element text menjadi ke tengah element yang lain
+https://www.freecodecamp.org/news/html-center-text-how-to-css-vertical-align-a-div/
+
+
+Membuat kustomisasi pada bullet point di dalam List HTML dengan bantuan CSS dan Pseudo Element
+https://web.dev/css-marker-pseudo-element/
+---
+Beberapa cara membuat tampilan halaman menjadi responsive dengan CSS 
+https://css-tricks.com/beyond-media-queries-using-newer-html-css-features-for-responsive-designs/
+---
+Beberapa contoh penggunaan element HTML5 dan fitur baru di dalamnya
+https://dev.to/vaibhavkhulbe/it-s-time-to-supercharge-your-html-skills-5b6k
+---
+Membuat Tooltips dengan CSS murni
+https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/
+
+
+Optimasi performa aplikasi web dengan mengurangi blocking render halaman karena CSS dan Javascript
+https://dev.to/prototyp/improving-website-performance-by-eliminating-render-blocking-css-and-javascript-28ei
+---
+Panduan menggunakan CSS Grid untuk tampilan halaman web
+https://levelup.gitconnected.com/css-grid-a-comprehensive-overview-64c7b60bb0d6
+---
+Panduan dasar penggunaan CSS bagi pemula
+https://levelup.gitconnected.com/the-ultimate-css-guide-for-beginners-in-2020-a2274d540011
+----
+Tips penting untuk membuat posisi header di dalam tabel tetap di atas atau Sticky
+https://levelup.gitconnected.com/creating-an-html-table-with-fixed-headers-in-2-steps-adcac409e4d3
+
+
+Menggunakan Bootstrap 5 di production dengan bantuan Material Design Bootstrap Framework
+https://blog.bitsrc.io/using-a-stable-bootstrap-v-5-on-production-1d48e393614a
+---
+Konfigurasi tema warna CSS dengan CSS Custom Property
+https://www.smashingmagazine.com/2020/08/application-color-schemes-css-custom-properties/
+---
+Contoh penggunaan SASS dan SCSS untuk tema aplikasi web
+https://dev.to/christinegaraudy/getting-sassy-with-css-an-introduction-to-css-and-its-powerful-preprocessor-3k3b
+---
