@@ -673,3 +673,101 @@ http://thecodebarbarian.com/whats-new-in-mongoose-5-10-improved-transactions.htm
 ---
 Catatan rilis Yarn 2.2 dengan banyak peningkatan dan perbaikan disana sini
 https://dev.to/arcanis/yarn-2-2-dedupe-faster-lighter-ha5
+
+
+Tips optimasi dan performansi aplikasi backend Node JS dengan Libuv Thread Pool
+https://dev.to/johnjardincodes/increase-node-js-performance-with-libuv-thread-pool-5h10
+---
+Tips dan trik mendesain backend REST API dengan Express JS
+https://dev.to/simonplend/5-best-practices-for-building-a-modern-api-with-express-2054
+Tips membuat router atau routing di Express JS yang mudah dikembangkan
+https://dev.to/lutif/how-to-write-a-scalable-router-for-express-in-nodejs-cfo
+---
+Membuat Telegram Bot untuk komunikasi ke Google Sheets API dan deploy me Google Cloud Engine
+https://dev.to/hukuta/telegram-bot-for-google-sheets-in-cloud-3akc
+---
+Latihan berseri melakukan proses baca dan tulis ke Google Sheets API  dengan Node JS 
+https://dev.to/dailydevtips1/node-js-write-data-in-a-google-sheet-74d
+—-
+
+
+Beberapa pendorong Node JS semakin banyak dipakai dalam pembuatan aplikasi web di bagian front end, backend server, dan aplikasi multi platform
+https://dev.to/alexeychang/why-node-js-for-web-development-in-2020-2ebc
+—-
+Tips dan trik dari pengembang Telegram Bot yang sukses mendapatkan 10 ribu pelanggan bot.
+https://dev.to/rafaelcalpena/lessons-i-ve-learned-from-building-a-covid-19-bot-with-10k-users-on-telegram-5da0
+—-
+Cara mengecek package NPM yang perlu diperbarui atau belum dipasang tetap dibutuhkan oleh dependency yang lain.
+https://dev.to/katepapineni/how-to-check-for-missing-unused-or-out-of-date-javascript-dependencies-34i5
+---
+Mengenal penggunaan environment NODE_ENV dan beberapa enviroment lainnya di Node JS
+https://dev.to/koistya/demystifying-nodeenv-var-kjc
+----
+Otomasi pengujian endpoint API Node JS backend dengan bantuan Postman  
+https://www.smashingmagazine.com/2020/09/automate-api-testing-postman/
+
+
+Review Strapi CMS yang berbasis Node JS yang cocok sebagai pengganti wordpress
+https://levelup.gitconnected.com/should-i-use-strapi-on-my-next-project-ec2daa7df11c
+---
+Cara membaca file CSV di Node JS dengan bantuan library Node CSV
+https://stackabuse.com/reading-and-writing-csv-files-in-nodejs-with-node-csv/
+---
+Contoh penggunaan Error Class sebagai Error Handling di Node JS
+https://www.smashingmagazine.com/2020/08/error-handling-nodejs-error-classes/
+---
+Latihan panjang membuat aplikasi CLI untuk Terminal dengan Node JS
+https://livecodestream.dev/post/2020-09-05-learn-how-to-build-cli-automation-tools-with-nodejs/
+---
+Cara mengunggah file data dengan Multer , Express JS, Node JS,  bersamaan dengan field form data dalam bentuk Multipart Form Data.
+https://medium.com/developer-rants/uploading-form-fields-and-files-at-the-same-time-with-multer-node-js-typescript-c1a367eb8198
+—-
+Latihan membuat GraphQL server dengan Express JS 
+https://medium.com/@alonbraymok007/simple-graphql-server-with-nodejs-and-express-5c05e7b96cf4
+—-
+
+
+Tips dan trik keamanan terbaik untuk mengamankan aplikasi server Node JS dari AppSignal
+https://dev.to/appsignal/security-best-practices-for-node-js-5f4i
+—-
+Latihan membuat CRUD REST API dengan Node JS Express dan PostgreSQL
+https://dev.to/rajandmr/node-js-rest-crud-api-with-postgres-213p
+—
+Penggunaan Knex JS untuk ORM ke PostgreSQL
+https://dev.to/devinclark/knex-js-and-postgres-3470
+—-
+Membuat sistem login Authentication dengan Express JS, Node JS, dan MySQL
+https://dev.to/jeremiahiro/simple-login-with-node-js-express-and-mysql-1o0c
+—-
+Menggunakan fungsi Populate di Mongoose untuk mengambil data dari beberapa Collection Document MongoDb.
+https://dev.to/paras594/how-to-use-populate-in-mongoose-node-js-mo0
+—-	
+
+
+Memperkenalkan library Print JS , library untuk membantu print halaman dan print data di bagian browser ke bentuk PDF ataupun dokumen.
+https://printjs.crabbly.com/
+
+
+Integrasi Sederhana Express JS Dengan Redis
+https://medium.com/javascript-indonesia-community/integrasi-sederhana-expressjs-dengan-redis-fb180df8b74b
+--
+Artikel terbaru sebelumnya yang menarik
+Express Js MongoDB CRUD Part 1
+https://medium.com/javascript-indonesia-community/express-js-mongodb-crud-part-1-1d5aba5e3629
+--
+
+Menggunakan template AdminBro untuk admin dashboard aplikasi Express JS dan Node JS
+https://medium.com/better-programming/create-an-admin-panel-with-node-js-and-admin-bro-1dbbbaecfd81
+—-
+Latihan membuat aplikasi CLI dengan Node JS
+https://medium.com/better-programming/learn-to-build-cli-automation-tools-with-node-js-fcca4c0418cb
+—-
+Cara melakukan Task Scheduling di Node JS dengan MongoDb
+https://medium.com/yudiz-solutions/dynamic-task-scheduling-with-nodejs-and-mongodb-43052fdd811f
+—-
+Referensi struktur project Node JS dengan Express JS
+https://blog.soshace.com/how-to-architect-a-node-js-project-from-ground-up/
+https://dev.to/shadid12/how-to-architect-a-node-js-project-from-ground-up-1n22
+---
+Referensi beberapa package Node JS yang sering dipakai pengembang
+https://medium.com/better-programming/12-useful-packages-every-node-js-developer-should-know-2746db760e

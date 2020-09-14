@@ -1,0 +1,14 @@
+Membuat halaman Shopping Cart dengan Svelte JS dan Sapper
+https://blog.bitsrc.io/getting-started-with-sveltejs-building-a-shopping-cart-with-code-snippets-71e1603b4449
+—-
+Konfigurasi Tailwind CSS dan  PostCSS pada Svelte Sapper JS
+https://dev.to/codechips/solid-sapper-setup-with-postcss-and-tailwind-1mbo
+—-
+Konfigurasi Environment Variables pada project Svelte JS dan TypeScript 
+https://dev.to/jancassio/adding-environment-variables-to-svelte-typscript-project-4phk
+—-
+Latihan pengenalan Svelte JS dengan membuat aplikasi Counter sederhana
+https://dev.to/alexmercedcoder/svelte-learn-the-basics-of-this-fast-framework-with-small-bundles-13pk
+—-
+Komparasi antara Svelte Sapper dengan Vue JS
+https://dev.to/divporter/svelte-sapper-vs-vue-2dnk

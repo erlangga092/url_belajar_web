@@ -233,3 +233,62 @@ https://reactgo.com/javascript-get-path/
 ---
 Cara sederhana menggunakan lazy loading pada gambar
 https://dev.to/prototyp/best-way-to-lazy-load-images-for-maximum-performance-27o1
+
+
+Memahami penggunaan Arrow Function di Javascript dengan contoh kasus sederhana
+https://dmitripavlutin.com/javascript-arrow-functions/
+---
+Pengenalan fungsi Async Await dengan contoh kasus penggunaannya
+https://dmitripavlutin.com/javascript-async-await/
+---
+Trik menarik dan sangat berguna untuk melakukan untuk melakukan import library Javascript dari CDN langsung, dengan menggunakan Async Await dan Promise 
+https://css-tricks.com/import-non-esm-libraries-in-es-modules-with-client-side-vanilla-js/
+https://lea.verou.me/2020/07/import-non-esm-libraries-in-es-modules-with-client-side-vanilla-js/
+---
+Beberapa fungsi Object yang penting , untuk memanipulasi isi Object dan mengambil isi dari Object
+https://levelup.gitconnected.com/learning-javascript-computing-with-object-methods-6bd194afd568
+
+
+Nah ini dia, siapin kopi dan gorengan, Florin Pop merilis course latihan panjang untuk belajar Javascript Modern. Course ini terdiri dari pembuatan 10 project Javascript HTML CSS yang dapat dicoba langsung.
+https://dev.to/florinpop17/10-javascript-projects-in-10-hours-coding-challenge-316d
+----
+Florin Pop juga merilis course membuat 10 project Javascript dalam waktu 1 jam saja.
+https://youtu.be/8GPPJpiLqHk
+---
+Membuat fungsi pencarian element di dalam Array dengan Linear Search dan Binary Search
+https://dev.to/imranib/javascript-searching-algorithms-2il2
+---
+Latihan sederhana pengenalan object "this" di Javascript dan contoh penggunaannya
+https://dev.to/denisveleaev/6-simple-rules-to-fully-understand-this-keyword-in-javascript-1kmk
+---
+
+
+Latihan dari Dcode tentang membuat Navigation header yang bersifat responsive 
+https://youtu.be/F-yDkTqkAO8
+---
+Latihan dari channel Junior Developer Central tentang penggunaan Getter dan Setter di dalam Class Javascript
+https://youtu.be/8fo-K7zRv0Y
+---
+Latihan membuat Synthesizer dengan Web Audio API dan Javascript
+https://dev.to/iamschulz/building-a-synthesizer-in-javascript-l3l
+---
+
+Daftar snippet atau potongan kode untuk tips JavaScript modern yang sering dipakai
+https://dev.to/atapas/my-favorite-javascript-tips-and-tricks-4jn4
+—-
+Belajar Javascript dengan membuat game ular ularan
+https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh
+---
+Menambahkan field ke dalam Object dengan syarat kondisi tertentu
+https://levelup.gitconnected.com/how-to-add-object-fields-conditionally-in-javascript-c15374ab2190
+---
+
+
+Beberapa fitur baru di ES2021 yang membuat Javascript semakin powerful
+https://blog.bitsrc.io/the-4-new-features-coming-in-ecmascript-2021-6fa24684b99b
+---
+Melihat fitur baru di Javascript ES2020 yang sudah dapat dipakai dengan bantuan Babel Transpiller 
+https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2
+---
+Penggunaan String Template Literals untuk manipulasi baris String 
+https://www.freecodecamp.org/news/javascript-string-format-how-to-use-string-interpolation-in-js/

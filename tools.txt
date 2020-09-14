@@ -1,0 +1,20 @@
+vue static navbar shadow with tailwinds
+https://dev.to/chipd/tailwind-css-static-navbar-with-shadow-on-scroll-for-vue-applications-46o5
+
+
+Kumpulan Tips Seputar CSS
+https://css-tricks.com/
+Kumpulan Tips Seputar Javascript 
+https://www.jstips.co/
+Kumpulan Tips Produktif
+https://www.lifehack.org/
+Kumpulan CSS dan JS browserhacks untuk fix browser specific bug (Powered by BrowserStack)
+http://browserhacks.com/
+Bootstrap 4 Cheatsheet
+https://hackerthemes.com/bootstrap-cheatsheet/#flex-column
+Bootstrap 5 (Alpha) Cheatsheet
+https://bootstrapcreative.com/resources/bootstrap-5-cheat-sheet-classes-index/
+HTML Cheatsheet
+https://htmlcheatsheet.com/
+SEO Cheatsheet (termasuk contoh penggunaan meta tag yang SEO friendly)
+https://9elements.com/seo-cheat-sheet/

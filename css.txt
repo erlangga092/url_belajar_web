@@ -52,3 +52,30 @@ https://www.smashingmagazine.com/2020/08/application-color-schemes-css-custom-pr
 Contoh penggunaan SASS dan SCSS untuk tema aplikasi web
 https://dev.to/christinegaraudy/getting-sassy-with-css-an-introduction-to-css-and-its-powerful-preprocessor-3k3b
 ---
+
+
+Beberapa latihan dari channel Online Tutorials tentang membuat project sederhana untuk mengasah kemampuan HTML - CSS - Javascript modern
+https://youtu.be/3gKhcPLOFdA
+---
+Membuat animasi Hover pada element Card layout
+https://youtu.be/-Rv1dbvM1EY
+---
+Latihan penting sekali membuat Sticky Element pada komponen HTML tertentu, sehingga ketika di scroll akan tetap Sticky pada posisi tertentu
+https://youtu.be/DNHKrXeu4YQ
+----
+
+
+Membuat Sticky Header dan Footer dengan bantuan CSS Grid dan Flexbox 
+https://css-tricks.com/how-to-use-css-grid-for-sticky-headers-and-footers/
+---
+Mengatur CSS Media Query dengan Javascript
+https://css-tricks.com/working-with-javascript-media-queries/
+---
+Tips yang sering dilakukan ketika berkutat dengan CSS 
+https://dev.to/dailydotdev/my-5-practical-css-tips-1ilj
+---
+Cara melakukan testing HTML Canvas dengan Cypress 
+https://www.valentinog.com/blog/canvas/
+---
+Latihan menggunakan parameter Perspective di dalam CSS 
+https://css-tricks.com/how-css-perspective-works/

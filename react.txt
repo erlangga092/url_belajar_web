@@ -144,3 +144,30 @@ https://dev.to/stlnick/how-to-deploy-a-full-stack-mern-app-with-heroku-netlify-n
 ---
 Cara deploy aplikasi web React JS ke Firebase Hosting dengan Github Actions
 https://levelup.gitconnected.com/how-to-deploy-a-react-app-to-firebase-using-github-actions-step-by-step-11367e0627d5
+
+
+Latihan membuat Contact Form berbentuk email dengan React, Email JS , dan Sweetalert 
+https://levelup.gitconnected.com/get-connected-with-others-by-adding-a-contact-form-to-your-react-site-583b8b9e372f
+--
+Melakukan deploy contoh aplikasi Contact Form React ke layanan Netlify Functions
+https://dev.to/ishamjassat/build-and-deploy-a-serverless-reactjs-contact-form-with-nodemailer-and-netlify-functions-532e
+----
+Latihan sederhana membuat fungsi upload gambar dari front end React ke backend Node JS
+https://dev.to/austinbrownopspark/how-to-upload-and-serve-photos-using-react-node-express-36ii
+---
+
+
+Latihan berseri dan panjang membuat aplikasi Point of Sale POS dengan MERN Stack. Bagian ini membahas Export PDF, Excel, CSV, Bulk Delete, dan Inline Editing Table
+https://blog.soshace.com/create-simple-pos-with-react-js-node-js-and-mongodb-14-export-pdf-excel-csv-bulk-delete-inline-editing/
+---
+Membuat blog dengan Next JS dan implementasi library Markdown MDX 
+https://www.smashingmagazine.com/2020/09/build-blog-nextjs-mdx/
+---
+Latihan panjang penerapan TypeScript pada React dan Redux
+https://dev.to/ibrahima92/how-to-use-redux-in-your-react-typescript-app-4nck
+---
+Menggunakan Parcel JS sebagai build system project React JS
+https://levelup.gitconnected.com/how-to-create-a-minimal-react-and-parcel-app-in-5-steps-2806fa09a371
+---
+Latihan membuat kloning library Recoil JS State Management
+https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/

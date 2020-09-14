@@ -225,3 +225,37 @@ https://vuejsdevelopers.com/2020/07/20/code-coverage-vue-cypress/
 Artikel tentang kelebihan penggunaan Vue CLI dan 
 https://vuejsdevelopers.com/topics/vue-cli/
 ---
+
+Ionic sekarang mendukung Vue JS 3 di versi Beta terbarunya
+https://ionicframework.com/blog/announcing-the-new-ionic-vue-beta/
+---
+Membuat aplikasi chat dengan Nuxt JS , Firebase , dan NativeScript
+https://levelup.gitconnected.com/building-chat-app-using-firebase-cross-platform-with-mobile-app-nativescript-web-app-nuxtjs-44b5984e7b7a
+---
+Membuat toggle Component dengan Vue JS 
+https://dev.to/vaibhavkhulbe/create-a-custom-toggle-component-in-vue-js-1ipi
+---
+Membuat aplikasi e-commerce dengan Nuxt JS dan Strapi CMS
+https://snipcart.com/blog/strapi-nuxt-ecommerce-tutorial
+---
+Cara sederhana menambahkan Dark Mode ke aplikasi Vue Vite 
+https://dev.to/suniljoshi19/implementing-dark-light-mode-in-your-vue-vite-application-43oo
+---
+Latihan pengenalan Vue JS dengan membuat aplikasi Todo List
+https://dev.to/jarodpeachey/build-a-todo-list-app-with-vuejs-2hm2
+---
+Membuat database aplikasi resep dengan Fauna Db dan Vue JS
+https://dev.to/ttntm/how-i-built-a-serverless-recipes-app-with-faunadb-and-vue-js-8dk
+---
+
+Cara memasang Ant Design ke dalam aplikasi Nuxt JS
+https://css-tricks.com/setting-up-and-customizing-the-ant-design-system-in-a-nuxt-app/
+---
+Pengenalan penggunaan Keycloak di Vue JS, layanan untuk sistem Authentication yang dapat dipasang di server sendiri
+https://medium.com/js-dojo/authentication-made-easy-in-vue-js-with-keycloak-c03c7fff67bb
+---
+Tips optimasi SEO untuk aplikasi Nuxt JS 
+https://medium.com/js-dojo/make-your-nuxtjs-application-seo-friendly-7d6a10612e69
+—-
+Latihan sederhana pembuatan blog dengan Nuxt JS dan Nuxt Content
+https://dev.to/lauragift21/build-a-blog-using-nuxt-js-content-module-37dc

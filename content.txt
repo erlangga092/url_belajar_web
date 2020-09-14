@@ -1,0 +1,79 @@
+- upgrade php 5 ke php 7
+- shortcut windows 7
+- best performance windows 7
+- troubleshoot
+- install ulang windows 7
+- screenshot dengan pictsreen
+- f12 mode developer
+- belajar html
+- belajar css
+- belajar php dasar
+- belajar javascript dasar
+- belajar dom
+- vue
+- react
+- nuxt 
+- next
+- formatdata
+- readfileasync
+- ganti bahasa
+- google analytics nuxt
+- markdown di next
+- markdown di nuxt
+- membuat static blog dengan next
+- membuat static blog dengan nuxt
+- next contentful
+- nuxt contentful
+- tips ecmascript
+- sublime text text editor
+- regex
+- vscode editor
+- emmet sublime text
+- setting react for sublime text
+- theme ayu for sublimet text
+- font rekomendasi
+- unlimited smallpdf
+- transform file dengan smallpdf
+- download gambar dengan extension one click downloader
+- membuat navbar responsive
+- font rekomendasi web
+- font text editor rekomendasi
+- membuat form dengan css
+- membuat card dengan css
+- css flex
+- css grid
+- scoll to top dengan vanilla js
+- telepon seluler
+- ufi, miracle box, easy jtag
+- google search console
+- membuat sitemap
+- mengganti font desktop atau windows
+- mengganti background foto dengan photoshop
+- spss crack
+- analisis data spss
+- rekomendasi situs jurnal untuk skripsi
+- tips tips skripsi
+- laravel
+- mysql
+- codeigniter
+- tailwind css
+- bootstrap
+- node js mysql
+- node js mongodb
+- aplikasi sederhana fullstack react node mongodb
+- dompdf
+- text boundaries microsoft word
+- space untuk karya ilmiah seperti skripsi, makalah
+- psiphon
+- daftar situs lowongan kerja
+- postman
+- mp3hc
+- folder options
+- windows 7 activated
+- idm crack
+- aplikasi lighthouse
+- aplikasi wappalyzer
+- github tabs
+- git
+- deploy aplikasi ke vercel
+- deploy aplikasi ke netlify
